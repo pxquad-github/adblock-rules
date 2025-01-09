@@ -1,0 +1,79 @@
+! =========================================================================================================
+! RFD_PRODUCT
+! This will help filter out posts from places you don't care about (i.e., on the other side of the country)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =========================================================================================================
+
+! BRITISH COLUMBIA
+forums.redflagdeals.com##li.topic.row:has-text("Vancouver")
+forums.redflagdeals.com##li.topic.row:has-text("BC")
+forums.redflagdeals.com##li.topic.row:has-text("B.C")
+forums.redflagdeals.com##li.topic.row:has-text("metrotown")
+
+! ALBERTA
+forums.redflagdeals.com##li.topic.row:has-text("Edmonton")
+forums.redflagdeals.com##li.topic.row:has-text("Calgary")
+forums.redflagdeals.com##li.topic.row:has-text("Alberta")
+
+! MANITOBA
+forums.redflagdeals.com##li.topic.row:has-text("WINNIPEG")
+
+! ONTARIO
+forums.redflagdeals.com##li.topic.row:has-text("Hwy 427")
+forums.redflagdeals.com##li.topic.row:has-text("Oshawa")
+forums.redflagdeals.com##li.topic.row:has-text("Massey")
+forums.redflagdeals.com##li.topic.row:has-text("Richmond Hill")
+forums.redflagdeals.com##li.topic.row:has-text("Etobicoke")
+forums.redflagdeals.com##li.topic.row:has-text("Scarborough")
+forums.redflagdeals.com##li.topic.row:has-text("Yorkdale")
+forums.redflagdeals.com##li.topic.row:has-text("Danforth")
+forums.redflagdeals.com##li.topic.row:has-text("Ottawa")
+forums.redflagdeals.com##li.topic.row:has-text("STC location")
+forums.redflagdeals.com##li.topic.row:has-text("Markham")
+forums.redflagdeals.com##li.topic.row:has-text("Mavis")
+forums.redflagdeals.com##li.topic.row:has-text("GTA")
+forums.redflagdeals.com##li.topic.row:has-text("Cloverdale")
+forums.redflagdeals.com##li.topic.row:has-text("Ottawa")
+forums.redflagdeals.com##li.topic.row:has-text("Eglington")
+forums.redflagdeals.com##li.topic.row:has-text("Vaughan")
+forums.redflagdeals.com##li.topic.row:has-text("Dufferin")
+forums.redflagdeals.com##li.topic.row:has-text("Winnipeg")
+forums.redflagdeals.com##li.topic.row:has-text("YYZ")
+forums.redflagdeals.com##li.topic.row:has-text("Oakville")
+forums.redflagdeals.com##li.topic.row:has-text("North York")
+forums.redflagdeals.com##li.topic.row:has-text("Peterborough")
+
+! QUEBEC
+forums.redflagdeals.com##li.topic.row:has-text("Brossard")
+forums.redflagdeals.com##li.topic.row:has-text("Laval")
+forums.redflagdeals.com##li.topic.row:has-text("Montreal")
+forums.redflagdeals.com##li.topic.row:has-text("Quebec")
+forums.redflagdeals.com##li.topic.row:has-text("Sherbooke")
+forums.redflagdeals.com##li.topic.row:has-text("Québec")
+forums.redflagdeals.com##li.topic.row:has-text("QC ")
+forums.redflagdeals.com##li.topic.row:has-text("QC-only")
+
+! GENERAL CANADA
+forums.redflagdeals.com##li.topic.row:has-text("Western Canada")
+forums.redflagdeals.com##li.topic.row:has-text("Maritime")
+
+
+
+
+
+
+! FUN AND SUN
+forums.redflagdeals.com##li.topic.row:has-text("Barbados")
+forums.redflagdeals.com##li.topic.row:has-text("Cuba")
+forums.redflagdeals.com##li.topic.row:has-text("Mexico")
+
+! EUROPE
+forums.redflagdeals.com##li.topic.row:has-text("Europe")
+forums.redflagdeals.com##li.topic.row:has-text("(UK)")
+forums.redflagdeals.com##li.topic.row:has-text("Heathrow")
+
+! OTHER
+forums.redflagdeals.com##li.topic.row:has-text("Qatar")
+forums.redflagdeals.com##li.topic.row:has-text("Costco West")
+forums.redflagdeals.com##li.topic.row:has-text(/West Coast/i)

@@ -1,0 +1,148 @@
+! ==================================================================================================================
+! RFD_VENDOR
+! This will filter out posts from the RFD-Forum that have a specific vendor/seller listed. This is handy if you know 
+! you will never buy from a specific vendor (i.e., they don't have locations anywhere near you, or don't sell things 
+! you're interested in). Sometimes, there can be a bit of overlap between 'vendor' and 'product' (i.e., Apple store
+! sells Apple products), so you might find the filter in the other list
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==================================================================================================================
+
+! Arts
+forums.redflagdeals.com##li.topic.row:has-text(/Toronto Symphony/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Paradise Theat/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Princess of Wales/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Mirvish/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Canadian Opera/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Cineplex/i)
+
+
+! Banks
+forums.redflagdeals.com##li.topic.row:has-text(/RBC/i)
+forums.redflagdeals.com##li.topic.row:has-text(/BMO/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Tangerine/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Mogo/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Virgin/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Tangerine/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Scotiabank/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Canadian Mint/i)
+
+
+! Carriers, Phones
+forums.redflagdeals.com##li.topic.row:has-text(/Bell Winback/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Fido/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Chatr/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Fizz/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Freedom Mobile/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Lucky Mobile/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Phonebox/i)
+
+
+! Cars
+forums.redflagdeals.com##li.topic.row:has-text(/Germanparts/i)
+
+
+! Clothing
+forums.redflagdeals.com##li.topic.row:has-text(/UA Outlet/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Karbon/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Lululemon/i)
+
+
+! Fast Food, Corner-Store, Restaurants, Food, Drink
+forums.redflagdeals.com##li.topic.row:has-text(/Osmow/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Jollibee/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Bonacini/i)
+forums.redflagdeals.com##li.topic.row:has-text(/7Eleven/i)
+forums.redflagdeals.com##li.topic.row:has-text(/7-Eleven/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Burger Priest/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Boston Pizza/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Starbucks/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Priest/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Chipotle/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Scaddabush/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Odd Burger/i)
+forums.redflagdeals.com##li.topic.row:has-text(/St.Louis Bar/i)
+forums.redflagdeals.com##li.topic.row:has-text(/St. Louis Wings/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Sober Carpenter/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Charcoal/i)
+
+
+! Gig
+forums.redflagdeals.com##li.topic.row:has-text(/Lyft/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Uber/i)
+forums.redflagdeals.com##li.topic.row:has-text(/SkipTheDishes/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Skip the Dishes/i)
+forums.redflagdeals.com##li.topic.row:has-text(/DoorDash/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Door Dash/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Instacart/i)
+
+
+! Online stores
+forums.redflagdeals.com##li.topic.row:has-text(/Jomashop/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Aliexpress/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Wayfair/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Amazon Business Account/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Woot/i)
+
+
+! Physical Stores
+forums.redflagdeals.com##li.topic.row:has-text(/Costco.com/i)
+forums.redflagdeals.com##li.topic.row:has-text(/The Bay/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Sunny Supermarket/i)
+forums.redflagdeals.com##li.topic.row:has-text(/London Drugs/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Independent City Market/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Safeway/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Dollarama Deals/i)
+
+
+! Sports, Health, Supplements
+forums.redflagdeals.com##li.topic.row:has-text(/Sporting Life/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Sportchek/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Sport chek/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Altitude Sports/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Fitness Reality/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Planet Fitness/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Supplementsource/i)
+forums.redflagdeals.com##li.topic.row:has-text(/UFC/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Well.ca/i)
+forums.redflagdeals.com##li.topic.row:has-text(/IHERB/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Canadian Protein/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Vitamart/i)
+
+
+! Tech, Streaming, Apps
+forums.redflagdeals.com##li.topic.row:has-text(/Stacksocial/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Stack Social/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Crave/i)
+forums.redflagdeals.com##li.topic.row:has-text(/HP.com/i)
+forums.redflagdeals.com##li.topic.row:has-text(/RedMagic/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Paramount/i)
+forums.redflagdeals.com##li.topic.row:has-text(/SiriusXM/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Skullcandy/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Mac App/i)
+forums.redflagdeals.com##li.topic.row:has-text(/NORTON/i)
+
+
+! Toys
+forums.redflagdeals.com##li.topic.row:has-text(/Mastermind Toys/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Gamestop/i)
+forums.redflagdeals.com##li.topic.row:has-text(/'R'Us/i)
+
+
+! Travel, Tourism, Hotels
+forums.redflagdeals.com##li.topic.row:has-text(/Cathay/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Hilton/i)
+forums.redflagdeals.com##li.topic.row:has-text(/WaySpa/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Bingemans/i)
+forums.redflagdeals.com##li.topic.row:has-text(/WagJag/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Best Western/i)
+forums.redflagdeals.com##li.topic.row:has-text(/CNE/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Air France/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Cruise.com/i)
+
+
+! Video games
+forums.redflagdeals.com##li.topic.row:has-text(/Epic Games/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Epic Store/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Fanatical/i)
+forums.redflagdeals.com##li.topic.row:has-text(/GameStop/i)

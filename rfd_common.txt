@@ -1,0 +1,144 @@
+! =============================================================================================================================
+! RFD_COMMON
+! This rule set sets out to clean up the overall structure of the RFD/RFD-Forum page(s). The intended use (of RFD) is to blast 
+! through the Hot Deals forum, and making use of the 'hide deal' button and exclusively as a 'lurker'. As such, no posting, 
+! voting etc is required.
+! =============================================================================================================================
+
+
+! ================================================
+! Overall forum (https://forums.redflagdeals.com/)
+! ================================================
+! Tidy up the legend bar at the bottom and the archive'd content
+forums.redflagdeals.com##.forum_legend_group
+forums.redflagdeals.com##div.forum_group:nth-of-type(7)
+
+! ==================================================================
+! Hot deals specific (https://forums.redflagdeals.com/hot-deals-f9/)
+! ==================================================================
+! Block the menu items at the top (3 levels of menus)
+forums.redflagdeals.com###site_extra_menubar
+forums.redflagdeals.com###mainnav_flyers
+forums.redflagdeals.com###mainnav_section_deal_alerts
+forums.redflagdeals.com###mainnav_section_news
+forums.redflagdeals.com###mainnav_section_tools
+forums.redflagdeals.com###mainnav_section_deals
+forums.redflagdeals.com##.current_section.mainnav_section
+forums.redflagdeals.com##.forums_nav
+
+! Removing the search and forum tools
+forums.redflagdeals.com###site_search
+forums.redflagdeals.com##.forums_page_header_buttons
+
+! Clear up stuff near your individual profile
+forums.redflagdeals.com##.site_userbox_profile_counts
+
+! Remove the side bar (even if you haven't clicked 'Hide this sidebar')
+forums.redflagdeals.com##.sidebar_content
+
+! Tidies up the metadata of the subforum block
+forums.redflagdeals.com##.description
+forums.redflagdeals.com##.forum_stats
+forums.redflagdeals.com##.subheader.forum_group_header > .topics
+forums.redflagdeals.com##.subheader.forum_group_header > .lastpost
+
+! Tidy stuff up at the bottom
+forums.redflagdeals.com##.thread_navigation_secondary
+forums.redflagdeals.com###header_billboard_bottom
+forums.redflagdeals.com###site_footer > .site_footer_inner
+forums.redflagdeals.com##.primary_content > form
+forums.redflagdeals.com##.display-options
+
+! Removes all the meta from individual posts
+forums.redflagdeals.com##.posts
+forums.redflagdeals.com##.categories
+forums.redflagdeals.com##.views
+forums.redflagdeals.com##.posts
+forums.redflagdeals.com##.thread-meta-large
+forums.redflagdeals.com##.lastpost
+forums.redflagdeals.com##.topictitle_retailer
+forums.redflagdeals.com##.merged
+forums.redflagdeals.com##.topictitle_holiday
+forums.redflagdeals.com##.postvoting_enabled.thread_info_main > .unread
+
+! Removing buttons, and objects
+forums.redflagdeals.com##.new_post_button
+forums.redflagdeals.com###site_footer
+forums.redflagdeals.com##.forums_tabbar
+forums.redflagdeals.com##.return-button
+forums.redflagdeals.com##.forums_nav_primary_column
+forums.redflagdeals.com##.category_filter
+forums.redflagdeals.com##.header.topiclist
+
+! Hide 'obsolete' and irellevant posts
+forums.redflagdeals.com##li.topic.row:has-text(/Moved/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Sponsored/i)
+forums.redflagdeals.com##li.topic.row:has-text(/New Flyer/i)
+
+
+! ==============================================================================
+! Individual post specific cleanup. This is when you click on an individual deal
+! ==============================================================================
+! Clean up the header and top of post
+forums.redflagdeals.com##.thread_header_taxonomy
+forums.redflagdeals.com##.score_detail_icon
+forums.redflagdeals.com##.post_score_text
+forums.redflagdeals.com##.retailer_badge
+forums.redflagdeals.com##.downvote_button
+forums.redflagdeals.com##.upvote_button
+
+! Remove Thread tools
+forums.redflagdeals.com##.above_postlist.thread_navigation > .topic_detail_tools.thread_tools > .thread_tools_search
+forums.redflagdeals.com##.above_postlist.thread_navigation > .topic_detail_tools.thread_tools > .thread_tools_view_first_unread
+forums.redflagdeals.com##.above_postlist.thread_navigation > .topic_detail_tools.thread_tools > .thread_tools_reminder
+forums.redflagdeals.com##.above_postlist.thread_navigation > .topic_detail_tools.thread_tools > .thread_tools_subscribe
+
+! Remove the thread summary
+forums.redflagdeals.com###topic_summary_header
+forums.redflagdeals.com###rfd_topic_summary
+
+! Remove profile info for post
+forums.redflagdeals.com##.profile_datejoined
+forums.redflagdeals.com##.profile_rank
+forums.redflagdeals.com##.profile_avatar
+
+! Tidy up the individual posts
+forums.redflagdeals.com##.actionbar_wrapper
+forums.redflagdeals.com##.inline_image_thumbnail.postimage
+forums.redflagdeals.com##.attachbox
+
+! Bottom (Reply/post, online)
+forums.redflagdeals.com##.thread_endmatter
+forums.redflagdeals.com##.inline_posting_form
+forums.redflagdeals.com##.whosonline
+
+
+! ========================================================
+! Tidying up main RFD page (https://www.redflagdeals.com/)
+! ========================================================
+! Clean up the top header area
+www.redflagdeals.com##.layouts__featured__content
+www.redflagdeals.com##.sponsors_list_container
+www.redflagdeals.com##.inline_leaderboard
+www.redflagdeals.com###mainnav_section_tools
+www.redflagdeals.com###mainnav_section_news
+www.redflagdeals.com###mainnav_section_deal_alerts
+www.redflagdeals.com###mainnav_section_deals
+www.redflagdeals.com###mainnav_section_flyers
+www.redflagdeals.com###site_footer
+www.redflagdeals.com##.component_layout__standard
+www.redflagdeals.com##.extra-nav
+www.redflagdeals.com###site_extra_menubar
+
+! Clear up stuff near your individual profile
+www.redflagdeals.com##.site_userbox_profile_counts
+
+! Remove individual sections
+www.redflagdeals.com##.component.component_index_12
+www.redflagdeals.com##.component.component_index_11
+www.redflagdeals.com##.component.component_index_10
+www.redflagdeals.com##.component.component_index_13
+www.redflagdeals.com###mh_component_58 > .component_layout__featured_container
+
+! Tidy up the trending deals block
+www.redflagdeals.com###mh_component_139 > .component_layout__texts_container > .component_layout__texts__stacked > .layouts__texts__texts > li.layouts__texts__text_container > .layouts__texts__text_content > .layouts__texts__text_details

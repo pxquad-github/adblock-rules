@@ -1,0 +1,376 @@
+! ==================================================================================================================
+! RFD_PRODUCT
+! This will filter out posts from the RFD-Forum that pertain to products. This is handy if you are not interested in 
+! certain brands, types of products or categories. Sometimes, there can be a bit of overlap between 'vendor' and 
+! 'product' (i.e., Apple store sells Apple products), so you might find the filter in the other list
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==================================================================================================================
+
+
+! Apple
+forums.redflagdeals.com##li.topic.row:has-text(/itunes/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Apple/i)
+forums.redflagdeals.com##li.topic.row:has-text(/ipad/i)
+forums.redflagdeals.com##li.topic.row:has-text(/ipod/i)
+forums.redflagdeals.com##li.topic.row:has-text(/iwatch/i)
+forums.redflagdeals.com##li.topic.row:has-text(/AirPods/i)
+forums.redflagdeals.com##li.topic.row:has-text(/ios/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Iphone/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MacBook/i)
+forums.redflagdeals.com##li.topic.row:has-text(/CarPlay/i)
+forums.redflagdeals.com##li.topic.row:has-text(/macOS/i)
+forums.redflagdeals.com##li.topic.row:has-text(/imac/i)
+forums.redflagdeals.com##li.topic.row:has-text(/iTunes/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MagSafe/i)
+
+
+! Appliances
+forums.redflagdeals.com##li.topic.row:has-text(/Magic Bullet/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Foodi/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Theragun/i)
+forums.redflagdeals.com##li.topic.row:has-text(/CPAP/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Keurig/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Dyson/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Nespresso/i)
+forums.redflagdeals.com##li.topic.row:has-text(/airfyer/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Creami/i)
+
+
+! Arts
+forums.redflagdeals.com##li.topic.row:has-text(/Globe and Mail/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Ballet/i)
+forums.redflagdeals.com##li.topic.row:has-text(/New York Times/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Anime/i)
+forums.redflagdeals.com##li.topic.row:has-text(/concert ticket/i)
+forums.redflagdeals.com##li.topic.row:has-text(/National Geographic/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Second City/i)
+
+
+! Banking
+forums.redflagdeals.com##li.topic.row:has-text(/FHSA/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Amex/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MBNA/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Mastercard/i)
+forums.redflagdeals.com##li.topic.row:has-text(/American Express/i)
+forums.redflagdeals.com##li.topic.row:has-text(/BMO/i)
+forums.redflagdeals.com##li.topic.row:has-text(/AnyCard/i)
+
+
+! Cars, Bikes
+forums.redflagdeals.com##li.topic.row:has-text(/Toyota/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Segway/i)
+forums.redflagdeals.com##li.topic.row:has-text(/eBike/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MTB/i)
+
+
+! Clothing
+forums.redflagdeals.com##li.topic.row:has-text(/Nike/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Under Armour/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Peloton/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Seiko/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Patagonia/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Nike Air/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Maui Jim/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Calvin Klein/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Timberland/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Saxx/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Croc/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Vape/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Reebok/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Ray Ban/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Adidas/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Bauer Canada/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Herschel/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MEC/i)
+forums.redflagdeals.com##li.topic.row:has-text(/ECCO/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Bellroy/i)
+
+
+! Consoles
+forums.redflagdeals.com##li.topic.row:has-text(/Playdium/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS2/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS3/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS4/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS5/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS6/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS7/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS8/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS9/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PSN/i)
+forums.redflagdeals.com##li.topic.row:has-text(/xbox/i)
+forums.redflagdeals.com##li.topic.row:has-text(/x-box/i)
+forums.redflagdeals.com##li.topic.row:has-text(/gamecube/i)
+forums.redflagdeals.com##li.topic.row:has-text(/game cube/i)
+forums.redflagdeals.com##li.topic.row:has-text(/nintendo/i)
+forums.redflagdeals.com##li.topic.row:has-text(/SEGA/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Wii/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PlayStation/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PS Plus/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Zelda/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Joy con/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Joycon/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Game Pass/i)
+
+
+! Food, Supplements, etc.
+forums.redflagdeals.com##li.topic.row:has-text(/Meal Replacement/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Vegan/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Essential Oil/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Calrose/i)
+forums.redflagdeals.com##li.topic.row:has-text(/quinoa/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Whey/i)
+forums.redflagdeals.com##li.topic.row:has-text(/k cup/i)
+forums.redflagdeals.com##li.topic.row:has-text(/k-cup/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Ground Coffee/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Beyond Meat/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Tassimo/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Creatine/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Mineral Water/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Oakley/i)
+forums.redflagdeals.com##li.topic.row:has-text(/endless Shrimp/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Purina/i)
+
+
+! Gaming
+forums.redflagdeals.com##li.topic.row:has-text(/Mario/i)
+forums.redflagdeals.com##li.topic.row:has-text(/FIFA/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Final Fantasy/i)
+forums.redflagdeals.com##li.topic.row:has-text(/EA Games/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Titanfall/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Fortnite/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Jackbox/i)
+forums.redflagdeals.com##li.topic.row:has-text(/iRacing/i)
+
+
+! Headphones, audio
+forums.redflagdeals.com##li.topic.row:has-text(/Bose Solo/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Sonos/i)
+forums.redflagdeals.com##li.topic.row:has-text(/truly Wireless/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Olufsen/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Beats/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Edifier/i)
+
+
+! Household
+forums.redflagdeals.com##li.topic.row:has-text(/ThermaCELL/i)
+forums.redflagdeals.com##li.topic.row:has-text(/AXE Detail/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Traeger/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Duracell/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Christmas tree/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Spin Bike/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Swiffer/i)
+forums.redflagdeals.com##li.topic.row:has-text(/guitar/i)
+forums.redflagdeals.com##li.topic.row:has-text(/laser hair/i)
+
+
+! Monitors
+forums.redflagdeals.com##li.topic.row:has-text(/WQHD/i)
+forums.redflagdeals.com##li.topic.row:has-text(/UltraWide/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Odyssey Neo/i)
+forums.redflagdeals.com##li.topic.row:has-text(/1440p/i)
+forums.redflagdeals.com##li.topic.row:has-text(/QHD/i)
+
+
+! Phones, Wearables, Smart
+forums.redflagdeals.com##li.topic.row:has-text(/EPP/i)
+forums.redflagdeals.com##li.topic.row:has-text(/cordless phone/i)
+forums.redflagdeals.com##li.topic.row:has-text(/True Wireless/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Meta Quest/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Occulus/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Fitbit/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pixelbook/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Jabra/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Google Pixel/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Vivoactive/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Samsung S/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Galaxy S/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Galaxy A/i)
+forums.redflagdeals.com##li.topic.row:has-text(/G-shock/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Avata/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Garmin F/i)
+forums.redflagdeals.com##li.topic.row:has-text(/S22/i)
+forums.redflagdeals.com##li.topic.row:has-text(/S23/i)
+forums.redflagdeals.com##li.topic.row:has-text(/S24/i)
+forums.redflagdeals.com##li.topic.row:has-text(/S25/i)
+forums.redflagdeals.com##li.topic.row:has-text(/S26/i)
+forums.redflagdeals.com##li.topic.row:has-text(/S27/i)
+forums.redflagdeals.com##li.topic.row:has-text(/S28/i)
+forums.redflagdeals.com##li.topic.row:has-text(/S29/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pixel 6/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pixel 7/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pixel 8/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pixel 9/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pixel 10/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pixel 11/i)
+
+
+! Points
+forums.redflagdeals.com##li.topic.row:has-text(/$50 gift cards/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PCO Points/i)
+forums.redflagdeals.com##li.topic.row:has-text(/scene/i)
+forums.redflagdeals.com##li.topic.row:has-text(/CT Money/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PC point/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Aeroplan/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PC Point/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PC Optimum/i)
+forums.redflagdeals.com##li.topic.row:has-text(/000 points/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Triangle World Elite/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Airmiles/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Air miles/i)
+forums.redflagdeals.com##li.topic.row:has-text(/0 Scene/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Triangle/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Bonus Miles/i)
+forums.redflagdeals.com##li.topic.row:has-text(/SPC/i)
+
+
+! Sports
+forums.redflagdeals.com##li.topic.row:has-text(/Jays/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Golf/i)
+forums.redflagdeals.com##li.topic.row:has-text(/NHL/i)
+forums.redflagdeals.com##li.topic.row:has-text(/NBA/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MLB/i)
+forums.redflagdeals.com##li.topic.row:has-text(/NFL/i)
+forums.redflagdeals.com##li.topic.row:has-text(/TSN/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Gym Membership/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Mountain Bike/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Argonauts/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Northrock/i)
+forums.redflagdeals.com##li.topic.row:has-text(/LA Fitness/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Raptors/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Toronto Maple Leaf/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Sportsnet/i)
+
+
+! Streaming, Entertainment, Media
+forums.redflagdeals.com##li.topic.row:has-text(/Peacock/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Spotify/i)
+forums.redflagdeals.com##li.topic.row:has-text(/DAZN/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Plex/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Steelbook/i)
+forums.redflagdeals.com##li.topic.row:has-text(/VEEPS/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Toronto Star/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Blu-ray/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Bluray/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Bloomberg/i)
+forums.redflagdeals.com##li.topic.row:has-text(/movie ticket/i)
+
+
+! Tech
+forums.redflagdeals.com##li.topic.row:has-text(/APP only/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Mobile Order/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Gaming /i)
+forums.redflagdeals.com##li.topic.row:has-text(/Oculus/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MX Master/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface 2/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface 3/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface 4/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface 5/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface 6/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface 7/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface 8/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface 9/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Surface Laptop/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Canon RF/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Nikon/i)
+forums.redflagdeals.com##li.topic.row:has-text(/DVD box/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Norton/i)
+forums.redflagdeals.com##li.topic.row:has-text(/EcoTank/i)
+forums.redflagdeals.com##li.topic.row:has-text(/PIXMA/i)
+forums.redflagdeals.com##li.topic.row:has-text(/GoPro/i)
+forums.redflagdeals.com##li.topic.row:has-text(/kaspersky/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MX500/i)
+
+
+! Tech - PC Companies
+forums.redflagdeals.com##li.topic.row:has-text(/Razer/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Inspiron/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Alienware/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Steam Deck/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Legion/i)
+forums.redflagdeals.com##li.topic.row:has-text(/HP Elite/i)
+forums.redflagdeals.com##li.topic.row:has-text(/HP Pavilion/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Dell Precision/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Dell XPS/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Lenovo/i)
+
+! Tech - Networking 
+forums.redflagdeals.com##li.topic.row:has-text(/Mesh Wi/i)
+forums.redflagdeals.com##li.topic.row:has-text(/MoCA/i)
+forums.redflagdeals.com##li.topic.row:has-text(/ASUS RT-/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Aeero/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Orbi/i)
+
+
+! Tech - IOT
+forums.redflagdeals.com##li.topic.row:has-text(/Ring Alarm/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Ring door/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Echo pop/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Blink/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Philips Hue/i)
+
+
+! Tools
+forums.redflagdeals.com##li.topic.row:has-text(/Greenworks 80/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Karcher/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Toro 60V/i)
+forums.redflagdeals.com##li.topic.row:has-text(/DeWalt 20V/i)
+forums.redflagdeals.com##li.topic.row:has-text(/20V MAX/i)
+forums.redflagdeals.com##li.topic.row:has-text(/TV Wall/i)
+
+
+! Toys, Children
+forums.redflagdeals.com##li.topic.row:has-text(/Nerf/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Funko/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Tikes/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Lego/i)
+forums.redflagdeals.com##li.topic.row:has-text(/LEGO/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Luigi/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pokémon/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Pokemon/i)
+forums.redflagdeals.com##li.topic.row:has-text(/amiibo/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Bandai/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Trading Cards/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Gundam/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Yugioh/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Toddler/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Baby/i)
+forums.redflagdeals.com##li.topic.row:has-text(/action figure/i)
+forums.redflagdeals.com##li.topic.row:has-text(/trampoline/i)
+forums.redflagdeals.com##li.topic.row:has-text(/dumbbel/i)
+forums.redflagdeals.com##li.topic.row:has-text(/stroller/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Graco/i)
+
+
+! Travel
+forums.redflagdeals.com##li.topic.row:has-text(/eSIM/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Airlines/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Avianca/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Avion/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Flair/i)
+forums.redflagdeals.com##li.topic.row:has-text(/luggage/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Flair Airlines/i)
+forums.redflagdeals.com##li.topic.row:has-text(/base fare/i)
+forums.redflagdeals.com##li.topic.row:has-text(/TravelQ/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Roundtrip/i)
+forums.redflagdeals.com##li.topic.row:has-text(/flights/i)
+forums.redflagdeals.com##li.topic.row:has-text(/TTC/i)
+forums.redflagdeals.com##li.topic.row:has-text("VIA Rail")
+forums.redflagdeals.com##li.topic.row:has-text("Metrolinx")
+
+
+! Video cards
+forums.redflagdeals.com##li.topic.row:has-text(/3060/i)
+forums.redflagdeals.com##li.topic.row:has-text(/3070/i)
+forums.redflagdeals.com##li.topic.row:has-text(/4060/i)
+forums.redflagdeals.com##li.topic.row:has-text(/4070/i)
+forums.redflagdeals.com##li.topic.row:has-text(/5060/i)
+
+
+! VPNs
+forums.redflagdeals.com##li.topic.row:has-text(/ClearVPN/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Windscribe/i)
+
+
+! Anything else
+forums.redflagdeals.com##li.topic.row:has-text(/Boating License/i)
