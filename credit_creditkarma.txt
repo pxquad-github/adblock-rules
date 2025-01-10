@@ -1,0 +1,69 @@
+! =============================================================================================================
+! CREDIT_CREDITKARMA
+! You can get free credit checks and updates from CreditKarma (https://www.creditkarma.ca/) but the downside is 
+! that they put an absolute ton of Ads and general crap in front of you. 
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================================================================
+
+! =======================================================
+! Clean up the main webpage (https://www.creditkarma.ca/)
+! =======================================================
+
+! Menu at the top
+creditkarma.ca##.en9vtv70.css-10ox8ou
+creditkarma.ca##.en9vtv70.css-1a8o401 > .en9vtv70.css-1w5ja03
+
+! Main body, working top to bottom
+creditkarma.ca##.en9vtv70.css-1g3tazx
+creditkarma.ca##div.en9vtv70.css-1toxiiv:nth-of-type(3)
+creditkarma.ca##div.en9vtv70.css-1toxiiv:nth-of-type(4)
+
+! Everything from the footer. individually. 
+!   If you just nuke the footer using 'creditkarma.ca##.en9vtv70.css-1vtvdg4' then there is sometimes a problem when logging
+!   into thr dashboard -- you get intermittent popup (which can be blocked) but then the main content is totally blank. To be 
+!   safe, here, we just nuke all of the elements)
+creditkarma.ca##div.eb510oh0.css-1gwj01n.item > .en9vtv70.css-2o4d8l > div.en9vtv70.css-53x91v
+creditkarma.ca##[src="https://intlck.imgix.net/0.167.1/logos/intuit-cornerstone/reversed/TurboTax.svg?auto=compress%2Cformat"]
+creditkarma.ca##[src="https://intlck.imgix.net/0.167.1/logos/intuit-cornerstone/reversed/CreditKarma.svg?auto=compress%2Cformat"]
+creditkarma.ca##[src="https://intlck.imgix.net/0.167.1/logos/intuit-cornerstone/reversed/Quickbooks.svg?auto=compress%2Cformat"]
+creditkarma.ca##[src="https://intlck.imgix.net/0.167.1/logos/intuit-cornerstone/reversed/Mailchimp.svg?auto=compress%2Cformat"]
+creditkarma.ca##[src="https://intlck.imgix.net/0.188.2/illustrations/download_google_play_en.svg?auto=compress%2Cformat"]
+creditkarma.ca##[src="https://intlck.imgix.net/0.188.2/illustrations/download_app_store_en.svg?auto=compress%2Cformat"]
+creditkarma.ca##[src="https://intlck.imgix.net/0.188.2/logos/digicert.png?auto=compress%2Cformat"]
+creditkarma.ca##[src="https://intlck.imgix.net/0.167.1/logos/intuit-cornerstone/reversed/Intuit.svg?auto=compress%2Cformat"]
+creditkarma.ca##div.eb510oh0.css-oapv2a.item > .en9vtv70.css-2o4d8l > .en9vtv70.css-53x91v > .ehrnv3t1.css-1i1ntzu > span
+creditkarma.ca##.ehrnv3t0.css-1gzhgua > span
+
+! The actual footer container (the black box)
+creditkarma.ca##.css-1nbrgf1
+
+
+! ================================================
+! Dashboard (https://www.creditkarma.ca/dashboard)
+! Note: CookieBlock domain exception needed to login
+! ================================================
+
+creditkarma.ca##.e1wnb2cb0.css-1hepgvw.relative.ph4.pv1.bg-white.items-center.justify-center.flex-column.flex.w-100 > .item-last.eb510oh0.css-1gwj01n.item
+creditkarma.ca##.e1wnb2cb0.css-1yga5ks
+creditkarma.ca##.e1wnb2cb0.css-1ocyozw
+creditkarma.ca##.e1fhlxjn0.css-77inx8
+creditkarma.ca##.en9vtv70.css-zr38p0
+
+
+! ==========================================
+! Report (https://www.creditkarma.ca/report)
+! ==========================================
+! Popup
+creditkarma.ca##.ew3io0.css-g65u74
+
+! Side bar
+creditkarma.ca##.en9vtv70.css-waoen5
+
+! Menu at the top
+creditkarma.ca##.en9vtv70.css-1w5ja03 > .e6n4x3c0.css-m4wwpm
+
+! Main content working top to bottom
+creditkarma.ca##div.eb510oh0.css-167bqiu.item:nth-of-type(3)
+creditkarma.ca##.e300kjk0.css-6jgec2
+creditkarma.ca##.en9vtv70.css-xzv3x4
