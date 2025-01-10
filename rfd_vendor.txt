@@ -40,6 +40,8 @@ forums.redflagdeals.com##li.topic.row:has-text(/Phonebox/i)
 
 ! Cars
 forums.redflagdeals.com##li.topic.row:has-text(/Germanparts/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Halo wash/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Wash & Go/i)
 
 
 ! Clothing
@@ -66,6 +68,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/St. Louis Wings/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sober Carpenter/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Charcoal/i)
 forums.redflagdeals.com##li.topic.row:has-text(/CoCo Fresh/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Papa John/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Red Swan/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Squish cand/i)
 
@@ -149,3 +152,4 @@ forums.redflagdeals.com##li.topic.row:has-text(/Epic Games/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Epic Store/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Fanatical/i)
 forums.redflagdeals.com##li.topic.row:has-text(/GameStop/i)
+forums.redflagdeals.com##li.topic.row:has-text(/itch.io/i)
