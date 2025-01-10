@@ -65,6 +65,9 @@ forums.redflagdeals.com##li.topic.row:has-text(/St.Louis Bar/i)
 forums.redflagdeals.com##li.topic.row:has-text(/St. Louis Wings/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sober Carpenter/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Charcoal/i)
+forums.redflagdeals.com##li.topic.row:has-text(/CoCo Fresh/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Red Swan/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Squish cand/i)
 
 
 ! Gig
@@ -83,7 +86,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Aliexpress/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Wayfair/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Amazon Business Account/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Woot/i)
-
+forums.redflagdeals.com##li.topic.row:has-text(/Perkopolis/i)
 
 ! Physical Stores
 forums.redflagdeals.com##li.topic.row:has-text(/Costco.com/i)

@@ -14,14 +14,13 @@ forums.redflagdeals.com##li.topic.row:has-text(/Apple/i)
 forums.redflagdeals.com##li.topic.row:has-text(/ipad/i)
 forums.redflagdeals.com##li.topic.row:has-text(/ipod/i)
 forums.redflagdeals.com##li.topic.row:has-text(/iwatch/i)
-forums.redflagdeals.com##li.topic.row:has-text(/AirPods/i)
+forums.redflagdeals.com##li.topic.row:has-text(/AirPod/i)
 forums.redflagdeals.com##li.topic.row:has-text(/ios/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Iphone/i)
 forums.redflagdeals.com##li.topic.row:has-text(/MacBook/i)
 forums.redflagdeals.com##li.topic.row:has-text(/CarPlay/i)
 forums.redflagdeals.com##li.topic.row:has-text(/macOS/i)
 forums.redflagdeals.com##li.topic.row:has-text(/imac/i)
-forums.redflagdeals.com##li.topic.row:has-text(/iTunes/i)
 forums.redflagdeals.com##li.topic.row:has-text(/MagSafe/i)
 
 
@@ -61,7 +60,9 @@ forums.redflagdeals.com##li.topic.row:has-text(/AnyCard/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Toyota/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Segway/i)
 forums.redflagdeals.com##li.topic.row:has-text(/eBike/i)
+forums.redflagdeals.com##li.topic.row:has-text(/e-Bike/i)
 forums.redflagdeals.com##li.topic.row:has-text(/MTB/i)
+forums.redflagdeals.com##li.topic.row:has-text(/electric bike/i)
 
 
 ! Clothing
@@ -85,6 +86,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Herschel/i)
 forums.redflagdeals.com##li.topic.row:has-text(/MEC/i)
 forums.redflagdeals.com##li.topic.row:has-text(/ECCO/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Bellroy/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Moose knuckle/i)
 
 
 ! Consoles
@@ -203,11 +205,13 @@ forums.redflagdeals.com##li.topic.row:has-text(/Pixel 8/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Pixel 9/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Pixel 10/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Pixel 11/i)
+forums.redflagdeals.com##li.topic.row:has-text(/samsung care/i)
+forums.redflagdeals.com##li.topic.row:has-text(/galaxy buds/i)
 
 
 ! Points
 forums.redflagdeals.com##li.topic.row:has-text(/$50 gift cards/i)
-forums.redflagdeals.com##li.topic.row:has-text(/PCO Points/i)
+forums.redflagdeals.com##li.topic.row:has-text(/ PCO/i)
 forums.redflagdeals.com##li.topic.row:has-text(/scene/i)
 forums.redflagdeals.com##li.topic.row:has-text(/CT Money/i)
 forums.redflagdeals.com##li.topic.row:has-text(/PC point/i)
@@ -222,6 +226,8 @@ forums.redflagdeals.com##li.topic.row:has-text(/0 Scene/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Triangle/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Bonus Miles/i)
 forums.redflagdeals.com##li.topic.row:has-text(/SPC/i)
+forums.redflagdeals.com##li.topic.row:has-text(/x point/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Share your favourite deals/i)
 
 
 ! Sports
@@ -254,7 +260,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Blu-ray/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Bluray/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Bloomberg/i)
 forums.redflagdeals.com##li.topic.row:has-text(/movie ticket/i)
-
+forums.redflagdeals.com##li.topic.row:has-text(/small popcorn/i)
 
 ! Tech
 forums.redflagdeals.com##li.topic.row:has-text(/APP only/i)
@@ -280,6 +286,9 @@ forums.redflagdeals.com##li.topic.row:has-text(/PIXMA/i)
 forums.redflagdeals.com##li.topic.row:has-text(/GoPro/i)
 forums.redflagdeals.com##li.topic.row:has-text(/kaspersky/i)
 forums.redflagdeals.com##li.topic.row:has-text(/MX500/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Core i3/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Core i5/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Core i3/i)
 
 
 ! Tech - PC Companies
