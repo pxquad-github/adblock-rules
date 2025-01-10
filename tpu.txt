@@ -1,0 +1,52 @@
+! =================================================================================================================
+! TPU
+! This will filter out annoyances on the TechPowerUp website, both at the main/top level but also once you navigate
+! down into articles and posts
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =================================================================================================================
+
+! Clean up the top menu bar, social
+techpowerup.com##.social
+techpowerup#[href="/forums/"]
+techpowerup.com##[href="/contact/"]
+techpowerup.com##[href="/gallery/"]
+techpowerup.com##[href="/forums/"]
+techpowerup.com##.page-header > div:nth-of-type(2)
+
+! Remove Side bar
+techpowerup.com##.page > .s-
+
+! Remove votes, early access
+techpowerup.com##.frontpage-extra
+techpowerup.com##.patreon-previews
+
+
+! Footer
+techpowerup.com##.site-footer
+
+! Clean up individual posts
+techpowerup.com##.discusslink
+techpowerup.com##span.byline-item:nth-of-type(2)
+techpowerup.com##span.byline-item:nth-of-type(3)
+techpowerup.com##span.byline-item:nth-of-type(4)
+techpowerup.com##.readmore
+
+! Actual post cleanup
+techpowerup.com##.comments
+techpowerup.com##.social-share
+techpowerup.com##.related
+techpowerup.com##.discuss
+techpowerup.com##.nextpage-top
+
+! The downloads page (https://www.techpowerup.com/download/)
+techpowerup.com##.latest
+
+! The reviews page (https://www.techpowerup.com/review/)
+techpowerup.com##.author
+
+! Case mod gallery (https://www.techpowerup.com/gallery/)
+techpowerup.com##.addcase-button
+
+! Any of the databases pages
+techpowerup.com##.changes
