@@ -1,0 +1,24 @@
+! ==============================================================================
+! SOCIAL_REDDIT (https://www.reddit.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==============================================================================
+
+
+! ===================================
+! Main page (https://www.reddit.com/)
+! ===================================
+
+! Google sign in, app
+reddit.com###credential_picker_container
+reddit.com##.coachmark.nd\:visible > .nd\:visible
+
+! Header elements
+reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(3)
+reddit.com##.m\:block.hidden > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+reddit.com##.nd\:visible > .h-\[40px\].w-\[40px\].relative > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+
+
+! Left Menu
+reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-\[2\] > nav > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
+reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
