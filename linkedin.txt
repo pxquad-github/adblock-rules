@@ -1,0 +1,52 @@
+! ===============================================================================================================
+! TPU
+! This will filter out annoyances on the LinkedIn website, both at the main/top level but also once you navigate
+! down into articles and posts. The intended use for LinkedIn is entirely no-nonsense, read-only. It MAY be 
+! worth blocking out the entire 'Jobs' section (which kind of defeats a large purpose of LinkedIn -- but it
+! appears to be ENTIRELY promoted posts aka Ads)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================================================
+
+! Block the 'For Business' option at the top
+linkedin.com##.ember-view.artdeco-dropdown--justification-left.artdeco-dropdown--placement-bottom.artdeco-dropdown.global-nav__app-launcher-menu.pl3.global-nav__primary-item--divider
+
+! Block VIP stuff
+linkedin.com##.premium-upsell-link
+linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.link-without-visited-state.nvkveXlXPoAeTZrHxpoieFllpCOjjzOqFRmJ
+linkedin.com##.mb2.ph1.overflow-hidden.artdeco-card
+linkedin.com##.premium-upsell-link--extra-long.t-black--light.link-without-hover-state.t-bold.t-14.global-nav__secondary-premium-anchor.link-without-visited-state.nvkveXlXPoAeTZrHxpoieFllpCOjjzOqFRmJ
+linkedin.com##._139m7k23.cnuththc.cnuthtgw.cnutht14.cnutht180.cnuthte0.cnuthtaw._1k2lxme128._1k2lxmeyg
+linkedin.com##._1xoe5hd3.cnuthtag._1k2lxme7c._1k2lxme0._1k2lxmet4._1k2lxmels
+linkedin.com##div.cnuthtgw.cnuththc.cnutht14.cnutht180.cnuthtdk.cnuthtaw > .cnuththc.cnuthtgw.cnutht14.cnutht180.cnuthte0.cnuthtaw
+linkedin.com###jobs-feed-discovery-module-5
+
+! Block stupid stuff (games, footer elements etc)
+linkedin.com##.cnuthtao > .cnuthtj4.cnuthtdk.cnuthtaw > section._1xoe5hd3.cnutht1gg._139m7k23._85ptzzr.h8e4ml5j
+linkedin.com##.cnuththc.cnuthth4.cnutht0.cnutht17k.cnuthte0.cnuthtaw
+linkedin.com##.cnuththc.cnuthtgw.cnutht0.cnutht17k.cnuthte0.cnuthtaw._1k2lxme8o
+linkedin.com##._139m7k23._1ptbkx61fs._1ptbkx6cg.cnuthtgw.cnuththc.cnutht14.cnutht180.cnuthtdk.cnuthtaw > .cnuthtgw.cnuththc.cnutht14.cnutht180.cnuthtdk.cnuthtaw
+linkedin.com##article.mb3
+linkedin.com##span:has-text(/premium/i)
+linkedin.com##span:has-text(/trial/i)
+linkedin.com###ember54
+||static.licdn.com/aero-v1/sc/h/4b546fydfcpt2ek5gw3q0be5l
+
+
+! Remove the entire side bar
+linkedin.com##.scaffold-layout__aside
+
+! Remove reactions/interactions to peoples posts
+linkedin.com##.update-v2-social-activity
+linkedin.com##.text-body-medium-bold.text-body-small-bold.update-components-actor__cta-button--lockup-redesign.artdeco-button--tertiary.artdeco-button.update-components-update-v2__follow-button.update-components-actor__follow-button.follow
+
+! Remove post section
+linkedin.com##.artdeco-card.share-box-feed-entry__closed-share-box
+
+! Remove chat popout section at the bottom (since we can access chat at the top)
+linkedin.com##.msg-overlay-container-reflow.msg-overlay-container
+
+! Optional: block the entire jobs page (https://www.linkedin.com/jobs/) since it appears to be entirely 'promoted' posts anyways
+!	Remove the ! here to uncomment this. You can obviously still navigate to the page directly, just that the menu button 
+!	taking you to the job listings will be hidden
+! linkedin.##.global-nav__primary-link.global-nav__primary-link--active.FTjHluXZKSEiALgwlatFdiSTzoafwZY
