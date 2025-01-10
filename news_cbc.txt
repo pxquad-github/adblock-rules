@@ -1,0 +1,103 @@
+! =============================================================
+! NEWS_CBC (https://www.cbc.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+
+! ================================
+! Main page (https://www.cbc.ca/)
+! ================================
+
+! Menu at the top
+cbc.ca##.blackAndWhite-Jj5BV.horizontalNav-K6bCr.navigation__navLink-JkSdI > [href="/sports"]
+cbc.ca##.blackAndWhite-yKULD.horizontalNav-vNOyy.labelledIconButton-DJXCN > span
+bc.ca##.blackAndWhite-yKULD.horizontalNav-vNOyy.labelledIconButton-DJXCN > .filled.icon-o_g8u
+cbc.ca##.searchText
+cbc.ca##.headerSearch.searchIcon
+cbc.ca##.profileText
+cbc.ca##.blackAndWhite-yKULD.horizontalNav-vNOyy.labelledIconButton-DJXCN > .filled.icon-o_g8u > path
+cbc.ca##.sideMenu
+
+! Navigation headers to block (these will change depending on which section of CBC you're on i.e., Radio, Arts, news etc)
+cbc.ca##.nav-podcasts.subNavLink.navLink
+cbc.ca##.nav-schedules.subNavLink.navLink
+cbc.ca##.nav-frequency.subNavLink.navLink
+cbc.ca##.nav-shows.subNavLink.navLink
+cbc.ca##.nav-articles.subNavLink.navLink
+cbc.ca##.nav-video.subNavLink.navLink
+cbc.ca##.nav-about-cbc-arts.firstItem.subNavLink.navLink
+
+! Menu popout
+cbc.ca##.hasSubsection.mainMenuItem.nav-discover-cbc
+cbc.ca##.hasSubsection.mainMenuItem.nav-sports
+cbc.ca##.hasSubsection.mainMenuItem.nav-radio
+cbc.ca##.hasSubsection.mainMenuItem.nav-music
+cbc.ca##.hasSubsection.mainMenuItem.nav-tv
+cbc.ca##.nav-sports.subNavLink.navLink
+cbc.ca##.nav-radio.subNavLink.navLink
+cbc.ca##.nav-music.subNavLink.navLink
+cbc.ca##.nav-tv.subNavLink.navLink
+cbc.ca##.nav-watch.subNavLink.navLink
+cbc.ca##.nav-listen-live.subNavLink.navLink
+cbc.ca##.nav-contests.subNavLink.navLink
+cbc.ca##.hasSubsection.mainMenuItem.nav-more > .subNavList > li.subNavListItem.navItem > .nav-shop.subNavLink.navLink
+cbc.ca##.nav-help.subNavLink.navLink
+cbc.ca##.nav-contact.subNavLink.navLink
+cbc.ca##.hasSubsection.mainMenuItem.nav-more
+
+! Footer
+cbc.ca##.sclt-footer.globalFooter
+
+! Sections to turf
+cbc.ca##.playlistSwimlane
+cbc.ca##.sclt-regionalSwimlane.regionInfo-rQ0DI.regionInfo.sclt-swimlane.swimlane
+cbc.ca##.shortsContainer-NMm1V
+cbc.ca##.radioBarFullWidthContainer
+cbc.ca##.sclt-section5.oc-l-sectionContainer-backgroundColor.oc-l-sectionContainer-dark.sectionContainer.pageContentWrap
+cbc.ca##.contentQueryWidget
+cbc.ca##.landingNewsSplit > .heading-CuIgF.sectionHeading-S5iEJ.heading-sectionHeading.heading
+
+! Side bar
+cbc.ca##.contentAreaWrap.sectionContainer-rightRail
+cbc.ca##.sidebar
+cbc.ca##div.withFlex:nth-of-type(2)
+
+
+! ==================
+! Individual Stories
+! ==================
+
+! Blocks in the body to get rid of
+cbc.ca##.engagement-widgets
+cbc.ca##.accountCTA-XwarX
+
+! Comments, icons, logos for posts
+cbc.ca##.commentCount-icon
+cbc.ca##.cc-listitem > .captions
+cbc.ca##.authorInfo
+
+! Side bar
+cbc.ca##div.stickyContainer > .detailDiscovery
+cbc.ca##div.stickyContainer:nth-of-type(2)
+cbc.ca##.detailSideRail
+
+! Bottom of post
+cbc.ca##.contentFeedback-RoTQP
+cbc.ca##.relatedlinks
+cbc.ca##.trending.horizontal
+cbc.ca##div.detailBodyContainer:nth-of-type(2) > .withFlex
+cbc.ca##.newsletterWidget-NEW016.newsletterWidget
+cbc.ca##.newsletterWidgetDesc
+cbc.ca##.newsletterLogoHeading
+cbc.ca###emailInput
+cbc.ca##.submit-wrapper
+cbc.ca###recaptcha-privacy-msg
+cbc.ca##.authorprofile
+cbc.ca##.source
+cbc.ca##.newsletterWidget-NEW004.newsletterWidget
+cbc.ca##.callout_full.callout
+cbc.ca##[href^="https://itunes.apple.com/ca/podcast/front-burner/id1439621628"]
+cbc.ca##[href="https://open.spotify.com/show/1qL9keKtruUmZ1hPkhHZL1"]
+cbc.ca##[href^="https://youtube.com/playlist"]
+cbc.ca##.similarListItem

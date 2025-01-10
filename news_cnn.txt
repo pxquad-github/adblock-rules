@@ -1,0 +1,63 @@
+! =============================================================
+! NEWS_CNN (https://www.cnn.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+
+! ================================
+! Main page (https://www.cnn.com/)
+! ================================
+
+! Sign in wtih google
+cnn.com###credential_picker_container
+
+! Header and navigation
+cnn.com##.header__right
+cnn.com##div.header__nav-item:nth-of-type(9)
+cnn.com##div.header__nav-item:nth-of-type(8)
+cnn.com##div.header__nav-item:nth-of-type(7)
+cnn.com##div.header__nav-item:nth-of-type(5)
+
+! Popout menu
+cnn.com##div.header__editionizer-item:nth-of-type(4)
+cnn.com##div.header__editionizer-item:nth-of-type(5)
+cnn.com##li.subnav__section:nth-of-type(18)
+cnn.com##li.subnav__section:nth-of-type(19)
+cnn.com##li.subnav__section:nth-of-type(20)
+cnn.com##li.subnav__section:nth-of-type(21)
+cnn.com##li.subnav__section:nth-of-type(17)
+
+! Ticker
+cnn.com##.lazy.cnn.container_ribbon.container
+
+! Footer
+cnn.com##.footer__inner
+
+! Subscriber only
+cnn.com##.zone-5-observer.zone--t-light.zone > .has-pseudo-class-fix-layout--balanced-2-min-300.zone__inner > .layout--balanced-2-min-300.zone__items > div.stack > .stack__inner > .stack__items > .lazy.cnn.container_lead-plus-headlines-with-images.container
+
+
+! Sections I don't care about
+cnn.com##.product-zone-16-observer.product-zone--t-light.layout--full-width.product-zone
+cnn.com##.product-zone-13-observer.product-zone--t-light.layout--full-width.product-zone
+cnn.com##.lazy.cnn.container_list-headlines-with-images.container
+
+! Jan 10, 2025 https://www.cnn.com
+cnn.com##div.header__nav-item:nth-of-type(15)
+cnn.com##div.header__nav-item:nth-of-type(16)
+cnn.com##.zone-6-observer.zone--t-light.zone
+cnn.com##.zone-10-observer.zone--t-light.zone > .has-pseudo-class-fix-layout--balanced-3.zone__inner > .layout--balanced-3.zone__items > div.stack:nth-of-type(3) > .stack__inner > .stack__items > .lazy.cnn.container_lead-plus-headlines.container
+
+
+
+! ===============
+! Individual post
+! ===============
+
+! Meta
+cnn.com##.headline__options--has-more.headline__options
+cnn.com##.byline__images
+
+! Sidebar
+cnn.com##.layout-with-rail__rail.layout__rail

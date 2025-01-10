@@ -1,0 +1,62 @@
+! =============================================================
+! NEWS_CTV (https://www.ctvnews.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+
+! ===================================
+! Main page (https://www.ctvnews.ca/)
+! ===================================
+
+! Navigation sections
+ctvnews.ca##.c-header__secondary--nav
+ctvnews.ca###navItem-3
+ctvnews.ca###navItem-4
+ctvnews.ca###navItem-5
+
+
+! Side bar
+ctvnews.ca##.aem-GridColumn--tabletlandscape--4.aem-GridColumn--offset--phonelandscape--0.aem-GridColumn--default--3.aem-GridColumn.aem-GridColumn--tablet--none.aem-GridColumn--phone--12.aem-GridColumn--phone--none.aem-GridColumn--tabletlandscape--none.aem-GridColumn--phonelandscape--none.aem-GridColumn--offset--tablet--0.aem-GridColumn--tablet--12.aem-GridColumn--offset--default--0.aem-GridColumn--offset--phone--0.aem-GridColumn--phonelandscape--12.aem-GridColumn--default--none.aem-GridColumn--offset--tabletlandscape--0.responsivegrid
+ctvnews.ca##.c-happeningNow
+ctvnews.ca##div.aem-GridColumn--offset--default--0.aem-GridColumn--default--12.aem-GridColumn.aem-GridColumn--default--none.responsivegrid:nth-of-type(4) > .aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--tablet--12.aem-Grid--12.aem-Grid > .aem-GridColumn--offset--default--0.aem-GridColumn--default--3.aem-GridColumn.aem-GridColumn--tablet--none.aem-GridColumn--tabletlandscape--none.aem-GridColumn--default--none.aem-GridColumn--offset--tablet--0.aem-GridColumn--tablet--12.aem-GridColumn--offset--tabletlandscape--0.responsivegrid
+
+! Footer
+ctvnews.ca##.bm-footer
+
+ ! Sections I don't care about
+ctvnews.ca##.aem-GridColumn--offset--default--0.aem-GridColumn--offset--phone--0.aem-GridColumn--default--12.aem-GridColumn.aem-GridColumn--phone--12.aem-GridColumn--phone--none.aem-GridColumn--default--none.c-static-list-podcast.staticListRotator
+ctvnews.ca##.aem-Grid--phone--12.aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--tablet--12.aem-Grid--phonelandscape--12.aem-Grid--12.aem-Grid > div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid
+ctvnews.ca##.ctvshop-widget-wrapper
+ctvnews.ca##.aem-GridColumn--default--12.aem-GridColumn.most-popular
+ctvnews.ca##.aem-Grid--phone--12.aem-Grid--default--12.aem-Grid--tablet--12.aem-Grid--phonelandscape--12.aem-Grid--12.aem-Grid > .aem-GridColumn--offset--phonelandscape--0.aem-GridColumn--offset--default--0.aem-GridColumn--default--3.aem-GridColumn--tablet--6.aem-GridColumn--phonelandscape--12.aem-GridColumn.aem-GridColumn--tablet--none.aem-GridColumn--default--none.aem-GridColumn--phonelandscape--none.aem-GridColumn--offset--tablet--0.teaser
+ctvnews.ca###list-1773241648
+ctvnews.ca##.aem-GridColumn--tabletlandscape--12.aem-GridColumn--offset--default--0.aem-GridColumn--default--12.aem-GridColumn.aem-GridColumn--tablet--none.aem-GridColumn--default--none.aem-GridColumn--tabletlandscape--newline.aem-GridColumn--offset--tablet--0.aem-GridColumn--tablet--12.aem-GridColumn--offset--tabletlandscape--0.responsivegrid > .aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--tablet--12.aem-Grid--phonelandscape--12.aem-Grid--12.aem-Grid > .aem-GridColumn--offset--phonelandscape--0.aem-GridColumn--tabletlandscape--12.aem-GridColumn--offset--default--0.aem-GridColumn--default--12.aem-GridColumn--phonelandscape--12.aem-GridColumn.aem-GridColumn--tablet--none.aem-GridColumn--default--none.aem-GridColumn--phonelandscape--none.aem-GridColumn--offset--tablet--0.aem-GridColumn--tablet--12.responsivegrid
+ctvnews.ca##div.aem-GridColumn--tabletlandscape--12.aem-GridColumn--offset--default--0.aem-GridColumn--default--12.aem-GridColumn.aem-GridColumn--default--none.aem-GridColumn--tablet--12.responsivegrid:nth-of-type(4)
+ctvnews.ca##div.aem-GridColumn--tabletlandscape--12.aem-GridColumn--default--12.aem-GridColumn.aem-GridColumn--tablet--12.c-list-videos-grid.list:nth-of-type(2)
+
+
+! ================
+! Individual pages
+! ================
+
+! Meta
+ctvnews.ca##.c-jasper-video-lineup
+ctvnews.ca##.bio-container
+ctvnews.ca##.c-flyout__shareText
+ctvnews.ca##div.polopoly_embed > ul > li > [href="https://www.ctvnews.ca/app"]
+ctvnews.ca##.c-text > ul > li > [href="https://www.ctvnews.ca/app"]
+ctvnews.ca##strong > [href="https://www.ctvnews.ca/newsletters"]
+ctvnews.ca##strong > [href="https://www.ctvnews.ca/app"]
+
+! Bottom of Post
+ctvnews.ca##.c-imageG.c-relatedImg
+ctvnews.ca##.c-bottom__container
+
+! Related etc
+ctvnews.ca###articleVideoSlider-1598411968 > .c-article-video
+ctvnews.ca##.basicpage.page.xfpage
+ctvnews.ca##.c-text > .c-relatedStories
+
+! Jan 10, 2025 https://www.ctvnews.ca
+ctvnews.ca##[href="https://whatsapp.com/channel/0029VaHOKHN3rZZbOPG8Kz2H"]

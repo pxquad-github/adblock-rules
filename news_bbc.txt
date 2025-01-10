@@ -1,0 +1,69 @@
+! =============================================================
+! NEWS_BBC (https://www.bbc.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+
+! ================================
+! Main page (https://www.bbc.com/)
+! ================================
+
+! Footer
+bbc.com##.iNEkxQ.sc-97754ce7-0
+bbc.com##.kAvlOV.sc-f1836ce-1
+bbc.com##.bpAeuU.sc-e205027-1
+bbc.com##.fwyFkM.sc-19b1eb93-1 > li:nth-of-type(3)
+bbc.com##.fwyFkM.sc-19b1eb93-1 > li:nth-of-type(10)
+bbc.com##li:nth-of-type(12)
+bbc.com##li:nth-of-type(14)
+bbc.com##.fwyFkM.sc-19b1eb93-1 > li:nth-of-type(11)
+bbc.com##.fwyFkM.sc-19b1eb93-1 > li:nth-of-type(7)
+bbc.com##.fwyFkM.sc-19b1eb93-1 > li:nth-of-type(8)
+bbc.com##.fwyFkM.sc-19b1eb93-1 > li:nth-of-type(9)
+bbc.com##li:nth-of-type(13)
+bbc.com###footer-content
+
+! Header
+bbc.com##.fXyeMV.sc-f7d67ffe-12
+bbc.com##.eki2hvo21.ssrcss-1bn0jvl-GlobalNavigationItem
+bbc.com##li.cHJCBW.sc-f116bf72-3:nth-of-type(3) > div > .eqTiTw.sc-f116bf72-4
+bbc.com##li.cHJCBW.sc-f116bf72-3:nth-of-type(8) > div > .eqTiTw.sc-f116bf72-4
+bbc.com##li.cHJCBW.sc-f116bf72-3:nth-of-type(9) > div > .eqTiTw.sc-f116bf72-4
+bbc.com##.kkeorx.sc-f116bf72-3 > div > .eqTiTw.sc-f116bf72-4
+bbc.com##li.cHJCBW.sc-f116bf72-3:nth-of-type(11) > div > .eqTiTw.sc-f116bf72-4
+bbc.com##li.cHJCBW.sc-f116bf72-3:nth-of-type(7) > div > .eqTiTw.sc-f116bf72-4
+bbc.com##li.cHJCBW.sc-f116bf72-3:nth-of-type(6) > div > .eqTiTw.sc-f116bf72-4
+
+! Pullout menu
+bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(5) > div > .gILusN.sc-2e6baa30-0 > .jFnfdm.sc-b11b9313-2
+bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(16) > .gILusN.sc-2e6baa30-0 > .jFnfdm.sc-b11b9313-2
+bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(14) > .gILusN.sc-2e6baa30-0 > .jFnfdm.sc-b11b9313-2
+bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(13) > div
+bbc.com##div.eaJOnH.sc-b11b9313-5 > .gILusN.sc-2e6baa30-0 > .jFnfdm.sc-b11b9313-2
+bbc.com##div.eaJOnH.sc-b11b9313-5 > div > .gILusN.sc-2e6baa30-0 > .jFnfdm.sc-b11b9313-2
+bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(11)
+bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(10)
+bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(9)
+bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(8)
+
+! Sections I don't care about
+bbc.com##.cYqRar.sc-ba42a659-1
+bbc.com##.kMvxBp.sc-ba42a659-1
+
+
+! ================
+! Individual posts
+! ================
+
+! Meta
+bbc.com##.kZrEzh.sc-2b5e3b35-3
+bbc.com##.eoocusk1.ssrcss-vgzeyl-Button
+bbc.com##.hnWDjJ.sc-b6dc157-8
+
+! Stuff at the bottom
+||ichef.bbci.co.uk/news/*/cpsprodpb/91c8/live/97dfb010-cf2a-11ef-87df-d575b9a434a4.png.webp$image
+bbc.com##.kMyFYO.sc-3df0d64d-0
+bbc.com##div.dlWCEZ.sc-18fde0d6-0:nth-of-type(19) > .fYAfXe.sc-eb7bd5f6-0
+bbc.com##.gfTVSf.sc-18fde0d6-0
+bbc.com##aside.GdVOW.sc-ba42a659-1

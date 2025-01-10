@@ -1,0 +1,56 @@
+! ==============================================================================
+! NEWS_CITYNEWS
+! Multiple domains: https://toronto.citynews.ca/, https://kitchener.citynews.ca/
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==============================================================================
+
+
+! ==================================
+! Main page (https://*.citynews.ca/)
+! ==================================
+
+! Header
+citynews.ca##.container.container-secondary
+citynews.ca##.d-md-block.d-none.topbar
+
+! Navigation sections I don't care about
+
+! Jan 10, 2025 https://kitchener.citynews.ca
+citynews.ca##.nav-item.menu-item-3103183.dropdown.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+citynews.ca##.nav-extras.align-items-center.d-md-flex.d-none
+citynews.ca##.nav-item.menu-item-3103152.dropdown.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+citynews.ca##.nav-item.menu-item-3103151.menu-item-object-custom.menu-item-type-custom.menu-item
+
+! Footer
+citynews.ca##footer
+
+! Side bar
+citynews.ca##.d-md-block.d-sm-none.mb-4.col-md-5.col-lg-3.second.widgets
+citynews.ca##.pt-2.px-4.most-popular-today.shared-component
+citynews.ca##.sidebar-sticky-inner
+
+! Sections I don't care about
+citynews.ca##div.even.container.p-sm-3.page-component.promo-module:nth-of-type(8)
+citynews.ca##div.container.p-sm-3.page-component.promo-module:nth-of-type(10)
+citynews.ca##div.even.container.p-sm-3.page-component.promo-module:nth-of-type(5)
+citynews.ca##.even.grey-mode.container.videos-strip.page-component
+citynews.ca##.col-12.col-sm-6.col-md-5.col-lg-3.justify-content-end.d-sm-flex.d-none.big-box-col
+
+
+
+! ===============
+! Individual post
+! ===============
+
+! Meta
+citynews.ca##.col-md-1.d-md-flex.d-none > .row.share-tools-row
+citynews.ca##.d-flex.utility-links
+
+! Bottom of post
+citynews.ca##.related-links
+citynews.ca##.even.d-md-block.d-none.top-stories.page-component
+
+
+! Traffic specific
+citynews.ca##.mx-2.d-flex.traffic-tweets-col
