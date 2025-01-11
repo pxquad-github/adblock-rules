@@ -1,0 +1,71 @@
+! =============================================================
+! SHOPPING_CTIRE (https://www.canadiantire.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Headers
+canadiantire.ca##.aem-GridColumn--default--12.aem-GridColumn.infobanner
+canadiantire.ca##.nl-pencil-banner__email-sign-up
+canadiantire.ca##.nl-xs-flex.nl-pencil-banner__join-triangle-rewards
+canadiantire.ca##.pencil-banner__left-part > span
+canadiantire.ca##.pencil-banner__left-part
+canadiantire.ca##.nl-wishlist
+
+! General promotions
+canadiantire.ca##div.aem-GridColumn--default--12.aem-GridColumn.slimbanner:nth-of-type(8)
+canadiantire.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.trendingsearches
+canadiantire.ca##.nl-full-width-container.nl-email-sticky-banner
+
+! Sections I don't care about
+canadiantire.ca##.aem-GridColumn--default--12.aem-GridColumn.reactbasecomponent.loyaltyofferscarousel
+canadiantire.ca##.nl-full-width-container.nl-guided-signIn-banner
+canadiantire.ca##.recommendation-tabs.cmp-tabs
+canadiantire.ca###swiper-dkabqbdwu
+canadiantire.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.slimbanner
+canadiantire.ca##.nl-row--no-gutters.nl-container.nl-row > .nl-col-xs-6.nl-col-sm-12.nl-col-md-12
+
+! Footer
+canadiantire.ca##.nl-full-width-container.footer-social-share-icon
+canadiantire.ca##.nl-copyright-footer__first-row
+canadiantire.ca##.nl-full-width-container.nl-copyright-footer
+canadiantire.ca##.footer-social-share-icon.nl-col-sm-offset-1.nl-col-sm-3.nl-col-md-offset-1.nl-col-xs-6.nl-col-md-3
+canadiantire.ca##.nl-educational-component
+canadiantire.ca##[src="https://www.media-canadiantire.ca/category-content/2024/canadiantire-ca-home-page-2024-/odp-ctr-clearance-brandtile-sportsrec-iceskate.png"]
+canadiantire.ca##li.show.nl-col-sm-3.nl-col-xs-3.nl-featured-list__brand-title:nth-of-type(5) > .nl-featured-list__image-container > .js-promo-cta-name.nl-featured-list__title
+canadiantire.ca##li.show.nl-col-sm-3.nl-col-xs-3.nl-featured-list__brand-title:nth-of-type(5)
+canadiantire.ca##.js-simple-footer-second-row
+canadiantire.ca##.nl-full-width-container.js-simple-footer
+
+
+! Navigation
+canadiantire.ca##li.nl-secondary-navigation-bar__nav-list--link.nl-secondary-navigation-bar__nav-list--item:nth-of-type(9)
+canadiantire.ca##li.nl-secondary-navigation-bar__nav-list--link.nl-secondary-navigation-bar__nav-list--item:nth-of-type(8)
+canadiantire.ca##li.nl-secondary-navigation-bar__nav-list--link.nl-secondary-navigation-bar__nav-list--item:nth-of-type(7)
+canadiantire.ca##li.nl-secondary-navigation-bar__nav-list--link.nl-secondary-navigation-bar__nav-list--item:nth-of-type(6)
+canadiantire.ca##li.nl-secondary-navigation-bar__nav-list--link.nl-secondary-navigation-bar__nav-list--item:nth-of-type(5)
+
+! Meta
+canadiantire.ca##.nl-toast__error-container--error.nl-toast__error-container
+
+! Signin
+customerauth.triangle.com##.nl-clp-logo-list__container
+
+! ===============================
+! Product listing, search results
+! ===============================
+
+! Meta
+canadiantire.ca##.nl-product-card__wishlist
+canadiantire.ca##span > .nl-pte-benefits__guest
+canadiantire.ca##.btn.myregistry.mr-widget-cust-ent
+canadiantire.ca##.nl-buy-online__free-pickup-container__curbside-label
+canadiantire.ca##.nl-buy-box__sales-alerts-container.nl-button2--tertiary-default.nl-button2--tertiary.nl-button2
+canadiantire.ca##.aem-GridColumn--default--4.aem-GridColumn--tablet--9.aem-GridColumn.aem-GridColumn--phone--12.reactbasecomponent.potentialtoearn
+
+! Details
+canadiantire.ca##.nl-dynamic-carousel__category--certona-skeleton.nl-skeleton.react-loading-skeleton
+canadiantire.ca###BVQAContainer
+canadiantire.ca###BVRRContainer
+canadiantire.ca##.nl-pte-preview
+

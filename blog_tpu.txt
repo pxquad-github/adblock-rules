@@ -1,5 +1,5 @@
 ! =================================================================================================================
-! TPU
+! BLOG_TPU
 ! This will filter out annoyances on the TechPowerUp website, both at the main/top level but also once you navigate
 ! down into articles and posts
 !

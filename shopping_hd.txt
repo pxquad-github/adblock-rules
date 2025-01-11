@@ -1,0 +1,93 @@
+! =============================================================
+! SHOPPING_HD (https://www.homedepot.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Header
+homedepot.ca##li.acl-text-size--small.acl-ml--medium.acl-list-item:nth-of-type(2)
+homedepot.ca##li.acl-text-size--small.acl-ml--medium.acl-list-item:nth-of-type(3)
+homedepot.ca##li.acl-text-size--small.acl-ml--medium.acl-list-item:nth-of-type(6)
+
+! Navigation sections to hide
+homedepot.ca##li.acl-text-size--small.acl-mr--x-large.acl-list-item:nth-of-type(4)
+homedepot.ca##li.acl-text-size--small.acl-mr--x-large.acl-list-item:nth-of-type(3)
+homedepot.ca##li.acl-text-size--small.acl-mr--x-large.acl-list-item:nth-of-type(2)
+
+! Footer
+homedepot.ca##.hdca-footer__section--banner
+homedepot.ca##.hdca-footer-banner
+homedepot.ca##.hdca-footer__section--small-banners.hdca-footer__section
+homedepot.ca##.hdca-footer__legal-section
+homedepot.ca##.hdca-footer__privacy-section
+homedepot.ca###footer3
+homedepot.ca##.false.hdca-cms-styled-layout-container--content-vertical--top.hdca-cms-styled-layout-container--gutter-style--none.hdca-cms-styled-layout-container > .aem-Grid--default--12.aem-Grid--12.aem-Grid.hdca-cms-styled-layout-container__content > .aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer
+
+
+! Blocks to remove from the main landing page
+homedepot.ca##.hdca-cms-product-carousel--has-bottom-border.hdca-cms-product-carousel--has-top-border.false.hdca-cms-product-carousel
+homedepot.ca##.hdca-cms-related-content-carousel
+homedepot.ca##.aem-Grid--default--12.aem-Grid--12.aem-Grid.hdca-cms-styled-layout-container__content > .aem-GridColumn--default--12.aem-GridColumn.title > .hdca-cms-title--content-horizontal--center.hdca-cms-title--content-style--depot-black.hdca-cms-title--is-h2.hdca-cms-title
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer:nth-of-type(15)
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer:nth-of-type(4)
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer:nth-of-type(5)
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer:nth-of-type(10)
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer:nth-of-type(12)
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer:nth-of-type(13)
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer:nth-of-type(14)
+
+! Popular searches
+homedepot.ca##.aem-GridColumn--default--12.aem-GridColumn--offset--small--0.aem-GridColumn--small--12.aem-GridColumn.aem-GridColumn--small--hide.responsivegrid.styledlayoutcontainer > .false.hdca-cms-styled-layout-container--content-vertical--top.hdca-cms-styled-layout-container--gutter-style--none.hdca-cms-styled-layout-container
+
+! Cookie popup
+homedepot.ca###onetrust-consent-sdk
+
+! Newsletter popup
+homedepot.ca##hdca-root > .ng-star-inserted
+
+! General sponsored banners and promos
+homedepot.ca##sponsored-banner
+homedepot.ca##.hdca-cms-sliver-banner--content-style--black-white-white.hdca-cms-sliver-banner--second-image-ratio--2-to-1.hdca-cms-sliver-banner--small-image-ratio--3-to-1.hdca-cms-sliver-banner--image-ratio--3-to-1.hdca-cms-sliver-banner--cta-align--below-text.hdca-cms-sliver-banner--image-box-width--1-of-2.hdca-cms-sliver-banner--image-align--left.false.hdca-cms-sliver-banner
+
+
+
+! ===================================================================
+! Tools page (https://www.homedepot.ca/en/home/categories/tools.html)
+! ===================================================================
+
+homedepot.ca##.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer
+homedepot.ca##div.aem-GridColumn--offset--default--0.aem-GridColumn--default--10.aem-GridColumn.aem-GridColumn--small--10.aem-GridColumn--medium--10.aem-GridColumn--default--none.responsivegrid:nth-of-type(4)
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn--offset--small--0.aem-GridColumn--small--12.aem-GridColumn.aem-GridColumn--small--hide.image:nth-of-type(10)
+homedepot.ca##div.aem-GridColumn--default--12.aem-GridColumn--offset--small--0.aem-GridColumn--small--12.aem-GridColumn.aem-GridColumn--small--hide.image:nth-of-type(12)
+homedepot.ca##.aem-GridColumn--default--12.aem-GridColumn.responsivegrid.accordion
+homedepot.ca##.aem-GridColumn--offset--default--0.aem-GridColumn--default--10.aem-GridColumn--offset--small--0.aem-GridColumn.aem-GridColumn--medium--10.aem-GridColumn--default--none.aem-GridColumn--small--none.hdca-cms-rich-text
+homedepot.ca##.aem-GridColumn--default--12.aem-GridColumn.productcarousel
+
+
+
+! =================================================
+! Search results (https://www.homedepot.ca/search?)
+! =================================================
+
+homedepot.ca##.acl-product-card__options-container--x-small.acl-hidden--if-empty.acl-product-card__dynamic-tag-wishlist-container
+homedepot.ca##search-feedback
+homedepot.ca##article.ng-star-inserted.acl-container
+
+! Footer
+homedepot.ca##.ng-star-inserted.acl-my--x-large.acl-py--large.acl-bg-color--shade
+homedepot.ca##.ng-star-inserted.acl-pb--x-large.acl-px--medium.acl-container
+homedepot.ca##div.ng-star-inserted.acl-px--medium.acl-container:nth-of-type(3)
+
+
+
+
+! =======================
+! Individual product page
+! =======================
+
+homedepot.ca##div.hdca-container > div.ng-star-inserted
+homedepot.ca##.acl-popover-position--bottom-middle.acl-popover
+homedepot.ca##.hdca-product__description-share
+homedepot.ca##.acl-stencil--is-animating.ng-star-inserted.hdca-grid--align-spread.hdca-grid.acl-stencil--border-bottom.acl-stencil.acl-pb--large
+homedepot.ca##.acl-stencil--is-animating.ng-star-inserted.acl-stencil--border-top.acl-stencil.acl-pt--medium
+homedepot.ca##.ng-star-inserted.acl-mb--x-large > div.ng-star-inserted > .ng-valid.ng-pristine.ng-untouched

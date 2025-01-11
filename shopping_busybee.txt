@@ -1,0 +1,31 @@
+! ===============================================================================
+! SHOPPING_BUSYBEE (https://www.busybeetools.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Header
+busybeetools.com##.subtext_topbar
+busybeetools.com##li:nth-of-type(2) > [href="/pages/gift-cards"]
+
+
+! Footer
+busybeetools.com##.logo-description
+busybeetools.com##.footer-infor-group > .logo-socials
+busybeetools.com##.block-newsletter.block-item
+busybeetools.com###shopify-section-sections--17730237726886__1d9543ed-4baf-4519-9abd-cc1168be145c > .layout-boxed > .container.section-container > .footer-wrapper
+busybeetools.com###shopify-section-sections--17730237726886__1d9543ed-4baf-4519-9abd-cc1168be145c
+busybeetools.com##.footer-btn-group
+busybeetools.com##.logo
+
+! Chat
+busybeetools.com###launcher
+
+! Sections we don't care about
+busybeetools.com##.content-overlay.layout-boxed.section-gallery
+busybeetools.com##.featured-brands-wrapper.container.section-container
+busybeetools.com##.layout-wide.section-hero-banner
+busybeetools.com###shopify-section-template--17730239103142__dynamic_section_gallery_gWMLyY
+busybeetools.com###shopify-section-template--17730239103142__a351a5ba-6674-4ff0-85c5-ff1bf66671cf
+busybeetools.com##.shopify-section-catalogues.shopify-section-group-group-footer.shopify-section
+busybeetools.com##.layout-wide.section-slideshow

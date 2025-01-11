@@ -1,0 +1,41 @@
+! =============================================================
+! SHOPPING_WISELINE (https://wiselinetools.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! ===================================
+! GENERAL (https://wiselinetools.ca/)
+! ===================================
+
+! Newsletter
+wiselinetools.ca###shopify-section-template--15036426354791__newsletter
+
+
+! Footer
+wiselinetools.ca##.footer__block-item--text.footer__block-item
+wiselinetools.ca##.footer__aside-item--social.footer__aside-item
+wiselinetools.ca##.footer__block-item--newsletter.footer__block-item
+wiselinetools.ca##.footer__aside
+wiselinetools.ca##.locale-selectors__container
+
+! Header
+wiselinetools.ca##.hidden-phone.announcement-bar__button
+wiselinetools.ca###shopify-section-template--15036426354791__slideshow
+
+
+! ============
+! Product Page
+! ============
+
+! Payment plan
+wiselinetools.ca##.affirm-as-low-as
+wiselinetools.ca##.szl-light.sezzle-left.sezzle-button-text
+
+! Related products
+wiselinetools.ca##.product-block-list__item--complementary.product-block-list__item
+wiselinetools.ca##.product-recommendations
+wiselinetools.ca###shopify-section-template--15036427403367__product-recommendations
+
+! Payment security
+wiselinetools.ca##.product-block-list__item--trust.product-block-list__item

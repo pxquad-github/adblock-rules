@@ -1,0 +1,43 @@
+! =============================================================
+! SHOPPING_EBOOKS (https://www.ebookdaily.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+
+! Individual book entries
+ebookdaily.com##.book-cover
+ebookdaily.com##.sharing
+ebookdaily.com##.rating-count
+ebookdaily.com##.s_starBig_5_0.swSprite
+ebookdaily.com##.s_starBig_4_5.swSprite
+ebookdaily.com##.s_starBig_4_0.swSprite
+
+! Categories
+ebookdaily.com##h2
+
+! Modeal dialog
+ebookdaily.com##.overlaysan
+ebookdaily.com##.overlay-mask
+
+! Sidebar
+ebookdaily.com##.span4
+
+! Footer
+ebookdaily.com##footer
+ebookdaily.com##hr:nth-of-type(2)
+ebookdaily.com##.grecaptcha-badge
+||ebookdaily.com/img/free-kindle-books-background-gray2-1280x905.jpg$image
+
+! Header
+ebookdaily.com##[href="/contact/"]
+ebookdaily.com##[href="/bargain-kindle-books/"]
+ebookdaily.com##.dropdown-toggle
+ebookdaily.com##[href="/free-kindle-ebooks/"]
+
+! Previous entries
+ebookdaily.com##.span12 > .pull-right.btn
+
+! Misc
+ebookdaily.com##.span12 > p
+||ebookdaily.com/img/ebookdaily-logo.png$image

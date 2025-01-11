@@ -1,0 +1,71 @@
+! =============================================================
+! SHOPPING_BESTBUY (https://www.bestbuy.ca/en-ca)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! =======
+! GENERAL
+! =======
+! Sections that I don't care about
+bestbuy.ca##section.featuredSkuList.m_marginBottom_m_yLaUb.s_marginBottom_m_3hdPx.xs_marginBottom_s_3QukH.contentContainer_3jS31:nth-of-type(7)
+bestbuy.ca##section.m_marginBottom_m_yLaUb.s_marginBottom_m_3hdPx.xs_marginBottom_s_3QukH.contentContainer_3jS31 > .siteSizeLayout_2_W9H > .showContainer_2l0im.xsTwoAcross_3UJ8E.columnContentRow_16zNr
+bestbuy.ca##section.featuredSkuList.m_marginBottom_m_yLaUb.s_marginBottom_m_3hdPx.xs_marginBottom_s_3QukH.contentContainer_3jS31:nth-of-type(9)
+bestbuy.ca##.styles-module_banner__qe6yE.styles-module_skeleton__-vt7F
+bestbuy.ca##section.m_marginBottom_m_yLaUb.s_marginBottom_m_3hdPx.xs_marginBottom_s_3QukH.contentContainer_3jS31:nth-of-type(8) > .siteSizeLayout_2_W9H > .sectionTitle_x2Bri.sectionTitle_2nLse
+bestbuy.ca##.m_marginBottom_m_yLaUb.s_marginBottom_s_2jKR8.xs_marginBottom_s_3QukH.contentContainer_3jS31
+bestbuy.ca##section.m_marginBottom_m_yLaUb.s_marginBottom_m_3hdPx.xs_marginBottom_s_3QukH.contentContainer_3jS31:nth-of-type(2)
+
+
+! Footer
+bestbuy.ca##.style-module_newsLetterContainer__PHlKi
+bestbuy.ca##.style-module_valuePropsContainer__Ug80r
+bestbuy.ca##.style-module_container__EsGgi
+bestbuy.ca###\38 2846
+bestbuy.ca###\37 4931
+bestbuy.ca###\32 2989
+bestbuy.ca###\37 415
+bestbuy.ca##div.style-module_linkGroup__9KEhW:nth-of-type(3) > .style-module_expandableContainerSpecificity__Z9SNT.style-module_expandableContainer__uKxrT.style-module_container__5DZWy > .style-module_headerTitle__55VFm
+bestbuy.ca##div.style-module_linkGroup__9KEhW:nth-of-type(6) > .style-module_expandableContainerSpecificity__Z9SNT.style-module_expandableContainer__uKxrT.style-module_container__5DZWy > .style-module_headerTitle__55VFm
+bestbuy.ca##div.style-module_linkGroup__9KEhW:nth-of-type(5) > .style-module_expandableContainerSpecificity__Z9SNT.style-module_expandableContainer__uKxrT.style-module_container__5DZWy > .style-module_headerTitle__55VFm
+bestbuy.ca##div.style-module_linkGroup__9KEhW:nth-of-type(4) > .style-module_expandableContainerSpecificity__Z9SNT.style-module_expandableContainer__uKxrT.style-module_container__5DZWy > .style-module_headerTitle__55VFm
+
+
+! Header
+bestbuy.ca##.style-module_nav__0BhoG > li:nth-of-type(2)
+bestbuy.ca##.style-module_nav__0BhoG > li:nth-of-type(3)
+
+
+! ===============
+! PRODUCT LISTING
+! ===============
+
+bestbuy.ca##.right_1Z_t0.featureBanner_HhtAC
+bestbuy.ca##.featuredSkuList.m_marginBottom_m_yLaUb.s_marginBottom_m_3hdPx.xs_marginBottom_s_3QukH.contentContainer_3jS31
+bestbuy.ca##.left_3VhXy.barBanner_3ONwb
+bestbuy.ca##.m_marginBottom_none_JrmZa.s_marginBottom_none_1-qSF.xs_marginBottom_none_2kWdW.contentContainer_3jS31
+bestbuy.ca##.m_marginBottom_m_yLaUb.s_marginBottom_m_3hdPx.xs_marginBottom_xs_3S_aY.contentContainer_3jS31
+bestbuy.ca##.seoContainer_3yFBJ
+bestbuy.ca##.seoText_o9Fa4
+
+! Footer
+bestbuy.ca###\35 3341
+bestbuy.ca###\35 1356
+bestbuy.ca###\33 4128
+bestbuy.ca##div.style-module_linkGroup__9KEhW:nth-of-type(4) > .style-module_expandableContainerSpecificity__Z9SNT.style-module_expandableContainer__uKxrT.style-module_container__5DZWy
+bestbuy.ca##[href="/en-ca/about/best-buy-advertising/blteb783fe55d4099b4"]
+bestbuy.ca##[href="/en-ca/about/affiliate-program/blt82df225e80ec75e9"]
+bestbuy.ca##[href="/en-ca/about/selling-on-marketplace/blt38484947eacf725e"]
+bestbuy.ca##.style-module_iconLink__k4p3f
+
+
+
+! ===============
+! PRODUCT DETAILS
+! ===============
+
+! Meta
+bestbuy.ca##.text-v2-geek-squad-black.text-micro-lg.mb-0
+bestbuy.ca##.productOfferDetailsGridArea_TEvfa > .mb-4
+bestbuy.ca##.productOffersDetails_3ndmN
+bestbuy.ca##.max-w-\[75\%\]

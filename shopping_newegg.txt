@@ -1,0 +1,73 @@
+! =============================================================
+! SHOPPING_NEWEGG (https://www.newegg.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! =======
+! GENERAL
+! =======
+
+! Header
+newegg.ca##.header2021-links.section-right
+
+! Sections I don't want
+newegg.ca###You_May_Also_Like
+newegg.ca##.swiper-cards-left
+newegg.ca##.negg-features.page-section
+
+! Tags
+newegg.ca##.col-w-1.gap-20px.grid
+
+! Promotional blobs
+newegg.ca##.personalized-ces
+newegg.ca##.columns_1-3_row_1-2.bento-grid-m > .hero-banner
+newegg.ca##.columns_1-3_row_1-2.bento-grid-m
+newegg.ca##.columns_3-5_row_2-3.bento-grid-m
+newegg.ca##section.bento-grid-s:nth-of-type(5)
+newegg.ca##.order-1.bento-grid-s
+newegg.ca##section.bento-grid-s:nth-of-type(4)
+newegg.ca##section.bento-grid-s:nth-of-type(3)
+newegg.ca##.subscribe-box.col-wide.bg-white.radius-m.grid-col
+newegg.ca##.our-apps.bg-white.radius-m.grid-col
+
+! Meta
+newegg.ca##.floating-right-tools
+
+! Footer
+newegg.ca##.footer2021-disclaimer
+newegg.ca##.col-w-s-1.col-w-5.gap-20px.grid > div.grid-col:nth-of-type(5)
+newegg.ca##.col-w-s-1.col-w-5.gap-20px.grid > div.grid-col:nth-of-type(3)
+newegg.ca##.col-w-s-1.col-w-5.gap-20px.grid > div.grid-col:nth-of-type(4)
+
+! Popup menu
+newegg.ca##div.menu-list:nth-of-type(7)
+newegg.ca##div.menu-list:nth-of-type(5)
+newegg.ca##div.menu-list:nth-of-type(3)
+
+
+! ====================
+! PRODUCT DETAILS PAGE
+! ====================
+
+! Blobs I don't care about
+newegg.ca##.product-similar-box
+newegg.ca##.product-combo-up
+newegg.ca###product-comparison
+
+! Side Bar
+newegg.ca##.product-vs-review
+
+! Jan 10, 2025 https://www.newegg.ca
+newegg.ca##.margin-top
+newegg.ca##[href^="https://www.newegg.ca/tools/custom-pc-builder"]
+newegg.ca##[href^="https://www.newegg.ca/tools/nas-builder"]
+newegg.ca##.product-pcb-btn
+newegg.ca##.price-financing-box
+newegg.ca##.product-share
+newegg.ca##.product-alert.product-btn
+newegg.ca##.display-block.product-report.product-btn
+newegg.ca##.product-compare.form-checkbox.btn
+newegg.ca##.width-100.display-block.product-wishlist.product-btn
+newegg.ca##.justify-content-flex-start.flex-wrap.display-flex.product-btn-group
+

@@ -1,0 +1,73 @@
+! ============
+! MAIN LANDING
+! ============
+
+! Header
+imdb.com##.jHAJWx.sc-eGJXzN
+imdb.com##.imdb-header__watchlist-button.jzOrdI.sc-fcmLWC > .ipc-text-button.ipc-btn--on-textPrimary.ipc-btn--button-radius.ipc-btn--theme-baseAlt.ipc-btn--core-baseAlt.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--single-padding.ipc-btn
+imdb.com##.ftVCet.sc-GvgMv.navbar__imdbpro
+
+
+! Top banner blob
+imdb.com##.ipc-page-grid__item--span-3.ipc-page-grid__item.bhtxwn.sc-49851e97-0
+
+! Featured today
+imdb.com##div.page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(2)
+
+! Most popular celebrities
+imdb.com##.hmZTRy.sc-a10d778f-0.ipc-page-content-container--center.ipc-page-content-container > .celwidget.ipc-page-section--baseAlt.ipc-page-section
+
+! What to watch
+imdb.com##.ipc-title__actions
+imdb.com##.from-your-watchlist
+imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:nth-of-type(1)
+imdb.com##.fan-picks > .ipc-title--on-textPrimary.ipc-title--subsection-title.ipc-title--baseAlt.ipc-title > .ipc-title__description
+imdb.com##.celwidget.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section
+
+! Exclusive videos
+imdb.com##.ipc-page-grid__item--span-3.ipc-page-grid__item > .ipc-page-section--baseAlt.ipc-page-section
+imdb.com##.ipc-page-grid__item--span-3.ipc-page-grid__item > .ipc-title--on-accent1.ipc-title--category-title.ipc-title--baseAlt.ipc-title > hgroup > .ipc-title__text
+
+! Explore
+imdb.com##div:nth-of-type(5) > .page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-title--on-accent1.ipc-title--category-title.ipc-title--baseAlt.ipc-title > hgroup > .ipc-title__text
+imdb.com##.top-box-office
+imdb.com##div:nth-of-type(6) > .page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid > section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:nth-of-type(2)
+imdb.com##div:nth-of-type(5) > .page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid
+imdb.com##.rvi-empty-section
+imdb.com##.coming-soon-movie > .ipc-title--on-textPrimary.ipc-title--subsection-title.ipc-title--baseAlt.ipc-title > .ipc-title__description
+
+
+
+! Metadata on posts
+imdb.com##.ipc-secondary-button.ipc-btn--on-accent2.ipc-btn--button-radius.ipc-btn--theme-baseAlt.ipc-btn--core-baseAlt.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--full-width.ipc-btn
+imdb.com##div.ipc-sub-grid-item--span-4.ipc-sub-grid-item.coming-soon-title.ipc-slate-card--dynamic-width.ipc-slate-card--media-radius.ipc-slate-card--baseAlt.ipc-slate-card > .ipc-slate-card__content > .ipc-slate-card__text-container > .ipc-slate-card__actions
+imdb.com##div.ipc-sub-grid-item--span-4.ipc-sub-grid-item.coming-soon-title.ipc-slate-card--dynamic-width.ipc-slate-card--media-radius.ipc-slate-card--baseAlt.ipc-slate-card > .eJnXkD.sc-11d104ba-2
+imdb.com##.ipc-rate-button--baseAlt.ipc-rate-button--unrated.ipc-rating-star-group--unrated.ipc-rate-button
+
+! Footer
+imdb.com##.footer.cvdsgD.sc-bCwene.imdb-footer
+
+
+
+! ================
+! INDIVIDUAL MOVIE
+! ================
+
+! Header
+imdb.com##div.rating-bar__base-button.iaJqqu.sc-acdbf0f3-0:nth-of-type(2)
+imdb.com##.kUfGfN.sc-70a366cc-1.jJkxPn.sc-3a4309f8-0 > .dOjKRs.sc-3a4309f8-1 > div.rating-bar__base-button.iaJqqu.sc-acdbf0f3-0:nth-of-type(3)
+imdb.com##.ipc-responsive-button--button-radius.ipc-responsive-button--single-padding.ipc-btn--on-textPrimary.ipc-responsive-button--transition-m.ipc-btn--theme-baseAlt.ipc-responsive-button
+imdb.com##.kVSIEg.sc-1fdae676-1
+imdb.com##.hGdSLi.sc-5d8253ca-3
+
+! Meta
+imdb.com##.GeQgK.sc-70a366cc-9.eyKCbY.sc-22537390-0.ipc-metadata-list__item > .ipc-metadata-list-item__content-container > .celwidget.pro-upsell.gQyhzh.sc-a7284962-0
+imdb.com##.ketnsO.sc-9a2a0028-11
+imdb.com##.cDzRCX.sc-9a2a0028-11 > div
+imdb.com##li.flXrcD.sc-b782214c-1.ipc-inline-list__item:nth-of-type(1)
+imdb.com##li.flXrcD.sc-b782214c-1.ipc-inline-list__item:nth-of-type(2)
+
+! Sidebar
+imdb.com##.right-rail-more-to-explore.foEuCN.sc-65d2a03-2
+
+! Details

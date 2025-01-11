@@ -1,0 +1,62 @@
+! =============================================================
+! SHOPPING_EBAY (https://www.ebay.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+
+! ==============================
+! GENERAL (https://www.ebay.ca/)
+! ==============================
+
+! Quick nav links 
+ebay.ca##.vl-flyout-nav__container
+
+
+! Footer
+ebay.ca###vlGlobalFooter
+
+! Sections we don't care about
+ebay.ca##.gf-legal
+ebay.ca##.tracking-wrapper
+ebay.ca##div.vl-atf-module-js.vl-banner-color-block.vl-banner:nth-of-type(6)
+ebay.ca##.vl-atf-module-js.off-card.vl-loyalty.vl-module
+ebay.ca##div.CARD_LIST_WITH_HEADER_CARD.dweb.vl-atf-module-js.vl-card-list-with-header-card.vl-module
+ebay.ca##div.vl-atf-module-js.vl-banner-color-block.vl-banner > .vl-banner-color-block__container
+ebay.ca##.evo-carousel.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full
+ebay.ca##.brw-multimedia--SEO_TEXT_BLURB.brw-multimedia
+ebay.ca##.brw-events__doorway
+ebay.ca##.brw-events
+
+
+
+
+
+
+! ============
+! PRODUCT PAGE
+! ============
+
+! The endless doomscroll of sponosored/promotional items after product info and sellar feedback
+ebay.ca##.x-rx-slot-btf--101506.x-rx-slot-btf.vim-ds6.vim > div
+
+! Explore related items
+ebay.ca###placement101196
+ebay.ca##.x-atf-left-bottom-river.vim
+
+! Share button
+ebay.ca##.x-social-share.vim
+
+! Navigation links at the very bottom
+ebay.ca##.ux-navigator__container
+
+
+! =====================================================
+! Deals page (https://www.ebay.ca/deals)
+! This section will likely have regular updates as ebay 
+! runs promos (that are tricky to block)
+! =====================================================
+
+ebay.ca##[href^="https://www.ebay.ca/e/sales-events/tax-holiday"]
+ebay.ca##[href^="https://www.ebay.ca/b/eBay-Motors/6000/bn_1865334"]
+

@@ -1,0 +1,118 @@
+! ===============================================================================
+! BLOG_TOOLS
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+
+! ================================
+! TOOLGUYD (https://toolguyd.com/)
+! ================================
+
+! Header
+toolguyd.com##[href="https://toolguyd.com/category/tool-deals/"] > span
+
+! Sidebar
+toolguyd.com##.widget-area.sidebar-primary.sidebar
+
+! Footer
+toolguyd.com##[href="https://toolguyd.com/amazon-coupons-deals/"] > span
+toolguyd.com##[href="https://toolguyd.com/privacy-policy/"] > span
+toolguyd.com##[href="https://toolguyd.com/terms-of-use/"] > span
+toolguyd.com##.menu-item-47005.menu-item-object-page.menu-item-type-post_type.menu-item
+toolguyd.com##.menu-item-25954.menu-item-object-page.menu-item-type-post_type.menu-item
+toolguyd.com##[href="https://toolguyd.com/privacy-policy/"]
+toolguyd.com##[href="https://toolguyd.com/terms-of-use/"]
+toolguyd.com##.menu-item-20338.menu-item-object-custom.menu-item-type-custom.menu-item
+toolguyd.com##[href="https://toolguyd.com/tool-guide-where-to-buy-tools/"]
+
+! Post Meta
+toolguyd.com##.entry-author
+toolguyd.com##.entry-comments-link
+toolguyd.com##.entry-time
+toolguyd.com##.entry-categories
+toolguyd.com##.affnote em
+toolguyd.com##.entry-footer
+toolguyd.com##.entry-comments
+
+! Jan 10, 2025 https://toolguyd.com
+toolguyd.com##.comment-respond
+toolguyd.com##.yarpp-thumbnails-horizontal
+toolguyd.com##.yarpp-template-thumbnails.yarpp-related-website.yarpp-related.yarpp
+
+
+
+! ==================================
+! TOOLCRAZE (https://toolcraze.net/)
+! ==================================
+
+! Navigation
+toolcraze.net##[href="https://toolcraze.net/contact/"]
+toolcraze.net##[href="https://toolcraze.net/category/funny/"]
+toolcraze.net##[href="https://toolcraze.net/category/deals/"]
+toolcraze.net###menu-item-53 > [href="https://toolcraze.net/about-us/"]
+
+! Header, Sidebar, Footer
+toolcraze.net##.widget-area.clearfix
+toolcraze.net###site-generator
+toolcraze.net##.wrapper > .widget-area
+
+! Meta
+toolcraze.net##.vcard.author.no-padding-left
+toolcraze.net##.last
+
+! Individual post
+toolcraze.net##.clearfix > li:nth-of-type(3)
+toolcraze.net##p:nth-of-type(14)
+toolcraze.net##p:nth-of-type(15)
+toolcraze.net##p > .wp-embedded-content
+toolcraze.net##.tags
+toolcraze.net##.comment-respond
+toolcraze.net##p:nth-of-type(23)
+toolcraze.net##.menu-item-9868.menu-item-object-page.menu-item-type-post_type.menu-item
+
+
+
+! ================================================
+! PROTOOLREVIEWS (https://www.protoolreviews.com/)
+! ================================================
+
+! Header
+protoolreviews.com##.cst-ticker-icons.head-intro-addons
+protoolreviews.com##.nav-search-icon
+protoolreviews.com##.news-ticker
+
+! Footer
+protoolreviews.com##.footer-fullwidth.footer
+
+! Blobs
+protoolreviews.com###custom_html-28 > .custom-html-widget.textwidget > .htlad-PTR_InContent
+protoolreviews.com###custom_html-27 > .custom-html-widget.textwidget > .htlad-PTR_InContent
+
+! Sidebar
+protoolreviews.com##.sidebar
+protoolreviews.com##.col-12.col-lg-4.col-xl-4
+
+! Individual post
+protoolreviews.com###entry-177928 > .entry-header > .entry-author
+protoolreviews.com###PTR_InContent
+protoolreviews.com###PTR_InContent-1
+protoolreviews.com###PTR_InContent-2
+protoolreviews.com##div.entry-section:nth-of-type(1)
+protoolreviews.com##.entry-author-box
+protoolreviews.com##.entry-author-box-title
+protoolreviews.com##.entry-section-related.entry-section
+protoolreviews.com##.entry-author
+protoolreviews.com###PTR_InContent-14
+protoolreviews.com###PTR_InContent-13
+protoolreviews.com###PTR_InContent-12
+protoolreviews.com###PTR_InContent-11
+protoolreviews.com###PTR_InContent-10
+protoolreviews.com###PTR_InContent-9
+protoolreviews.com###PTR_InContent-8
+protoolreviews.com###PTR_InContent-7
+protoolreviews.com###PTR_InContent-6
+protoolreviews.com###PTR_InContent-5
+protoolreviews.com###PTR_InContent-4
+protoolreviews.com###PTR_InContent-3
+

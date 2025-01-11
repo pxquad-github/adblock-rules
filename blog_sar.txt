@@ -1,0 +1,24 @@
+! ===============================================================================
+! BLOG_SAR (https://www.sonyalpharumors.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+
+sonyalpharumors.com##.sidebar-primary.sidebar-container
+sonyalpharumors.com##.wpex-surface-dark.site-footer
+sonyalpharumors.com##.wpex-md-text-left.wpex-text-center.wpex-bg-gray-900.wpex-surface-dark.wpex-text-sm.wpex-py-20
+sonyalpharumors.com##.wpex-text-sm.wpex-border-solid.wpex-border-main.wpex-border-b
+sonyalpharumors.com###disqus_thread
+sonyalpharumors.com###disqus_recommendations
+sonyalpharumors.com##* > .wpex-clr.wpex-last-mb-0.entry-inner.blog-entry-inner > .wpex-mb-20.wpex-last-mr-0.wpex-text-3.wpex-text-sm.meta.entry-meta.blog-entry-meta > .comment-scroll.meta-comments
+sonyalpharumors.com##* > .wpex-clr.wpex-last-mb-0.entry-inner.blog-entry-inner > .wpex-mb-20.wpex-last-mr-0.wpex-text-3.wpex-text-sm.meta.entry-meta.blog-entry-meta > .meta-category
+sonyalpharumors.com##* > .wpex-clr.wpex-last-mb-0.entry-inner.blog-entry-inner > .wpex-clr.wpex-last-mb-0.wpex-my-20.entry-excerpt.blog-entry-excerpt > .addtoany_content_bottom.addtoany_content.addtoany_share_save_container
+sonyalpharumors.com##* > .wpex-clr.wpex-last-mb-0.entry-inner.blog-entry-inner > .wpex-clr.wpex-last-mb-0.wpex-my-20.entry-excerpt.blog-entry-excerpt > .addtoany_content_top.addtoany_content.addtoany_share_save_container
+sonyalpharumors.com##.addtoany_content_top.addtoany_content.addtoany_share_save_container
+sonyalpharumors.com##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
+sonyalpharumors.com##* > .custom-html-widget.textwidget
+sonyalpharumors.com##.comment-scroll.meta-comments
+sonyalpharumors.com##.meta-category
+sonyalpharumors.com##.wpex-clr.main-navigation-one.main-navigation.navigation
+sonyalpharumors.com##._1ky3brz

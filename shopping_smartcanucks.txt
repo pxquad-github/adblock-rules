@@ -1,0 +1,49 @@
+! =============================================================
+! SHOPPING_SMARTCANUCKS (https://www.flyers.smartcanucks.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Side bar
+smartcanucks.ca##.latest-flyers
+smartcanucks.ca##.about-sc
+smartcanucks.ca##.popular-flyers
+smartcanucks.ca##.empty
+
+! Navigation
+smartcanucks.ca##[href="https://boxingday.smartcanucks.ca"]
+smartcanucks.ca##[href="https://amazon.smartcanucks.ca"]
+smartcanucks.ca##[href="https://forum.smartcanucks.ca/"]
+smartcanucks.ca##[href="https://deals.smartcanucks.ca/"]
+smartcanucks.ca###topNavbarAuthButtons
+smartcanucks.ca##.dropdown-app-links.is-hoverable.dropdown.navbar-end
+
+! Footer
+smartcanucks.ca##.footer
+smartcanucks.ca##.footer-style.footer
+
+! Meta
+flyers.smartcanucks.ca###num-views
+flyers.smartcanucks.ca##.icon-eye-open
+
+! Geographic filter
+smartcanucks.ca##li:has-text("(QC")
+smartcanucks.ca##li:has-text("(BC")
+smartcanucks.ca##li:has-text("(West)")
+smartcanucks.ca##li:has-text("(GTA)")
+smartcanucks.ca##li:has-text("(Ottawa)")
+smartcanucks.ca##li:has-text("(Alberta)")
+smartcanucks.ca##li:has-text("(British Columbia)")
+smartcanucks.ca##li:has-text("(Manitoba)")
+smartcanucks.ca##li:has-text("(Newfoundland")
+smartcanucks.ca##li:has-text("(Nova")
+smartcanucks.ca##li:has-text("(Prince")
+smartcanucks.ca##li:has-text("(Atlantic")
+smartcanucks.ca##li:has-text("(Quebec)")
+smartcanucks.ca##li:has-text("(Saskatchewan)")
+smartcanucks.ca##li:has-text("(Yukon)")
+smartcanucks.ca##li:has-text("(New Brunswick)")
+
+! Display modes
+smartcanucks.ca##div.btn-group:nth-of-type(2)
+smartcanucks.ca##div.btn-group:nth-of-type(4)

@@ -1,0 +1,115 @@
+! ===============================================================================
+! SHOPPING_AMAZON
+! Amazon has a very GUID-heavy layout so it's a bit trickier to block things out.
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+
+! =======
+! GENERAL
+! =======
+
+# Banner video at the top
+amazon.ca##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
+
+! Looking for a gift
+amazon.ca###CardInstancey4CpS21-kijSTs1MqclooQ
+amazon.ca###CardInstanceoGoBAlPFInA2rGWrTJkmeA
+amazon.ca###CardInstanceo6y_7kVrzWplSI4RBo2dtQ
+amazon.ca###CardInstance2E_9gDl-iRGJcbclThIR2w
+amazon.ca##.truncate-1line.title.a-spacing-mini
+amazon.ca##.truncate-2line.subtext.a-color-base.a-size-base
+
+! Widget promos for things like Audible (on the Deals page)
+amazon.ca##.acsUxWidget
+amazon.ca##.shoppingCxFeedbackRootWidget
+
+! Footer elements
+amazon.ca##._video-player_view_pvea-recommendation-card-wrapper__232n5
+amazon.ca##.pd_rd_r-ee6e2d58-04b9-4586-a294-e923fcf72a0a.pd_rd_w-D5mnW.pd_rd_wg-xLQ75.celwidget.desktop-gateway-atf_28d853a1-3706-481e-b6e7-d959c3055cc9.csm-placement-id-8603603f-12dd-447b-a9f6-28ba92adba2f.gw-col
+amazon.ca##div.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine > span
+amazon.ca##div.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine > ul
+amazon.ca##div.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(5)
+amazon.ca##div.navAccessibility.navFooterColSpacerInner:nth-of-type(2)
+amazon.ca##div.navAccessibility.navFooterColSpacerInner:nth-of-type(4)
+amazon.ca##div.navAccessibility.navFooterColSpacerInner:nth-of-type(6)
+amazon.ca##div.navAccessibility.navFooterLinkCol:nth-of-type(1)
+
+
+! Buy it again, books you might like, at the bottom of pages
+amazon.ca###rhf-shoveler
+
+
+
+! ============
+! KINDLE BOOKS
+! ============
+
+! Banner image at the top of the Kindle storefront page (https://www.amazon.ca/kindle-dbs/storefront)
+amazon.ca##.a-spacing-none.a-text-center.a-span12.a-column
+
+! Main cleanup
+amazon.ca###deliver-to-device-popup > .a-declarative.a-popover-trigger
+amazon.ca##.a-color-secondary.a-size-small > [href^="/gp/help/customer/display.html"]
+amazon.ca##.buybox-message-content.a-text-center.a-spacing-none.a-section
+amazon.ca##.sample-buttons-container-reflowable.a-spacing-small.a-section
+amazon.ca###a-autoid-5 > .a-button-inner
+amazon.ca##.a-span-last.followButtonColumn.a-span5.a-column
+amazon.ca##.kcpAppsPopOver.a-link-normal.a-size-mini
+amazon.ca##.celwidget.selected.swatchElement.a-text-left.a-span6.a-column
+amazon.ca###tmm-grid-swatch-PAPERBACK > .format.a-button-toggle.a-spacing-none.a-button
+amazon.ca##.a-ws-row.formatsRow.a-row
+amazon.ca###mediaMatrixGridAODPopover > .a-declarative.a-popover-trigger
+amazon.ca###mediaMatrixGridAODPopover_feature_div > .a-declarative
+amazon.ca###deliverable-message-title
+amazon.ca###DeliverToDeviceMessage > .a-text-center.a-section > .a-declarative > .a-declarative.a-popover-trigger
+amazon.ca###heroCardTopEvo
+amazon.ca###Kibbo-KINDLE_UNLIMITED_UPSELL-Desktop
+amazon.ca##.a-spacing-top-micro.a-spacing-small.a-divider-break.a-divider
+amazon.ca##.vat-delivery-message
+amazon.ca###kcpApp_feature_div
+amazon.ca##.maple-banner
+amazon.ca##.kcpAppsPopOver.a-link-normal.a-size-mini
+amazon.ca##.celwidget.selected.swatchElement.a-text-left.a-span6.a-column
+amazon.ca##.a-ws-span-last.a-span-last.celwidget.unselected.swatchElement.a-text-left.a-span6.a-column
+amazon.ca###reviewFeatureGroup
+amazon.ca###bookDescription_feature_div
+amazon.ca###moreAboutTheAuthorCard_feature_div > .c-f.celwidget
+
+! Share button
+amazon.ca##.ssf-background-float
+
+
+
+! =======================================================
+! ORDER PAGE (https://www.amazon.ca/gp/css/order-history)
+! =======================================================
+
+! Archive order
+amazon.ca##.yohtmlc-order-level-connections.a-link-normal.a-spacing-none
+
+
+! ==========================================
+! CART PAGE (https://www.amazon.ca/gp/cart/)
+! ==========================================
+
+! Footnotes at the bottom
+amazon.ca###cart-about-cart-warning
+amazon.ca###sc-about > p
+
+! For the saved items in your cart, these are the category tags and the buy-it-again subtab
+amazon.ca##.mission-categories.a-spacing-none.a-section
+www.amazon.ca###sc-buy-it-again-caption
+
+
+
+! ===============================================
+! CHECKOUT PAGE (https://www.amazon.ca/checkout/)
+! ===============================================
+
+! Footnote
+amazon.ca###checkout-footer-policy-mesage-block > .a-section
+
+! Pickup options
+amazon.ca##.a-link-expander.a-expander-inline-header.a-declarative.a-expander-header

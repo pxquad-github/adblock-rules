@@ -1,0 +1,39 @@
+! ===============================================================================
+! SHOPPING_BH (https://www.bhphotovideo.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Header
+bhphotovideo.com##.superHeaderLeft_xejwUIEBBo
+bhphotovideo.com##li.listItem_tixYnI9pMn:nth-of-type(3)
+bhphotovideo.com##.icon_DaZCVZodFQ.bhIcon
+
+! Blobs
+bhphotovideo.com##.home_NZs98sS90m > .container_DIOhDI0XlF
+bhphotovideo.com##.aboutUs_nz8XqBxXzv.container_DIOhDI0XlF
+bhphotovideo.com##.container_v5s81PL4Pn
+bhphotovideo.com##.container_NZs98sS90m > div.container_DIOhDI0XlF
+bhphotovideo.com##.connect_x1rbuqS4ln
+bhphotovideo.com##.explore_aD_alAmGxG
+
+
+! Footer
+bhphotovideo.com##div.column_I60Skj3Y5S:nth-of-type(3)
+bhphotovideo.com##.button_dcIC3Bug4L
+bhphotovideo.com###bh-portal
+bhphotovideo.com##div.asideLinkWIconContainer_WTkVBOCUUD:nth-of-type(7)
+bhphotovideo.com##.seeAnyErrors_z8LtNp7nnS
+bhphotovideo.com##.newsletter_PK8HvolxQy.row_mBoWhODsuD
+bhphotovideo.com##.container_GiIl6uvRzk
+
+
+! Product listings
+bhphotovideo.com##.title_xEhJGF6zID
+
+! Product Details
+bhphotovideo.com##.container_qc7zb59MzE
+bhphotovideo.com##.element_c7XBqs5hLt
+bhphotovideo.com##.warranties_gIOVbEdPXg
+bhphotovideo.com##.widget_rzDj8EiNUi
+bhphotovideo.com##.container_dNq3ctDwMk
