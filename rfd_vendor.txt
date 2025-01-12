@@ -48,10 +48,13 @@ forums.redflagdeals.com##li.topic.row:has-text(/Wash & Go/i)
 forums.redflagdeals.com##li.topic.row:has-text(/UA Outlet/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Karbon/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Lululemon/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Puma/i)
+forums.redflagdeals.com##li.topic.row:has-text(/TMBG/i)
 
 
 ! Fast Food, Corner-Store, Restaurants, Food, Drink
 forums.redflagdeals.com##li.topic.row:has-text(/Osmow/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Kettleman/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Jollibee/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Bonacini/i)
 forums.redflagdeals.com##li.topic.row:has-text(/7Eleven/i)
@@ -98,6 +101,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Sunny Supermarket/i)
 forums.redflagdeals.com##li.topic.row:has-text(/London Drugs/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Independent City Market/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Safeway/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Fillion Elec/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Dollarama Deals/i)
 
 
@@ -145,6 +149,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Best Western/i)
 forums.redflagdeals.com##li.topic.row:has-text(/CNE/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Air France/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Cruise.com/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Casino/i)
 
 
 ! Video games
