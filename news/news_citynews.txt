@@ -15,12 +15,12 @@ citynews.ca##.container.container-secondary
 citynews.ca##.d-md-block.d-none.topbar
 
 ! Navigation sections I don't care about
-
-! Jan 10, 2025 https://kitchener.citynews.ca
 citynews.ca##.nav-item.menu-item-3103183.dropdown.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
 citynews.ca##.nav-extras.align-items-center.d-md-flex.d-none
 citynews.ca##.nav-item.menu-item-3103152.dropdown.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
 citynews.ca##.nav-item.menu-item-3103151.menu-item-object-custom.menu-item-type-custom.menu-item
+||kitchener.citynews.ca/wp-content/blogs.dir/sites/3/2018/08/24/Kitchener-Rangers-Tickets-FEATURE-e1697058970337*.jpg
+citynews.ca##.col-lg-9.pe-lg-3 > div.row:has-text(/Rangers/i)
 
 ! Footer
 citynews.ca##footer

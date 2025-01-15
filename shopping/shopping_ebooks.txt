@@ -12,6 +12,14 @@ ebookdaily.com##.rating-count
 ebookdaily.com##.s_starBig_5_0.swSprite
 ebookdaily.com##.s_starBig_4_5.swSprite
 ebookdaily.com##.s_starBig_4_0.swSprite
+ebookdaily.com##.s_starBig_3_5.swSprite
+ebookdaily.com##.s_starBig_3_0.swSprite
+ebookdaily.com##.s_starBig_2_5.swSprite
+ebookdaily.com##.s_starBig_2_0.swSprite
+ebookdaily.com##.s_starBig_1_5.swSprite
+ebookdaily.com##.s_starBig_1_0.swSprite
+ebookdaily.com##.s_starBig_0_5.swSprite
+ebookdaily.com##.book-pay.btn
 
 ! Categories
 ebookdaily.com##h2

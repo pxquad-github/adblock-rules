@@ -1,0 +1,36 @@
+! ===============================================================================
+! BLOG_TOOLGUYD (https://toolguyd.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Header
+toolguyd.com##[href="https://toolguyd.com/category/tool-deals/"] > span
+
+! Sidebar
+toolguyd.com##.widget-area.sidebar-primary.sidebar
+
+! Footer
+toolguyd.com##[href="https://toolguyd.com/amazon-coupons-deals/"] > span
+toolguyd.com##[href="https://toolguyd.com/privacy-policy/"] > span
+toolguyd.com##[href="https://toolguyd.com/terms-of-use/"] > span
+toolguyd.com##.menu-item-47005.menu-item-object-page.menu-item-type-post_type.menu-item
+toolguyd.com##.menu-item-25954.menu-item-object-page.menu-item-type-post_type.menu-item
+toolguyd.com##[href="https://toolguyd.com/privacy-policy/"]
+toolguyd.com##[href="https://toolguyd.com/terms-of-use/"]
+toolguyd.com##.menu-item-20338.menu-item-object-custom.menu-item-type-custom.menu-item
+toolguyd.com##[href="https://toolguyd.com/tool-guide-where-to-buy-tools/"]
+
+! Post Meta
+toolguyd.com##.entry-author
+toolguyd.com##.entry-comments-link
+toolguyd.com##.entry-time
+toolguyd.com##.entry-categories
+toolguyd.com##.affnote em
+toolguyd.com##.entry-footer
+toolguyd.com##.entry-comments
+
+! Jan 10, 2025 https://toolguyd.com
+toolguyd.com##.comment-respond
+toolguyd.com##.yarpp-thumbnails-horizontal
+toolguyd.com##.yarpp-template-thumbnails.yarpp-related-website.yarpp-related.yarpp

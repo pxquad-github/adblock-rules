@@ -1,0 +1,82 @@
+! =============================================================
+! SHOPPING_HOMEHARDWARE (https://www.homehardware.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! =======
+! GENERAL
+! =======
+
+! Cookies
+homehardware.ca##.Cookies.ThemeBlack.Toast
+
+! Header
+homehardware.ca###hh-mfe-header-account
+homehardware.ca###hh-mfe-header-wishlist
+homehardware.ca###hh-order-status
+homehardware.ca###hh-mfe-header-cart
+
+! Navigation
+homehardware.ca###hh-top-nav > ul > li:has-text(/Français/i)
+homehardware.ca##[href="/en/beauti-tone"]
+homehardware.ca###hh-top-nav [href^="/en/heres-how-hub"]
+homehardware.ca##li:nth-of-type(3) > [href="/en/snow-clearing/c/1525535411868"]
+homehardware.ca##[href="/en/c/18682"]
+homehardware.ca##li:nth-of-type(4) > [href="/en/landing/hh-pro-contractor-services"]
+
+! Banner
+homehardware.ca##.AlertBanner.ThemeYellow
+
+! Trending searches
+homehardware.ca##.TrendingSearch
+
+! Footer
+homehardware.ca###hh-birdseed
+homehardware.ca##.hh-family-logos.content
+homehardware.ca##div.content:has-text(/Legal/i)
+homehardware.ca##div.content:has-text(/Rentals/i)
+homehardware.ca##[href="/en/become-a-home-owner"]
+homehardware.ca##[href="/en/about-home-hardware"]
+homehardware.ca##[href="/en/landing/careers"]
+homehardware.ca##[href="/en/media-releases"]
+
+! Captcha
+homehardware.ca##.grecaptcha-badge
+
+! Newsletter
+homehardware.ca###hh-mfe-newsletter-form
+
+! Sections I don't care about
+homehardware.ca###anchor-hh-pro-home-installs
+homehardware.ca###anchor-homepage-featured-brands
+homehardware.ca##.HHSlogan
+homehardware.ca###anchor-home-installs
+homehardware.ca###anchor-scotia-select-pay-pro-visa-card-always-on-homepage-
+homehardware.ca###anchor-scene-plus-awareness-daughter-father
+homehardware.ca###anchor-bh-c-banner-august
+homehardware.ca###anchor-theme-pages-spring-content
+homehardware.ca##section.adBlockSection
+homehardware.ca###anchor-here-s-how-feb
+homehardware.ca###anchor-bring-the-new-year-home-sale
+
+
+
+! ===============
+! PRODUCT DETAILS
+! ===============
+homehardware.ca##.svelte-15vic4d.free-shipping-messaging
+homehardware.ca##.svelte-1gap87u.loyalty-marketing
+homehardware.ca##.ButtonSecondary.Button
+homehardware.ca##.svelte-1gap87u.pdp-wishlist
+
+
+! ===========================
+! PRODUCT CATEGORIES/LISTINGS
+! ===========================
+
+homehardware.ca##.BannerGroup
+homehardware.ca##.ArticleGroup
+homehardware.ca###anchor-tools-accessories-here-s-how
+homehardware.ca##.categoryDescription
+homehardware.ca##.Wishlist

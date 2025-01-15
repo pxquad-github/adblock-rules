@@ -1,0 +1,30 @@
+! ===============================================================================
+! BLOG_TOOLCRAZE (https://toolcraze.net/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Navigation
+toolcraze.net##[href="https://toolcraze.net/contact/"]
+toolcraze.net##[href="https://toolcraze.net/category/funny/"]
+toolcraze.net##[href="https://toolcraze.net/category/deals/"]
+toolcraze.net###menu-item-53 > [href="https://toolcraze.net/about-us/"]
+
+! Header, Sidebar, Footer
+toolcraze.net##.widget-area.clearfix
+toolcraze.net###site-generator
+toolcraze.net##.wrapper > .widget-area
+
+! Meta
+toolcraze.net##.vcard.author.no-padding-left
+toolcraze.net##.last
+
+! Individual post
+toolcraze.net##.clearfix > li:nth-of-type(3)
+toolcraze.net##p:nth-of-type(14)
+toolcraze.net##p:nth-of-type(15)
+toolcraze.net##p > .wp-embedded-content
+toolcraze.net##.tags
+toolcraze.net##.comment-respond
+toolcraze.net##p:nth-of-type(23)
+toolcraze.net##.menu-item-9868.menu-item-object-page.menu-item-type-post_type.menu-item

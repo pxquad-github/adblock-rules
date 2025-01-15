@@ -1,0 +1,73 @@
+! =============================================================
+! SHOPPING_PEAVEYMART (https://www.peaveymart.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! peaveymart.com
+
+! ====================
+! GENERAL LANDING PAGE
+! ====================
+
+! Header
+peaveymart.com##.mui-style-jlwpvf.MuiBox-root > [href="/peavey-country-signup"]
+
+! Navigation
+peaveymart.com##[href="/core-value-picks"]
+peaveymart.com##p.mui-style-bw1l02.MuiTypography-body1.MuiTypography-root > [href="/feed"]
+
+! Footer
+peaveymart.com##.mui-style-4sud8p.MuiBox-root
+peaveymart.com##.mui-style-1slu1iu.MuiBox-root
+peaveymart.com##div.mui-style-1dy2pvk.MuiBox-root:has-text(/About/i)
+peaveymart.com##div.mui-style-1dy2pvk.MuiBox-root:has-text(/Affirm/i)
+peaveymart.com##p.mui-style-bxllds.MuiTypography-body2.MuiTypography-root:has-text(/AODA/i)
+peaveymart.com##p.mui-style-bxllds.MuiTypography-body2.MuiTypography-root:has-text(/Rewards/i)
+peaveymart.com##p.mui-style-bxllds.MuiTypography-body2.MuiTypography-root:has-text(/Sweepstakes/i)
+peaveymart.com##p.mui-style-bxllds.MuiTypography-body2.MuiTypography-root:has-text(/Refund/i)
+peaveymart.com##p.mui-style-bxllds.MuiTypography-body2.MuiTypography-root:has-text(/Correction/i)
+
+! Banner ads and promo blocks (feels like this will need to be updated a lot)
+peaveymart.com##.css-1ish9jt.builder-b6cd05dccc7a43e3a7bf7225561bac2f.builder-block
+peaveymart.com##.css-6mlhse.builder-7ec7a7346a18410584fb0d5680cb1575.builder-block
+peaveymart.com##.css-1n2l0yc.builder-6984cd318b444bf7a1c7860ef81326f9.builder-block
+peaveymart.com##.css-1yk3brk.builder-d108695584b54e089545b0d45fa3a4c6.builder-block
+
+! Sections I don't care for
+peaveymart.com##.css-112nszb.builder-6233594c41a541b7b6bdac98218bd693.builder-block
+peaveymart.com##.css-1a80c8b.builder-b5809db713cd45359ea5659318154191.builder-block
+peaveymart.com##.css-1400g30.builder-000b0badbe044b088c0bf6d3f8feebe9.builder-block
+peaveymart.com##.css-112nszb.builder-has-component.builder-cbcf31b5e8c24b1a8ba286cc3f6df74b.builder-block
+
+! Divider lines (lol)
+peaveymart.com##.css-1nxejrz.builder-8cfce7b82d6b43dd8d8954685670cb1b.builder-block
+peaveymart.com##.css-195ih6x.builder-cf805cae2c9c4e89a53edd248be6fdeb.builder-block
+peaveymart.com##.css-195ih6x.builder-ee0e36553714497da41b158c1509ccab.builder-block
+peaveymart.com##.css-195ih6x.builder-9c641ec4d8a545b88faa91714590fd64.builder-block
+peaveymart.com##.css-195ih6x.builder-b98a7208107049a98b9e61406e45b85b.builder-block
+
+! Meta
+peaveymart.com##.mui-style-69i1ev.MuiBox-root
+peaveymart.com##.pr-no-reviews
+peaveymart.com##.p-w-r
+
+
+! =======================
+! INDIVIDUAL PRODUCT PAGE
+! =======================
+
+! Meta
+peaveymart.com##.mui-style-s3xkqn.affirm-as-low-as.MuiTypography-body1.MuiTypography-root
+peaveymart.com##.mui-style-5ax1kt.MuiBox-root > .mui-style-k008qs.MuiBox-root
+
+! Reviews
+peaveymart.com###product-reviews
+
+! Section headers
+peaveymart.com##.mui-style-1phy807.MuiBox-root
+
+! Dividers (lol)
+peaveymart.com##div.mui-style-1jjzbn6.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(11)
+peaveymart.com##div.mui-style-1jjzbn6.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(9)
+

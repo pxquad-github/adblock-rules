@@ -9,6 +9,15 @@ homedepot.ca##li.acl-text-size--small.acl-ml--medium.acl-list-item:nth-of-type(2
 homedepot.ca##li.acl-text-size--small.acl-ml--medium.acl-list-item:nth-of-type(3)
 homedepot.ca##li.acl-text-size--small.acl-ml--medium.acl-list-item:nth-of-type(6)
 
+! Language swap
+homedepot.ca##sc-lang-toggle-micro:has-text(/Français/i)
+
+! Flyer
+homedepot.ca##li.acl-text-size--small.acl-mr--x-large.acl-list-item:has-text(/Flyer/i)
+
+! Banner promo
+homedepot.ca##global-header-scarf
+
 ! Navigation sections to hide
 homedepot.ca##li.acl-text-size--small.acl-mr--x-large.acl-list-item:nth-of-type(4)
 homedepot.ca##li.acl-text-size--small.acl-mr--x-large.acl-list-item:nth-of-type(3)
@@ -22,7 +31,11 @@ homedepot.ca##.hdca-footer__legal-section
 homedepot.ca##.hdca-footer__privacy-section
 homedepot.ca###footer3
 homedepot.ca##.false.hdca-cms-styled-layout-container--content-vertical--top.hdca-cms-styled-layout-container--gutter-style--none.hdca-cms-styled-layout-container > .aem-Grid--default--12.aem-Grid--12.aem-Grid.hdca-cms-styled-layout-container__content > .aem-GridColumn--default--12.aem-GridColumn.responsivegrid.styledlayoutcontainer
-
+homedepot.ca##li.hdca-footer-links__list-item:has-text(/Career/i)
+homedepot.ca##li.hdca-footer-links__list-item:has-text(/Company/i)
+homedepot.ca##li.hdca-footer-links__list-item:has-text(/Foundation/i)
+homedepot.ca##li.hdca-footer-links__list-item:has-text(/Media/i)
+homedepot.ca##li.hdca-footer-links__list-item:has-text(/Eco/i)
 
 ! Blocks to remove from the main landing page
 homedepot.ca##.hdca-cms-product-carousel--has-bottom-border.hdca-cms-product-carousel--has-top-border.false.hdca-cms-product-carousel

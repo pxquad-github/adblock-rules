@@ -1,0 +1,45 @@
+! ===============================================================================
+! BLOG_PROTOOLREVIEWS (https://www.protoolreviews.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Header
+protoolreviews.com##.cst-ticker-icons.head-intro-addons
+protoolreviews.com##.nav-search-icon
+protoolreviews.com##.news-ticker
+
+! Footer
+protoolreviews.com##.footer-fullwidth.footer
+
+! Blobs
+protoolreviews.com###custom_html-28 > .custom-html-widget.textwidget > .htlad-PTR_InContent
+protoolreviews.com###custom_html-27 > .custom-html-widget.textwidget > .htlad-PTR_InContent
+
+! Sidebar
+protoolreviews.com##.sidebar
+protoolreviews.com##.col-12.col-lg-4.col-xl-4
+
+! Individual post
+protoolreviews.com###entry-177928 > .entry-header > .entry-author
+protoolreviews.com###PTR_InContent
+protoolreviews.com###PTR_InContent-1
+protoolreviews.com###PTR_InContent-2
+protoolreviews.com##div.entry-section:nth-of-type(1)
+protoolreviews.com##.entry-author-box
+protoolreviews.com##.entry-author-box-title
+protoolreviews.com##.entry-section-related.entry-section
+protoolreviews.com##.entry-author
+protoolreviews.com###PTR_InContent-14
+protoolreviews.com###PTR_InContent-13
+protoolreviews.com###PTR_InContent-12
+protoolreviews.com###PTR_InContent-11
+protoolreviews.com###PTR_InContent-10
+protoolreviews.com###PTR_InContent-9
+protoolreviews.com###PTR_InContent-8
+protoolreviews.com###PTR_InContent-7
+protoolreviews.com###PTR_InContent-6
+protoolreviews.com###PTR_InContent-5
+protoolreviews.com###PTR_InContent-4
+protoolreviews.com###PTR_InContent-3
+

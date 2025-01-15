@@ -50,7 +50,7 @@ bbc.com##div.eaJOnH.sc-b11b9313-5:nth-of-type(8)
 ! Sections I don't care about
 bbc.com##.cYqRar.sc-ba42a659-1
 bbc.com##.kMvxBp.sc-ba42a659-1
-
+##div.jitrPO.sc-93223220-0 > div:has-text(/Sport/i)
 
 ! ================
 ! Individual posts

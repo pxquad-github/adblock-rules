@@ -10,34 +10,39 @@ This is just a simple place, I can put all my ublock filters and rules. This has
 ## Rules List
 Within the ublock settings, navigate to the _Filter lists_ tab and at the bottom, expand _Import..._, paste the following entries and save.
 
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog_sar.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog_tools.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog_tpu.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/credit_borrowell.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/credit_creditkarma.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/imdb.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news_bbc.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news_cbc.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news_citynews.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news_cnn.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news_ctv.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/rfd_common.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/rfd_geo.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/rfd_product.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/rfd_vendor.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_amazon.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_bestbuy.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_bh.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_busybee.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_ctire.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_ebay.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_ebooks.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_hd.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_newegg.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_smartcanucks.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping_wiseline.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social_linkedin.txt<br>
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social_reddit.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog/blog_sar.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog/blog_protoolreviews.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog/blog_toolcraze.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog/blog_toolguyd.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog/blog_tpu.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news/news_bbc.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news/news_cbc.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news/news_citynews.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news/news_cnn.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news/news_ctv.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_common.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_geo.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_product.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_vendor.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_amazon.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_bestbuy.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_bh.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_busybee.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_ctire.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_ebay.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_ebooks.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_hd.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_homehardware.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_newegg.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_pa.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_peaveymart.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_smartcanucks.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_wiseline.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/credit_borrowell.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/credit_creditkarma.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/imdb.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_linkedin.txt<br>
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit.txt<br>
 
 ---
 

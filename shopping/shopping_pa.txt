@@ -1,0 +1,51 @@
+! =============================================================
+! SHOPPING_PA (https://www.princessauto.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! =======
+! GENERAL
+! =======
+! Footer
+princessauto.com##.cc-footer-third.row-full
+princessauto.com##.cc-footer-menu.cc-footer-area.col-md-pull-3.col-md-2.col-sm-6.col-xs-12
+princessauto.com##.cc-footer-menu.cc-footer-area.col-md-push-5.col-md-3.col-sm-6.col-xs-12
+princessauto.com##.cc-footer-area.col-md-4.col-sm-6
+princessauto.com##.cc-footer-second.row-full
+princessauto.com##.cc-footer-first.row-full
+
+! Header
+princessauto.com##.cc-rich-text > .row-full
+
+! Navigation
+princessauto.com##.header-columns-container.col-md-10.col-sm-9.col-xs-7 > .hidden-sm.hidden-xs
+
+! Blobs I don't care about
+www.princessauto.com###wi9600038-rich-text-7700078 > .cc-rich-text [href]
+
+
+
+! ========================
+! Individsual Product Page
+! ========================
+
+! Meta
+www.princessauto.com###cc-prodDetailsAddToSpaceSelector
+www.princessauto.com##.bv_main_container > div.bv_main_container_row_flex
+
+! Reviews
+www.princessauto.com###reviews-box
+www.princessauto.com###accessories-box
+
+! Reccommended parts
+www.princessauto.com##.slide.carousel.cc-product-card-list
+www.princessauto.com##.cc-carousel-title
+
+! Questions
+www.princessauto.com###questions-box > .content-block
+
+! Navigation
+www.princessauto.com###reviews-anchor
+www.princessauto.com###questions-anchor
+www.princessauto.com###accessories-anchor
