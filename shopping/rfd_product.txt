@@ -139,7 +139,9 @@ forums.redflagdeals.com##li.topic.row:has-text(/Mama burger/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Papa burger/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Eendless Shrimp/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Purina/i)
+forums.redflagdeals.com##li.topic.row:has-text(/plant based/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Hummus/i)
+forums.redflagdeals.com##li.topic.row:has-text(/condom/i)
 
 
 ! Gaming
@@ -171,6 +173,8 @@ forums.redflagdeals.com##li.topic.row:has-text(/Christmas tree/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Spin Bike/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Swiffer/i)
 forums.redflagdeals.com##li.topic.row:has-text(/guitar/i)
+forums.redflagdeals.com##li.topic.row:has-text(/DualBrew/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Dual Brew/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Elf on/i)
 forums.redflagdeals.com##li.topic.row:has-text(/laser hair/i)
 
@@ -340,7 +344,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Toro 60V/i)
 forums.redflagdeals.com##li.topic.row:has-text(/DeWalt 20V/i)
 forums.redflagdeals.com##li.topic.row:has-text(/20V MAX/i)
 forums.redflagdeals.com##li.topic.row:has-text(/TV Wall/i)
-forums.redflagdeals.com##li.topic.row:has-text(/Alkaline battery/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Alkaline batt/i)
 
 
 ! Toys, Children
