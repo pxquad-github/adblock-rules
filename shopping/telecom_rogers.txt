@@ -1,0 +1,70 @@
+! =============================================================
+! TELECOM_ROGERS (https://www.rogers.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Language switch
+rogers.com##ge-language:has-text(/Français/i)
+
+! Footer
+rogers.com##.d-sm-block.d-none > .ds-footer__social
+rogers.com##li.mb-0:has-text(/Xfinity/i)
+rogers.com##li.mb-0:has-text(/Media Contact/i)
+rogers.com##li.mb-0:has-text(/Rogers Bank/i)
+rogers.com##li.mb-0:has-text(/Connected For Success/i)
+rogers.com##li.mb-0:has-text(/Investor Relations/i)
+rogers.com##li.mb-0:has-text(/About Rogers/i)
+rogers.com##li.mb-0:has-text(/Accessibility/i)
+rogers.com##li.mb-0:has-text(/Careers/i)
+rogers.com##li.mb-0:has-text(/Site Map/i)
+rogers.com##li.mb-0:has-text(/Find a store/i)
+rogers.com##li.mb-0:has-text(/Privacy, CRTC/i)
+rogers.com##li.mb-0:has-text(/Terms & Conditions/i)
+rogers.com##.d-lg-block.d-none > .-mx-8.d-inline-block > [src="https://images.ctfassets.net/h6ysm004d16d/2i2flsGnwdXzOu8n7tHfl/4beb6c93930da1cd42ecb17d860e01eb/footer.png"]
+rogers.com##.ds-bgcolor-slate.ds-footer__copyright
+
+! Navigation
+rogers.com###geMainMenuDropdown_3:has-text(/Home Security/i)
+rogers.com###geLinkHeaderApp_1:has-text(/Business/i)
+rogers.com###geLinkHeaderApp_2:has-text(/Rogers Bank/i)
+rogers.com###geLinkHeaderApp_0:has-text(/About Rogers/i)
+
+
+! Dismissable notification/updates
+! We want to be selective here in case there are legitimate alerts
+rogers.com##.ds-bg-body-default.mb-0.mt-0.mb-md-0.mt-md-0.pb-0.pt-0.pb-md-0.pt-md-0.jsUiBlockAlert:has-text(/Shop now/i)
+rogers.com##.container.ds-bg-body-default.mb-0.mt-0.mb-md-0.mt-md-0.pb-16.pt-0.pb-md-24.pt-md-0.jsUiBlockAlert:has-text(/favourite channels/i)
+
+! Hero ad
+rogers.com##.pr-0.pl-0.container.ds-bg-body-default.mb-16.mt-16.mb-md-24.mt-md-24.pb-0.pt-0.pb-md-0.pt-md-0 > .container > .row
+
+! Full details (fine print)
+rogers.com##.container.mb-0.mt-0.mb-md-0.mt-md-0.pb-0.pt-0.pb-md-0.pt-md-0:has-text(/Full details/i)
+
+! Top Deals, offers, etc
+rogers.com##.dsa-offerTile
+rogers.com##.dsa-media-block
+rogers.com##.container:has-text(/Check out our top deals/i)
+rogers.com##.container:has-text(/Switch to our award-winning/i)
+rogers.com##.container:has-text(/View all offers/i)
+rogers.com##.container:has-text(/Exclusive offers/i)
+rogers.com##.container:has-text(/Already a ROgers customer/i)
+rogers.com##.container:has-text(/Xfinity tv/i)
+rogers.com##.ng-star-inserted.container.jsUiBlockOfferTiles
+
+! Blobs and sections that are dumb
+rogers.com##dsa-tile-teaser
+rogers.com##.ng-star-inserted.jsSection_0:has-text(/Introducing Rogers/i)
+rogers.com##.ng-star-inserted.jsSection_1:has-text(/No interest/i)
+rogers.com##.jsUiBlockCarousel
+rogers.com##dsa-billboard
+rogers.com##.ds-bg-body-default.mb-16.mt-0.mb-md-24.mt-md-0.pb-16.pt-0.pb-md-24.pt-md-0 > .container:has-text(/most reliable/i)
+rogers.com##.ds-bg-body-default.mb-0.mt-0.mb-md-0.mt-md-0.pb-16.pt-16.pb-md-24.pt-md-24:has-text(/connect and entertain/i)
+rogers.com##.container.ds-bg-body-default.mb-0.mt-0.mb-md-0.mt-md-0.pb-16.pt-0.pb-md-24.pt-md-0:has-text(/Shop TV bundles/i)
+
+! Services I would never even care for
+rogers.com##ds-scroll-block.ng-star-inserted.col-lg-2.col-md-3.col-sm-4.col-6.outline-none.py-8.ds-keyboard-element-focus-inset:has-text(/Rogers bank/i)
+rogers.com##ds-scroll-block.ng-star-inserted.col-lg-2.col-md-3.col-sm-4.col-6.outline-none.py-8.ds-keyboard-element-focus-inset:has-text(/TV/i)
+rogers.com##ds-scroll-block.ng-star-inserted.col-lg-2.col-md-3.col-sm-4.col-6.outline-none.py-8.ds-keyboard-element-focus-inset:has-text(/Home Security/i)
+

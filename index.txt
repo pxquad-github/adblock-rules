@@ -34,6 +34,11 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sho
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_smartcanucks.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_wiseline.txt
 
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_bell.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_koodo.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_rogers.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_telus.txt
+
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/imdb.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/google.txt
 

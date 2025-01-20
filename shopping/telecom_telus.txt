@@ -1,0 +1,68 @@
+! =============================================================
+! TELECOM_TELUS (https://www.telus.com)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Language and region switch
+telus.com##.dlSJfO.sc-bVHCgj:has-text(/EN/)
+telus.com###ge-supernav-region:has-text(/ON/)
+
+! Footer
+telus.com##.kWlSka.sc-feUZmu:has-text(/©/i)
+telus.com##.hrMTHL.sc-dAbbOL
+telus.com##.bmxIDY.sc-jsJBEP > .hGJiZM.sc-aXZVg
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/COVID/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/SOcial Impact/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/TELUS Wise/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/TELUS Webmail/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/TELUS Digital/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/TELUS Procurement/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/Internet Code/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/Wireless Code/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/User terms/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/Newsroom/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/Careers/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/Regulatory/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/Diversity/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/About Us/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/Service Terms/i)
+telus.com##span.kMSaCc.sc-hzhJZQ:has-text(/Accessibility/i)
+telus.com##.gPRosr.fnMaHk.sc-fUnMCh.sc-jlZhew:has-text(/Help/i)
+telus.com##.gPRosr.fnMaHk.sc-fUnMCh.sc-jlZhew:has-text(/Other Telus Properties/i)
+telus.com##.gPRosr.fnMaHk.sc-fUnMCh.sc-jlZhew:has-text(/Company/i)
+telus.com##.gPRosr.fnMaHk.sc-fUnMCh.sc-jlZhew:has-text(/Legal/i)
+
+! Legal fine print
+telus.com##.r-6koalj.css-175oi2r:has-text(/Terms and conditions/i)
+
+! Navigation
+telus.com##.gfhOJL.sc-jaXxmE > li:has-text(/Social Impact/i)
+telus.com##.gfhOJL.sc-jaXxmE > li:has-text(/Agriculture/i)
+telus.com##.gfhOJL.sc-jaXxmE > li:has-text(/Health/i)
+telus.com##.gfhOJL.sc-jaXxmE > li:has-text(/Business/i)
+telus.com##.bZPfpe.sc-gFVvzn > li:has-text(/Smart home/i)
+telus.com##.bZPfpe.sc-gFVvzn > li:has-text(/Bundles/i)
+telus.com##.bZPfpe.sc-gFVvzn > li:has-text(/Health/i)
+telus.com##.bZPfpe.sc-gFVvzn > li:has-text(/Internet/i)
+telus.com##.bZPfpe.sc-gFVvzn > li:has-text(/Entertainment/i)
+
+! Blank spacers
+telus.com###app > div.spacer.IlPvQ.sc-40698823-0
+
+! Telus App
+telus.com##div.r-1x4r79x.css-175oi2r:has-text(/My Telus App/i)
+
+! Blobs that don't matter
+telus.com##div.r-1x4r79x.css-175oi2r:nth-of-type(15) > .r-1x4r79x.css-175oi2r > div.r-1x4r79x.css-175oi2r:has-text(/Social Impact/i)
+telus.com##div.r-1x4r79x.css-175oi2r:nth-of-type(15) > .r-1x4r79x.css-175oi2r > div.r-1x4r79x.css-175oi2r:has-text(/Change for good/i)
+telus.com###app > div.r-1x4r79x.css-175oi2r:has-text(/Need more information/i)
+telus.com##.dVpbId.sc-35184b5a-0 > div > .css-175oi2r > .r-eqz5dr.css-175oi2r:has-text(/Smartwear/i)
+
+! Hero
+telus.com###app > div.r-1x4r79x.css-175oi2r > .r-1x4r79x.css-175oi2r > .r-1x4r79x.css-175oi2r > .css-175oi2r
+telus.com##.dVpbId.sc-35184b5a-0
+
+! Notifications (be selective to make sure we only block ads)
+telus.com##.dFxCuK.sc-b0be2567-0:has-text(/connection fee/i)
+telus.com##.jOKdLy.bpYqVT.foXngs.sc-fvtFIe.sc-iMWBiJ.sc-gFVvzn:has-text(/petition/i)

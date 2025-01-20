@@ -1,0 +1,40 @@
+! =============================================================
+! TELECOM_BELL (https://www.bell.ca)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Footer
+bell.ca##.bhp-footer-social
+bell.ca##.bhp-footer-copyright
+bell.ca###footerLinksSectionResources > li:has-text(/Internet code/i)
+bell.ca###footerLinksSectionResources > li:has-text(/Wireless code/i)
+bell.ca###footerLinksSectionResources > li:has-text(/Privacy/i)
+bell.ca###footerLinksSectionResources > li:has-text(/Legal and Regulatory/i)
+bell.ca###footerLinksSectionResources > li:has-text(/Bell email/i)
+bell.ca##div.bhp-footer-links-section:has-text(/About/i)
+bell.ca###footerLinksSectionContact > li:has-text(/Site feedback/i)
+
+! Additional details (fine print)
+bell.ca###legalAccordion
+
+! Newsletter
+bell.ca##.opec-section.container:has-text(/sign up/i)
+
+! Bell App
+bell.ca##.dap-section.container:has-text(/MyBell/i)
+
+! Ads and crap
+bell.ca###lets_talk
+bell.ca##.bhp-container.bhp-tiles:has-text(/Most award/i)
+bell.ca###personalizedRecommendations-zone4
+bell.ca##.bhp-container.bhp-offers
+
+! Hero
+bell.ca##.bhp-banner-carousel-slider
+
+! Navigation
+bell.ca##li.g-connector-nav-lob:has-text(/Smart home/i)
+bell.ca##li.g-connector-nav-lob:has-text(/Home Phone/i)
+bell.ca##li.g-connector-nav-lob:has-text(/TV/i)
+bell.ca##li.g-connector-nav-lob:has-text(/Bundles/i)

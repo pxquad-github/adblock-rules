@@ -1,0 +1,37 @@
+! =============================================================
+! TELECOM_KOODO (https://koodomobile.com)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Footer
+koodomobile.com##.footer__koodo-logo
+koodomobile.com##.site-footer-social-media--mobile.site-footer-social-media
+koodomobile.com##[href="/en/services/crtc-wireless-code"]
+koodomobile.com##[href="https://www.koodomobile.com/en/services/internet-code-of-conduct"]
+koodomobile.com##[href^="https://www.koodomobile.com/en/terms/accessibility"]
+koodomobile.com##.site-footer-copyright
+koodomobile.com##.site-footer-nav > .menu > li:has-text(/Career/i)
+koodomobile.com##.site-footer-nav > .menu > li:has-text(/Help/i)
+
+! Petitions
+koodomobile.com##.iauyoS.sc-esYiGF:has-text(/Petition/i)
+
+! Newsletter
+koodomobile.com###email-signup-banner
+
+! Sections we don't care about
+koodomobile.com###feature-section
+koodomobile.com###promotions-banner
+koodomobile.com###home-hero-banner
+koodomobile.com##.Banners_overview-banner__container__Aktkm
+www.koodomobile.com###promotions-tabs
+www.koodomobile.com###happy-section
+
+! Random streaming or home internet promo crap
+koodomobile.com###Stream-Promo
+koodomobile.com##.gXjrhd.sc-5d2559cf-6
+
+! Banner cards for services i don't care about
+koodomobile.com##.offer-card:has-text(/Amazon Prime/i)
+koodomobile.com##.offer-card:has-text(/Refer-a-friend/i)
