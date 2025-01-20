@@ -63,6 +63,14 @@ cbc.ca##.contentAreaWrap.sectionContainer-rightRail
 cbc.ca##.sidebar
 cbc.ca##div.withFlex:nth-of-type(2)
 
+! Blocks I don't care for
+cbc.ca##.cardRegular.card:has-text(/Sports/)
+cbc.ca##.cardRegular.card:has-text(/Olympics/)
+cbc.ca##.cardDefault.card:has-text(/Sports/i)
+cbc.ca##.cardDefault.card:has-text(/The Next Chapter/i)
+cbc.ca##.cardDefault.card:has-text(/Short Docs/i)
+cbc.ca##.cardDefault.card:has-text(/Quirks & Quarks/i)
+
 
 ! ==================
 ! Individual Stories

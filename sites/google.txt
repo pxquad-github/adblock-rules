@@ -1,0 +1,56 @@
+! Fix Google Search page
+
+! ==========
+! GOOGLE.COM
+! ==========
+! Callout for GoogleOne
+||ogs.google.com/u/0/widget/callout/sid$subdocument
+
+! Header
+google.com##a.MV3Tnb:has-text(/About/i)
+
+! Footer
+google.com##a.pHiOh:has-text(/How search works/i)
+google.com##a.pHiOh:has-text(/Advert/i)
+google.com##a.pHiOh:has-text(/Business/i)
+google.com##a.pHiOh:has-text(/Terms/i)
+google.com###dk2qOd:has-text(/Send feedback/i)
+google.com##a.ZYHQ7e:has-text(/Help/i)
+google.com##a.ZYHQ7e:has-text(/Terms/i)
+
+
+! Language swap to French
+google.com###gws-output-pages-elements-homepage_additional_languages__als:has-text(/Français/i)
+
+! Search by voice
+google.com##.XDyW0e
+
+
+
+
+! =========
+! GOOGLE.CA
+! =========
+! Callout for GoogleOne
+||ogs.google.ca/u/0/widget/callout/sid$subdocument
+
+! Header
+google.ca##a.MV3Tnb:has-text(/About/i)
+
+! Footer
+google.ca##a.pHiOh:has-text(/How search works/i)
+google.ca##a.pHiOh:has-text(/Advert/i)
+google.ca##a.pHiOh:has-text(/Business/i)
+google.ca##a.pHiOh:has-text(/Terms/i)
+google.ca###dk2qOd:has-text(/Send feedback/i)
+google.ca##a.ZYHQ7e:has-text(/Help/i)
+google.ca##a.ZYHQ7e:has-text(/Terms/i)
+
+! Language swap to French
+google.ca###gws-output-pages-elements-homepage_additional_languages__als:has-text(/Français/i)
+
+! Search by voice
+google.ca##.XDyW0e
+
+! Types of search results
+google.ca##.crJ18e > div > div:has-text(/Shopping/i)

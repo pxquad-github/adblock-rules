@@ -1,0 +1,55 @@
+! =============================================================================================================
+! INSURANCE_EQUITABLE
+! Insurance and befefits provider, https://equitable.ca/ and https://www.equitablehealth.ca/
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================================================================
+
+! ==========================================
+! CORPORATE PAGE (https://www.equitable.ca/)
+! ==========================================
+! Switch to French
+equitable.ca##.langToggle:has-text(/Français/i)
+
+! Footer
+equitable.ca##.social_media
+equitable.ca##footer
+equitable.ca##.contact_info > p:has-text(/Accessibility/i)
+equitable.ca##li:nth-of-type(1) > [href="/en/our-products/savings-retirement/calculators/"]
+equitable.ca##li:nth-of-type(5) > [href^="http://www.equitable.ca/advisorhome/pdf/tools/Trade-Matching-Statement.pdf"]
+equitable.ca##section:has-text(/Current opportunities/i)
+
+! Tabs that probably don't apply
+equitable.ca##.tab_buttons > li:has-text(/Plan Administrators/i)
+equitable.ca##.tab_buttons > li:has-text(/Advisors/i)
+
+! Navigation
+equitable.ca##.join_our_team
+equitable.ca##.who_we_are
+
+! Main banner roll
+equitable.ca##.scrollable
+
+! News
+equitable.ca##h1:has-text(/News/i)
+equitable.ca##article.clearfix
+www.equitable.ca##.btn_article.btn
+
+! Bottom add
+equitable.ca##.works-for-me
+
+
+! ===============================================
+! BENEFITS PAGE (https://www.equitablehealth.ca/)
+! ===============================================
+
+! Switch to French
+equitablehealth.ca##.eq-lang-toggle:has-text(/Français/i)
+
+! Footer
+equitablehealth.ca##li:has-text(/Terms/i)
+equitablehealth.ca##li:has-text(/Legal/i)
+
+! News
+equitablehealth.ca###plan-member-news
+equitablehealth.ca##.clearfix.news_title

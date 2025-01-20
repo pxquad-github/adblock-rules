@@ -28,6 +28,7 @@ techpowerup.com##article.todaysreviews
 ! Sponsored posts
 techpowerup.com##article.newspost:has-text(/KeysFan/i)
 techpowerup.com##article.newspost:has-text(/Genuine Software/i)
+techpowerup.com##article.newspost:has-text(/Deal/)
 
 ! Footer
 techpowerup.com##.site-footer

@@ -1,0 +1,54 @@
+! =============================================================
+! NEWS_THERECORD (https://www.therecord.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Footer
+therecord.com###site-copyright-container
+therecord.com###site-footer-container
+
+! Comments and discussion
+therecord.com##.hidden-print.asset-comments
+
+! Ads
+therecord.com##.polarAds
+therecord.com##.true.star.tsArticleContainer > div > .hidden-print.tncms-region:has-text(/More from the Record/i)
+
+! Below story
+therecord.com##.tsBelowArticle
+
+! Meta
+therecord.com##.iconsContainer
+therecord.com##.card-comment-count
+therecord.com##.hidden-print.timeToRead
+
+! Header
+therecord.com###tncms-block-2841723 > .user-controls
+therecord.com###main-nav_menu > li:has-text(/Obituaries/i)
+therecord.com##li.dropdown:has-text(/Special Features/i)
+therecord.com###main-nav_menu > li:has-text(/Entertainment/i)
+therecord.com###main-nav_menu > li:has-text(/Sports/i)
+therecord.com###main-nav_menu > li:has-text(/Life/i)
+therecord.com###main-nav_menu > li:has-text(/Opinion/i)
+therecord.com###main-nav_menu > li:has-text(/IndigenousLocal/i)
+therecord.com###main-nav_menu-child-8 > li:has-text(/Indigenous/i)
+therecord.com###main-nav_menu-child-8 > li:has-text(/Council/i)
+therecord.com##.nav-list.list-inline.topNav
+therecord.com###topbar-col-two > .tncms-region
+
+! Sections that dont matter
+therecord.com##.hidden-xs.notDisplayedWithCover.globalHeaderBillboard.tncms-block
+
+
+! Related stories, side bar etc
+therecord.com###tncms-region-article-container-bottom
+
+! Modal popup
+therecord.com##.in.fade.modal
+therecord.com##.offer-tab.modal-dialog
+therecord.com##.modal-small.access-display-default.access-offers-modal.access-modal.access-offers-wrapper
+therecord.com##.in.fade.modal-backdrop
+
+! Posts I don't care
+therecord.com##.card-container:has-text(/Hockey/i)

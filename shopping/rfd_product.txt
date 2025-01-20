@@ -180,6 +180,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/WQHD/i)
 forums.redflagdeals.com##li.topic.row:has-text(/UltraWide/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Odyssey Neo/i)
 forums.redflagdeals.com##li.topic.row:has-text(/1440p/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Samsung G9/i)
 forums.redflagdeals.com##li.topic.row:has-text(/QHD/i)
 
 
@@ -217,6 +218,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Pixel 11/i)
 forums.redflagdeals.com##li.topic.row:has-text(/samsung care/i)
 forums.redflagdeals.com##li.topic.row:has-text(/galaxy buds/i)
 forums.redflagdeals.com##li.topic.row:has-text(/galaxy unpacked/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Z Fold/i)
 
 
 ! Points
@@ -272,6 +274,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Bluray/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Bloomberg/i)
 forums.redflagdeals.com##li.topic.row:has-text(/movie ticket/i)
 forums.redflagdeals.com##li.topic.row:has-text(/small popcorn/i)
+forums.redflagdeals.com##li.topic.row:has-text(/medium popcorn/i)
 
 ! Tech
 forums.redflagdeals.com##li.topic.row:has-text(/APP only/i)
@@ -337,6 +340,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Toro 60V/i)
 forums.redflagdeals.com##li.topic.row:has-text(/DeWalt 20V/i)
 forums.redflagdeals.com##li.topic.row:has-text(/20V MAX/i)
 forums.redflagdeals.com##li.topic.row:has-text(/TV Wall/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Alkaline battery/i)
 
 
 ! Toys, Children
@@ -360,6 +364,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/trampoline/i)
 forums.redflagdeals.com##li.topic.row:has-text(/dumbbel/i)
 forums.redflagdeals.com##li.topic.row:has-text(/stroller/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Graco/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Harry Potter/i)
 
 
 ! Travel

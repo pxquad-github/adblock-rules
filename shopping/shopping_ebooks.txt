@@ -24,9 +24,14 @@ ebookdaily.com##.book-pay.btn
 ! Categories
 ebookdaily.com##h2
 
-! Modeal dialog
-ebookdaily.com##.overlaysan
-ebookdaily.com##.overlay-mask
+! Modal dialog
+ebookdaily.com###form-join > .lightbox-form-heading
+ebookdaily.com###form-join > p
+ebookdaily.com##.btn-block.btn-facebook.btn
+ebookdaily.com###form-join > .line-thru
+ebookdaily.com##.inputemailsan
+ebookdaily.com##.sign-up-email.input-append
+ebookdaily.com###form-join > .lightbox-note > .toggle-tab
 
 ! Sidebar
 ebookdaily.com##.span4
@@ -49,3 +54,11 @@ ebookdaily.com##.span12 > .pull-right.btn
 ! Misc
 ebookdaily.com##.span12 > p
 ||ebookdaily.com/img/ebookdaily-logo.png$image
+ebookdaily.com##.container > .alert
+ebookdaily.com##hr
+
+! The modal dialog
+! Note: blocking this can cause issues with getting the scroll bar to show up. To mitigate, can zoom out, or play with StyleBot
+ebookdaily.com##.overlay-mask
+ebookdaily.com##.lightbox-form.span5.offset4
+ebookdaily.com##.overlaysan

@@ -32,6 +32,19 @@ linkedin.com##span:has-text(/trial/i)
 linkedin.com###ember54
 ||static.licdn.com/aero-v1/sc/h/4b546fydfcpt2ek5gw3q0be5l
 
+! Sign in with google or microsoft
+linkedin.com##[src^="https://accounts.google.com/gsi/iframe/select?client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&context=signin&as=Are5iBtjz75MAcKuDPr32A&is_itp=true&channel_id=14bb1c782b840b57540"]
+linkedin.com##.S9gUrf-YoZ4jf
+linkedin.com##.microsoft-auth-button__placeholder
+linkedin.com##.global-alert-offset.googleOneTapContainer
+linkedin.com##.alternate-signin-container
+
+! App promotion
+linkedin.com##.show.z-1.backdrop-blur-\[2px\].opacity-90.\!bg-\[\#F1F8FA\].w-\[359px\].flex-col.flex.windows-app-upsell--msft.windows-app-upsell.babybear\:hidden.p-2.min-h-\[56px\].right-3.bottom-3.fixed.z-10.container-raised.overflow-hidden.cta-modal
+
+! User agreement, fine print etc
+ca.linkedin.com##.z-\[9999\].right-\[20px\].top-\[20px\].items-center.flex-col.flex.fixed.google-one-tap__module
+ca.linkedin.com##.mt-3.text-center.pb-2.text-xs.text-color-text-low-emphasis.linkedin-tc__text
 
 ! Remove the entire side bar
 linkedin.com##.scaffold-layout__aside
@@ -50,3 +63,53 @@ linkedin.com##.msg-overlay-container-reflow.msg-overlay-container
 !	Remove the ! here to uncomment this. You can obviously still navigate to the page directly, just that the menu button 
 !	taking you to the job listings will be hidden
 ! linkedin.##.global-nav__primary-link.global-nav__primary-link--active.FTjHluXZKSEiALgwlatFdiSTzoafwZY
+
+! Cleaning up the nav bar
+linkedin.com##.ml-auto.order-3.babybear\:order-last.nav__menu.overflow-x-auto.pt-0.w-max.justify-start.babybear\:pt-1.babybear\:justify-between.babybear\:w-full.items-center.flex.top-nav-menu
+
+! Sections that don't matter
+linkedin.com##section.papabear\:flex-nowrap.babybear\:flex-col.flex-wrap.py-section.section
+linkedin.com##section.section:has-text(/Post a job/i)
+linkedin.com##section.section:has-text(/Open to work/i)
+linkedin.com##section.section:has-text(/Join your colleagues/i)
+linkedin.com##.babybear\:pt-0.babybear\:-mx-2.after\:bg-color-background-canvas.after\:content-\[\'\'\].after\:full-color-bkg.py-section.section
+linkedin.com##section.py-section.section:has-text(/Find people you know/i)
+linkedin.com##section.py-section.section:has-text(/Who is LinkedIn for/i)
+
+! Footer
+linkedin.com##div.mr-3.max-w-\[192px\].w-full:has-text(/Business solutions/i)
+linkedin.com##div.mr-3.max-w-\[192px\].w-full:has-text(/Directories/i)
+linkedin.com##li.babybear\:max-w-full.babybear\:my-1:has-text(/Games/i)
+linkedin.com##li.babybear\:max-w-full.babybear\:my-1:has-text(/Mobile/i)
+linkedin.com##li.babybear\:max-w-full.babybear\:my-1:has-text(/Top Companies/i)
+linkedin.com##li.babybear\:max-w-full.babybear\:my-1:has-text(/About/i)
+linkedin.com##li.babybear\:max-w-full.babybear\:my-1:has-text(/Help Center/i)
+linkedin.com##li.babybear\:max-w-full.babybear\:my-1:has-text(/Blog/i)
+linkedin.com##li.babybear\:max-w-full.babybear\:my-1:has-text(/Careers/i)
+linkedin.com##li.babybear\:max-w-full.babybear\:my-1:has-text(/Developers/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/Community/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/Language/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/Copyright/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/User Agreement/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/Accessibility/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/About/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/202/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/203/i)
+linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-solid-secondary.text-xs.font-sans.li-footer__item:has-text(/Brand Policy/i)
+linkedin.com##.lazy-loaded.text-blue-70.w-\[84px\].h-\[21px\].self-start.flex
+linkedin.com##li:has-text(/Language/i)
+linkedin.com##li:has-text(/Feedback/i)
+linkedin.com##li:has-text(/Community Guidelines/i)
+linkedin.com##li:has-text(/User Agreement/i)
+linkedin.com##li:has-text(/202/i)
+linkedin.com##li:has-text(/203/i)
+linkedin.com##.copyright
+
+
+! After logging in, side bar footer
+linkedin.com##li.global-footer-compact__item:has-text(/Get the LinkedIn App/i)
+linkedin.com##li.global-footer-compact__item:has-text(/Business Services/i)
+linkedin.com##li.global-footer-compact__item:has-text(/About/i)
+linkedin.com##li.global-footer-compact__item:has-text(/Accessibility/i)
+linkedin.com##li.global-footer-compact__item:has-text(/Advertising/i)
+linkedin.com##.clear-both.text-align-center.t-normal.t-12.global-footer-compact__content
