@@ -4,6 +4,9 @@
 ! Note: the /<text>/i notation makes the text case insensitive.
 ! =============================================================
 
+! Language switch
+canadiantire.ca##.nl-pencil-banner__language:has-text(/FR/i)
+
 ! Headers
 canadiantire.ca##.aem-GridColumn--default--12.aem-GridColumn.infobanner
 canadiantire.ca##.nl-pencil-banner__email-sign-up
@@ -24,6 +27,7 @@ canadiantire.ca##.recommendation-tabs.cmp-tabs
 canadiantire.ca###swiper-dkabqbdwu
 canadiantire.ca##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.slimbanner
 canadiantire.ca##.nl-row--no-gutters.nl-container.nl-row > .nl-col-xs-6.nl-col-sm-12.nl-col-md-12
+canadiantire.ca##.nl-full-width-container.nl-featured-list
 
 ! Footer
 canadiantire.ca##.nl-full-width-container.footer-social-share-icon
@@ -36,6 +40,27 @@ canadiantire.ca##li.show.nl-col-sm-3.nl-col-xs-3.nl-featured-list__brand-title:n
 canadiantire.ca##li.show.nl-col-sm-3.nl-col-xs-3.nl-featured-list__brand-title:nth-of-type(5)
 canadiantire.ca##.js-simple-footer-second-row
 canadiantire.ca##.nl-full-width-container.js-simple-footer
+canadiantire.ca##li:has-text(/Cookie settings/i)
+canadiantire.ca##li:has-text(/About Triangle ID/i)
+canadiantire.ca##li:has-text(/Financial Services/i)
+canadiantire.ca##li:has-text(/Roadside Assistance/i)
+canadiantire.ca##li:has-text(/EV Tires/i)
+canadiantire.ca##li:has-text(/Gift Cards/i)
+canadiantire.ca##li:has-text(/Gift Registryi)
+canadiantire.ca##li:has-text(/Balloon Appointments/i)
+canadiantire.ca##li:has-text(/How-to Guides/i)
+canadiantire.ca##li:has-text(/Site map/i)
+canadiantire.ca##li:has-text(/Accessibility/i)
+canadiantire.ca##li:has-text(/Privacy Policy/i)
+canadiantire.ca##li:has-text(/Careers/i)
+canadiantire.ca##li:has-text(/Our banners/i)
+canadiantire.ca##li:has-text(/About Canadian Tire/i)
+canadiantire.ca##li:has-text(/Jumpstart/i)
+canadiantire.ca##li:has-text(/Test for Life in Canada/i)
+canadiantire.ca##li:has-text(/Sustainability/i)
+canadiantire.ca##li:has-text(/Supplier Opportunities/i)
+canadiantire.ca##li:has-text(/Installation & Assembling/i)
+canadiantire.ca##li:has-text(/Support & FAQS/i)
 
 
 ! Navigation
@@ -62,6 +87,7 @@ canadiantire.ca##.btn.myregistry.mr-widget-cust-ent
 canadiantire.ca##.nl-buy-online__free-pickup-container__curbside-label
 canadiantire.ca##.nl-buy-box__sales-alerts-container.nl-button2--tertiary-default.nl-button2--tertiary.nl-button2
 canadiantire.ca##.aem-GridColumn--default--4.aem-GridColumn--tablet--9.aem-GridColumn.aem-GridColumn--phone--12.reactbasecomponent.potentialtoearn
+canadiantire.ca##.nl-product-card__atc-button.nl-button--mini.nl-button--primary.nl-button
 
 ! Details
 canadiantire.ca##.nl-dynamic-carousel__category--certona-skeleton.nl-skeleton.react-loading-skeleton

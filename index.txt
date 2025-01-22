@@ -31,6 +31,7 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sho
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_newegg.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_pa.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_peaveymart.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_rona.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_smartcanucks.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_wiseline.txt
 

@@ -36,9 +36,33 @@ amazon.ca##div.navAccessibility.navFooterColSpacerInner:nth-of-type(4)
 amazon.ca##div.navAccessibility.navFooterColSpacerInner:nth-of-type(6)
 amazon.ca##div.navAccessibility.navFooterLinkCol:nth-of-type(1)
 
+! Footer navigation
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Supply to Amazon/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Advertise your products/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Independantly publish with us/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Mastercard/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Sell on Amazon/i)
+
+! Language change
+amazon.ca##.navFooterLogoLine.navFooterLine
+amazon.ca###icp-touch-link-language:has-text(/English/i)
+
+! Other amazon properties
+amazon.ca##li.navFooterDescItem:has-text(/Amazon Advertising/i)
+amazon.ca##li.navFooterDescItem:has-text(/Goodreads/i)
+amazon.ca##li.navFooterDescItem:has-text(/Whole Foods Market/i)
+amazon.ca##li.navFooterDescItem:has-text(/Abebooks/i)
+amazon.ca##li.navFooterDescItem:has-text(/Amazon Business/i)
+amazon.ca##li.navFooterDescItem:has-text(/IMDB/i)
+amazon.ca##li.navFooterDescItem:has-text(/Blink/i)
+amazon.ca##li.navFooterDescItem:has-text(/Shopbob/i)
+
 
 ! Buy it again, books you might like, at the bottom of pages
 amazon.ca###rhf-shoveler
+amazon.ca###desktop-2:has-text(/Books that you may like/i)
+amazon.ca##._quad-multi-asin-card-v2_fluid_fluidCard__3hmFA:has-text(/Most wished for in Books/i)
+amazon.ca##._quad-multi-asin-card-v2_fluid_fluidCard__3hmFA:has-text(/Most wished for in Video Games/i)
 
 
 
@@ -80,6 +104,12 @@ amazon.ca###moreAboutTheAuthorCard_feature_div > .c-f.celwidget
 ! Share button
 amazon.ca##.ssf-background-float
 
+! =======================
+! INDIVIDUAL PRODUCT PAGE
+! =======================
+
+! Promos ('try audible')
+amazon.ca###desktop-dp-ilm_feature_div_01
 
 
 ! =======================================================

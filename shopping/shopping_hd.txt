@@ -36,6 +36,15 @@ homedepot.ca##li.hdca-footer-links__list-item:has-text(/Company/i)
 homedepot.ca##li.hdca-footer-links__list-item:has-text(/Foundation/i)
 homedepot.ca##li.hdca-footer-links__list-item:has-text(/Media/i)
 homedepot.ca##li.hdca-footer-links__list-item:has-text(/Eco/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/Credit Services/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/Protection Plans/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/The Home Depot Mobile App/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/Careers in Canada/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/Company Information/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/Home Depot Canada Foundation/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/Media Relations/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/Eco Options/i)
+homedepot.ca##.global-footer-links__category > li.ng-star-inserted:has-text(/Suppliers & Providers/i)
 
 ! Blocks to remove from the main landing page
 homedepot.ca##.hdca-cms-product-carousel--has-bottom-border.hdca-cms-product-carousel--has-top-border.false.hdca-cms-product-carousel

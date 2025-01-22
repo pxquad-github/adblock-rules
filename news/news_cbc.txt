@@ -57,6 +57,7 @@ cbc.ca##.radioBarFullWidthContainer
 cbc.ca##.sclt-section5.oc-l-sectionContainer-backgroundColor.oc-l-sectionContainer-dark.sectionContainer.pageContentWrap
 cbc.ca##.contentQueryWidget
 cbc.ca##.landingNewsSplit > .heading-CuIgF.sectionHeading-S5iEJ.heading-sectionHeading.heading
+cbc.ca##.sclt-section1.sectionContainer.pageContentWrap:has-text(/Shorts/i)
 
 ! Side bar
 cbc.ca##.contentAreaWrap.sectionContainer-rightRail
@@ -70,6 +71,9 @@ cbc.ca##.cardDefault.card:has-text(/Sports/i)
 cbc.ca##.cardDefault.card:has-text(/The Next Chapter/i)
 cbc.ca##.cardDefault.card:has-text(/Short Docs/i)
 cbc.ca##.cardDefault.card:has-text(/Quirks & Quarks/i)
+cbc.ca##.cardDefault.card:has-text(/CBC KIDS NEWS/i)
+cbc.ca###card-1\.7437951:has-text(/Listen/i)
+
 
 
 ! ==================

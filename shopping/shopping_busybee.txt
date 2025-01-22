@@ -29,3 +29,29 @@ busybeetools.com###shopify-section-template--17730239103142__dynamic_section_gal
 busybeetools.com###shopify-section-template--17730239103142__a351a5ba-6674-4ff0-85c5-ff1bf66671cf
 busybeetools.com##.shopify-section-catalogues.shopify-section-group-group-footer.shopify-section
 busybeetools.com##.layout-wide.section-slideshow
+
+
+! Meta
+www.busybeetools.com##.header-icon--favorites.header-icon-item
+
+! Bottom navigation
+busybeetools.com##li.list-item:has-text(/School board/i)
+busybeetools.com##li.list-item:has-text(/Financing/i)
+busybeetools.com##li.list-item:has-text(/About us/i)
+busybeetools.com##li.list-item:has-text(/Careers/i)
+busybeetools.com##li.list-item:has-text(/FAQ/i)
+busybeetools.com##li.list-item:has-text(/My Favourites/i)
+busybeetools.com##li.list-item:has-text(/Shop by brand/i)
+busybeetools.com##li.list-item:has-text(/Gift cards/i)
+
+! Search results, Meta
+busybeetools.com##.swym-loaded.swym-heart.swym-icon
+
+! Individual page: Credit and buy
+busybeetools.com##.affirm-as-low-as
+busybeetools.com##.szl-light.sezzle-left.sezzle-button-text
+busybeetools.com##.shopify-payment-button
+
+! Related
+busybeetools.com##.section-categories-related.shopify-section-categories.shopify-section
+busybeetools.com##.recently-viewed

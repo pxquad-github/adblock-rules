@@ -1,0 +1,148 @@
+! =============================================================
+! SHOPPING_RONA (https://www.rona.ca/en)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =============================================================
+
+! Language Switch
+rona.ca##a.TopBar_Link__ohZOq:has-text(/FR/i)
+rona.ca##.PaymentAndSocial_Locale__WygMp:has-text(/FR/i)
+rona.ca##.navbar-links > .js-changeLanguageLink:has-text(/FR/i)
+
+! Top navigation and meta
+rona.ca##.js-wishlist.wishlist.icon-link
+rona.ca##a.header__bottom-primary__nav-link--dropdown.header__bottom-primary__nav-link:has-text(/Installation Services/i)
+rona.ca##a.header__bottom-primary__nav-link--dropdown.header__bottom-primary__nav-link:has-text(/Projects & Ideas/i)
+rona.ca##a.header__bottom-primary__nav-link--dropdown.header__bottom-primary__nav-link:has-text(/Flyer/i)
+rona.ca##a.header__bottom-primary__nav-link--dropdown.header__bottom-primary__nav-link:has-text(/Promotion/i)
+rona.ca##button.Navbar_NavTab__hYUqJ:has-text(/Promotions/i)
+rona.ca##button.Navbar_NavTab__hYUqJ:has-text(/Flyer/i)
+rona.ca##button.Navbar_NavTab__hYUqJ:has-text(/Projects & Ideas/i)
+rona.ca##button.Navbar_NavTab__hYUqJ:has-text(/Installation Services/i)
+rona.ca##a.Navbar_NavTab__hYUqJ:has-text(/Flyer/i)
+rona.ca##.Navbar_WishlistIconLink__Nt5gI
+
+! Alerts at the top. Be selective in case there is an actual alert
+rona.ca##div.PromoBanner_PromoContainer__NHGCV:has-text(/Shop Now/i)
+rona.ca##div.PromoBanner_PromoContainer__NHGCV:has-text(/Free standard delivery/i)
+rona.ca##div.PromoBanner_PromoContainer__NHGCV:has-text(/Discover/i)
+rona.ca##div.PromoBanner_PromoContainer__NHGCV:has-text(/Join us/i)
+rona.ca##.header-banner:has-text(/Shop now/i)
+
+! VIP
+rona.ca##.Navbar_VipProLink__hI1uk
+rona.ca##.header-container > .pro-cta
+
+! Footer
+rona.ca##.PaymentAndSocial_MainContainer__1Bh82
+rona.ca##.Section_Section__A7gv5.LegalInfo_Section__WorPd
+rona.ca##.NavLinks_LogoContainer__nKPpf
+rona.ca##.bg-rona-blue-primary.footer-container.footer-icons-store-locator
+rona.ca##.bg-rona-blue-dark.footer-container.footer-copyright
+
+! Popup newsletter
+rona.ca##.active.enewsSubscribeModal.modal-container
+
+! Bottom navigation
+rona.ca##.footer-logo.footer-column
+rona.ca##[href="https://www.rona.ca/en/featured-brands"]
+rona.ca##[href="https://www.rona.ca/en/financing-loan-credit-card-programs/flexiti-program"]
+rona.ca##[href="https://www.rona.ca/en/pro-contractor-services#pro-contractor-services-footer"]
+rona.ca##[href="https://www.rona.ca/en/financing-loan-credit-card-programs/affirm-program"]
+rona.ca##[href="https://www.rona.ca/en/countertop-calculator"]
+rona.ca##.footer-links-content > div > [href="https://www.rona.ca/en/install-services"]
+rona.ca##.footer-links-content > div > [href="https://www.rona.ca/en/pro-contractor-services"]
+rona.ca##[href="https://www.rona.ca/en/becomeRONA"]
+rona.ca##[href="https://www.ronainc.ca/en"]
+rona.ca##[href="https://www.rona.ca/en/about-us"]
+rona.ca##[href="https://www.ronainc.ca/en/careers"]
+rona.ca##[href="https://vendors.rona.ca/"]
+rona.ca##[href="https://www.ronainc.ca/en/news"]
+rona.ca##[href="https://www.rona.ca/en/discover-rona-plus"]
+rona.ca##[href="https://www.rona.ca/en/protection-plan"]
+rona.ca##[href="https://www.rona.ca/en/newsletter-subscription"]
+rona.ca##[href="https://www.rona.ca/en/le-grand-chantier"]
+rona.ca##.footer-links-content > div > [href^="https://www.rona.ca/en/kid-workshop"]
+rona.ca##[href="https://www.rona.ca/en/ecofees"]
+rona.ca##[href="https://deckdesigner.rona.ca/"]
+rona.ca##[href="https://www.rona.ca/en/sustainability/products"]
+rona.ca##[href="https://www.rona.ca/en/well-made-here"]
+rona.ca##[href="https://www.rona.ca/en/gift-card"]
+rona.ca##.footer-links-content > div > [href="https://www.rona.ca/en/flyer"]
+rona.ca##[href="https://www.rona.ca/en/workshop"]
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Well made here/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Credit available/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Commercial credit/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Deck designer/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/VIPPro/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Protection Plan/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Newsletter/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Gran Chantier/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/kiddos/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/About Us/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/About RONA/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Careers/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Become a RONA Dealer/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Suppliers/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Media Relations/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Discover RONA+/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Our Featured Brands/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Gift Cards/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/FAQ/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Flyer/i)
+rona.ca##a.NavLinks_Link__NoNoG:has-text(/Shop by Brands/i)
+rona.ca##.bg-grey.footer-container.footer-feature-banner
+rona.ca##.Section_Section__A7gv5:has-text(/Get it installed/i)
+
+! Sections/blobs that are essentially ads
+rona.ca##div.CategoryCarousel_MainContainer__QJ9fo:has-text(/favourite brands/i)
+rona.ca##div.ColumnContent_MainContainer__yilMi:has-text(/Details/i)
+rona.ca##.SanityImage.ColumnContentTiledImage_TileImage__uCsYL
+rona.ca##div.PromotionalCarrouselTall_MainContainer__zazwD
+rona.ca##.RecommendationCarouselWithHeroBanner_MainContainer__CUsBm
+
+
+
+! =============
+! CATEGORY VIEW
+! =============
+
+! Banners
+rona.ca##.espot-DepartmentTopContent.espot-container
+rona.ca##.banner--tile.banner
+rona.ca##.banner-rona
+
+! Shop by brand
+rona.ca##.top-brands
+rona.ca##div.jEOZrI.StandardContent-sc-1ffeqx5-0.standard-content:has-text(/Shop by Brand/i)
+
+! Trends
+rona.ca##div.common-mosaic.row:has-text(/Trends/i)
+
+! Related items
+rona.ca##.espot-ScrollingTiles.espot-container
+
+! Fine print
+rona.ca##.espot-DepartmentBottomContent.espot-container
+
+! Individual item meta
+rona.ca##.button-wishlist.js-addToWL.product-tile__addToWL
+
+
+
+
+! =======================
+! INDIVIDUAL PRODUCT PAGE
+! =======================
+
+! Meta
+rona.ca##.pdp-affirm-message.affirm-as-low-as
+rona.ca##.price-box--product-page.price-box > .row > .col-xs-12:has-text(/Financing/i)
+rona.ca##.bv_main_container:has-text(/Write a review/i)
+rona.ca##.page-product__store-inventory__note
+rona.ca##.hidden-xs > .button-wishlist.page-product__addToWL.js-addToWL
+
+! Reviews and questions
+rona.ca##.page-product__bazaarvoice_questions
+rona.ca##.page-product__bazaarvoice_reviews
+
