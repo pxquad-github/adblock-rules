@@ -1,0 +1,105 @@
+! ===============================================================================
+! SHOPPING_AMAZON_PRODUCTS
+! Amazon has a very GUID-heavy layout so it's a bit trickier to block things out.
+! Use this to block product types, brands, categories
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! BABY
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Booster Seat/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Baby bottle/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Graco/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Bassinet/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/dual-basket air/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/playpen/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/potty/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/baby carrier/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Pacifier/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Philips AVENT/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Baby balance/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nipple flow/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Breast Pump/i)
+
+! BATH, BEAUTY
+
+
+! FASHION
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Yoga pants/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Christmas pajama/i)
+
+
+! FOOD, SUPPLEMENTS
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Boost powder/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/spirulina/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Beef tallow/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Batana oil/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/sea moss/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/protien powder/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/instant whey/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/testosterone booster/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Meal replacement/i)
+
+! GAMING AND TOYS
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nintendo/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/RC car/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Lego/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Super Mario/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Just Dance/i)
+
+! HOUSEHOLD
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Duracell Coppertop/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Bouncy castle/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Shoe rack/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/EXpo Dry Erase/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Essential oil/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Yankee candle/i)
+
+! KITCHEN APPLIANCE
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nespresso/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Keurig/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/air fryer/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/dual-basket air/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/meat thermometer/i)
+
+! PET
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Scratching post/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/cat litter/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/cat toy/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/cat water fountain/i)
+
+! SPORTS, HEALTH, FITNESS
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Weight bench/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Dumbbell/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Bike wall/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/barbell/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ankle weight/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/kettlebell/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/pickleball/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Pull up bar/i)
+
+! TECH
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/fusinon/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Norton 360/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/sonos/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Fire TV/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/1440P/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/QHD/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/HP Ink/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/INSTAX/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/UHD/BD/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Meta Quest/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Inkvestment/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Monster Mission/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ink cartidge/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Range extender/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Wireless earbuds/i)
+
+
+! TOOLS
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/telescopic ladder/i)
+
+! CRAP
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Holy bible/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/golf cart/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/trolling motor/i)

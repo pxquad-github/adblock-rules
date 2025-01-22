@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sho
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_product.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_vendor.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_amazon.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_amazon_products.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_bestbuy.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_bh.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_busybee.txt

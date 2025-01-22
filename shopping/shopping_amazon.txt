@@ -5,49 +5,30 @@
 ! Note: the /<text>/i notation makes the text case insensitive.
 ! ===============================================================================
 
+! ======
+! FOOTER
+! ======
 
-! =======
-! GENERAL
-! =======
-
-# Banner video at the top
-amazon.ca##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
-
-! Looking for a gift
-amazon.ca###CardInstancey4CpS21-kijSTs1MqclooQ
-amazon.ca###CardInstanceoGoBAlPFInA2rGWrTJkmeA
-amazon.ca###CardInstanceo6y_7kVrzWplSI4RBo2dtQ
-amazon.ca###CardInstance2E_9gDl-iRGJcbclThIR2w
-amazon.ca##.truncate-1line.title.a-spacing-mini
-amazon.ca##.truncate-2line.subtext.a-color-base.a-size-base
-
-! Widget promos for things like Audible (on the Deals page)
-amazon.ca##.acsUxWidget
-amazon.ca##.shoppingCxFeedbackRootWidget
-
-! Footer elements
-amazon.ca##._video-player_view_pvea-recommendation-card-wrapper__232n5
-amazon.ca##.pd_rd_r-ee6e2d58-04b9-4586-a294-e923fcf72a0a.pd_rd_w-D5mnW.pd_rd_wg-xLQ75.celwidget.desktop-gateway-atf_28d853a1-3706-481e-b6e7-d959c3055cc9.csm-placement-id-8603603f-12dd-447b-a9f6-28ba92adba2f.gw-col
-amazon.ca##div.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine > span
-amazon.ca##div.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine > ul
-amazon.ca##div.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(5)
-amazon.ca##div.navAccessibility.navFooterColSpacerInner:nth-of-type(2)
-amazon.ca##div.navAccessibility.navFooterColSpacerInner:nth-of-type(4)
-amazon.ca##div.navAccessibility.navFooterColSpacerInner:nth-of-type(6)
-amazon.ca##div.navAccessibility.navFooterLinkCol:nth-of-type(1)
-
-! Footer navigation
-amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Supply to Amazon/i)
-amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Advertise your products/i)
-amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Independantly publish with us/i)
-amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Mastercard/i)
-amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Sell on Amazon/i)
-
-! Language change
-amazon.ca##.navFooterLogoLine.navFooterLine
+! Footer - logo and language
+amazon.ca##.navFooterLogoLine.navFooterLine > [href^="/"] > .nav-sprite.nav-logo-base
 amazon.ca###icp-touch-link-language:has-text(/English/i)
 
-! Other amazon properties
+! Footer - navigation
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Supply to Amazon/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Advertise your products/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Independently Publish with Us/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Mastercard/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Sell on Amazon/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Modern Slavery/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Careers/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Investor Relations/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Press Releases/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Amazon Science/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol > ul > li:has-text(/Amazon and Our planet/i)
+amazon.ca##div.navAccessibility.navFooterLinkCol:has-text(/Get to know us/i)
+
+
+! Footer -  Other amazon properties
 amazon.ca##li.navFooterDescItem:has-text(/Amazon Advertising/i)
 amazon.ca##li.navFooterDescItem:has-text(/Goodreads/i)
 amazon.ca##li.navFooterDescItem:has-text(/Whole Foods Market/i)
@@ -55,82 +36,182 @@ amazon.ca##li.navFooterDescItem:has-text(/Abebooks/i)
 amazon.ca##li.navFooterDescItem:has-text(/Amazon Business/i)
 amazon.ca##li.navFooterDescItem:has-text(/IMDB/i)
 amazon.ca##li.navFooterDescItem:has-text(/Blink/i)
-amazon.ca##li.navFooterDescItem:has-text(/Shopbob/i)
+amazon.ca##li.navFooterDescItem:has-text(/Shopbop/i)
+amazon.ca##li.navFooterDescSpacer
 
+! Footer - very bottom, copyright etc
+amazon.ca##div.navFooterCopyright
 
-! Buy it again, books you might like, at the bottom of pages
+! Remove the 'continue series you've started and 'discover more'
 amazon.ca###rhf-shoveler
-amazon.ca###desktop-2:has-text(/Books that you may like/i)
-amazon.ca##._quad-multi-asin-card-v2_fluid_fluidCard__3hmFA:has-text(/Most wished for in Books/i)
-amazon.ca##._quad-multi-asin-card-v2_fluid_fluidCard__3hmFA:has-text(/Most wished for in Video Games/i)
 
 
 
-! ============
-! KINDLE BOOKS
-! ============
 
-! Banner image at the top of the Kindle storefront page (https://www.amazon.ca/kindle-dbs/storefront)
-amazon.ca##.a-spacing-none.a-text-center.a-span12.a-column
+! ======
+! HEADER
+! ======
 
-! Main cleanup
-amazon.ca###deliver-to-device-popup > .a-declarative.a-popover-trigger
-amazon.ca##.a-color-secondary.a-size-small > [href^="/gp/help/customer/display.html"]
-amazon.ca##.buybox-message-content.a-text-center.a-spacing-none.a-section
-amazon.ca##.sample-buttons-container-reflowable.a-spacing-small.a-section
-amazon.ca###a-autoid-5 > .a-button-inner
-amazon.ca##.a-span-last.followButtonColumn.a-span5.a-column
-amazon.ca##.kcpAppsPopOver.a-link-normal.a-size-mini
-amazon.ca##.celwidget.selected.swatchElement.a-text-left.a-span6.a-column
-amazon.ca###tmm-grid-swatch-PAPERBACK > .format.a-button-toggle.a-spacing-none.a-button
-amazon.ca##.a-ws-row.formatsRow.a-row
-amazon.ca###mediaMatrixGridAODPopover > .a-declarative.a-popover-trigger
-amazon.ca###mediaMatrixGridAODPopover_feature_div > .a-declarative
-amazon.ca###deliverable-message-title
-amazon.ca###DeliverToDeviceMessage > .a-text-center.a-section > .a-declarative > .a-declarative.a-popover-trigger
-amazon.ca###heroCardTopEvo
-amazon.ca###Kibbo-KINDLE_UNLIMITED_UPSELL-Desktop
-amazon.ca##.a-spacing-top-micro.a-spacing-small.a-divider-break.a-divider
-amazon.ca##.vat-delivery-message
-amazon.ca###kcpApp_feature_div
+! Language change
+amazon.ca##.icp-link-style-2:has-text(/EN/i)
+
+! Navigation bar
+amazon.ca##a.nav-a:has-text(Fashion)
+amazon.ca##a.nav-a:has-text(Toys & Games)
+amazon.ca##a.nav-a:has-text(Sports & Outdoors)
+amazon.ca##a.nav-a:has-text(Pet Supplies)
+amazon.ca##a.nav-a:has-text(Grocery)
+amazon.ca##a.nav-a:has-text(Audible)
+amazon.ca##a.nav-a:has-text(Baby)
+amazon.ca##a.nav-a:has-text(Music)
+amazon.ca##a.nav-a:has-text(Best Sellers)
+amazon.ca##a.nav-a:has-text(Health & Household)
+amazon.ca##a.nav-a:has-text(Books)
+amazon.ca##a.nav-a:has-text(Sell)
+amazon.ca##a.nav-a:has-text(New Releases)
+amazon.ca##a.nav-a:has-text(Beauty & Personal Care)
+
+! Today's deals category buttons
+amazon.ca##li.a-carousel-card:has-text(Beauty)
+amazon.ca##li.a-carousel-card:has-text(Toys & Games)
+amazon.ca##li.a-carousel-card:has-text(Fashion)
+amazon.ca##li.a-carousel-card:has-text(Home)
+amazon.ca##li.a-carousel-card:has-text(Devices)
+amazon.ca##li.a-carousel-card:has-text(Sports & Outdoors)
+
+! Today's deals - just remove the entire category button section entirely
+amazon.ca##.a-carousel-initialized.DesktopDiscountAsinGrid-module__bubbles_tz5S4CZZV23q1SSp5uCX
+
+
+
+
+
+! =========
+! MAIN PAGE
+! =========
+
+! Horizontal banner sections
+amazon.ca##.fresh-shoveler:has-text(/Best Sellers in/i)
+amazon.ca##.fresh-shoveler:has-text(/Books that you may like/i)
+amazon.ca##.fresh-shoveler:has-text(/Most wished for in/i)
+www.amazon.ca##.copilot-secure-display:has-text(Your browsing history)
+
+! Top grid block
+amazon.ca##.gw-auto-height.gw-card-layout:has-text("Shop Amazon Basics deals")
+amazon.ca##.a-cardui:has-text(Looking for a gift)
+amazon.ca###desktop-grid-4
+amazon.ca###desktop-grid-5
+amazon.ca###desktop-grid-2-AB
+
+! Middle grid block: Hide all the 'Continue shopping for', 'Explore more', 'Pick up where you left off' blocks on the mian page
+amazon.ca###desktop-btf-grid-1
+amazon.ca###desktop-btf-grid-2
+amazon.ca###desktop-btf-grid-3
+amazon.ca###desktop-btf-grid-4
+amazon.ca###desktop-btf-grid-5
+amazon.ca###desktop-btf-grid-6
+amazon.ca###desktop-btf-grid-7
+amazon.ca###desktop-btf-grid-8
+amazon.ca###desktop-btf-grid-9
+amazon.ca###desktop-btf-grid-10
+amazon.ca###desktop-btf-grid-11
+amazon.ca###desktop-btf-grid-12
+amazon.ca##hr.card-flow-row-break
+
+! Hero banner
+amazon.ca##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
+
+! Prime video ad spot
+amazon.ca##._video-player_view_pvea-recommendation-card-wrapper__232n5
+amazon.ca##.gw-card-layout.gw-fixed-col.gw-col.a-spacing-none.a-section
+
+
+
+! ======
+! KINDLE
+! ======
+
+! Navigation bar
+amazon.ca##a.nav-a:has-text(/French ebooks/i)
+amazon.ca##a.nav-a:has-text(/Kindle Unlimited/i)
+amazon.ca##a.nav-a:has-text(/Amazon Charts/i)
+amazon.ca##a.nav-a:has-text(/Kindle Singles/i)
+
+! Hero banner
+amazon.ca##.bottommargin.a-text-center.a-section
+
+! Nav links
+amazon.ca##.a-spacing-top-micro.a-row > .a-horizontal.a-nostyle.a-unordered-list > li:has-text(French Kindle Books)
+amazon.ca##.a-spacing-top-micro.a-row > .a-horizontal.a-nostyle.a-unordered-list > li:has-text(Bestsellers)
+amazon.ca##.a-spacing-top-micro.a-row > .a-horizontal.a-nostyle.a-unordered-list > li:has-text(Kindle Ulimited)
+amazon.ca##.a-spacing-top-micro.a-row > .a-horizontal.a-nostyle.a-unordered-list > li:has-text(Canadian Authors)
+amazon.ca##.a-spacing-top-micro.a-row > .a-horizontal.a-nostyle.a-unordered-list > li:has-text(Kindle Singles)
+amazon.ca##.a-spacing-top-micro.a-row > .a-horizontal.a-nostyle.a-unordered-list > li:has-text(Summer Reading)
+amazon.ca##.a-spacing-top-micro.a-row > .a-horizontal.a-nostyle.a-unordered-list > li:has-text(Back to school)
+amazon.ca##.a-spacing-top-micro.a-row > .a-horizontal.a-nostyle.a-unordered-list > li:has-text(Spooky Reads)
+amazon.ca##span.page-banner-separator.a-color-secondary.a-size-small
+
+
+
+
+! =====================
+! SPECIFIC PRODUCT PAGE
+! =====================
+
+! Amazon mastercard meta
 amazon.ca##.maple-banner
-amazon.ca##.kcpAppsPopOver.a-link-normal.a-size-mini
-amazon.ca##.celwidget.selected.swatchElement.a-text-left.a-span6.a-column
-amazon.ca##.a-ws-span-last.a-span-last.celwidget.unselected.swatchElement.a-text-left.a-span6.a-column
-amazon.ca###reviewFeatureGroup
-amazon.ca###bookDescription_feature_div
-amazon.ca###moreAboutTheAuthorCard_feature_div > .c-f.celwidget
 
-! Share button
-amazon.ca##.ssf-background-float
+! Banner ad (for things like Audible)
+amazon.ca##._universal-detail-ilm-card_style_image__2jCsj
 
-! =======================
-! INDIVIDUAL PRODUCT PAGE
-! =======================
+! Banner segments
+amazon.ca##div#similarities_feature_div.celwidget:has-text(Explore top deals)
+amazon.ca##div#similarities_feature_div.celwidget:has-text(Buy it with)
+amazon.ca##div#similarities_feature_div.celwidget:has-text(Frequently bought together)
+amazon.ca##div#similarities_feature_div.celwidget:has-text(Based on your purchase trends)
 
-! Promos ('try audible')
-amazon.ca###desktop-dp-ilm_feature_div_01
+! Navilinks
+amazon.ca##a.nav-a:has-text(Discover Your Style)
+amazon.ca##a.nav-a:has-text(Arts, Crafts & Sewing)
+
+! Product info block
+amazon.ca##div.a-row:nth-of-type(3) > .a-section
+
+! If there are no reviews, don't even bother showing
+amazon.ca###customerReviews:has-text(No customer reviews)
+
+! Choking hazard
+amazon.ca###cpsiaProductSafetyWarning_feature_div:has-text(/Choking hazard/i)
 
 
-! =======================================================
-! ORDER PAGE (https://www.amazon.ca/gp/css/order-history)
-! =======================================================
+
+! ===========
+! YOUR ORDERS
+! ===========
 
 ! Archive order
-amazon.ca##.yohtmlc-order-level-connections.a-link-normal.a-spacing-none
+amazon.ca##div.a-box:has-text(Archive order)
+
+! Recommended products on order details
+amazon.ca##.widget-html-container:has-text(Recommended for you based on)
+
+! Buy it again button
+amazon.ca##.a-button-primary:has-text(Buy it again)
 
 
-! ==========================================
-! CART PAGE (https://www.amazon.ca/gp/cart/)
-! ==========================================
-
+! ====
+! CART
+! ====
 ! Footnotes at the bottom
 amazon.ca###cart-about-cart-warning
 amazon.ca###sc-about > p
 
 ! For the saved items in your cart, these are the category tags and the buy-it-again subtab
 amazon.ca##.mission-categories.a-spacing-none.a-section
-www.amazon.ca###sc-buy-it-again-caption
+amazon.ca###sc-buy-it-again-caption
+
+! The 'how many people bought in the last month'
+amazon.ca##.a-size-small:has-text(bought in past)
 
 
 
@@ -143,3 +224,9 @@ amazon.ca###checkout-footer-policy-mesage-block > .a-section
 
 ! Pickup options
 amazon.ca##.a-link-expander.a-expander-inline-header.a-declarative.a-expander-header
+
+
+
+
+
+
