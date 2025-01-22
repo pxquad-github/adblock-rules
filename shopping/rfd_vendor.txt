@@ -131,6 +131,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Dollarama Deals/i)
 
 ! Sports, Health, Supplements
 forums.redflagdeals.com##li.topic.row:has-text(/AllTrails/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Teamtownsports/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sporting Life/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sportchek/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sport chek/i)

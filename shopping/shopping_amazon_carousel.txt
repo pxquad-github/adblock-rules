@@ -1,0 +1,105 @@
+! ===============================================================================
+! SHOPPING_AMAZON_CAROUSEL
+! Amazon has a very GUID-heavy layout so it's a bit trickier to block things out.
+! Use this to block product types, brands, categories
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! BABY
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Booster Seat/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Baby bottle/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Graco/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Bassinet/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/dual-basket air/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/playpen/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/potty/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/baby carrier/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Pacifier/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Philips AVENT/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Baby balance/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Nipple flow/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Breast Pump/i)
+
+! BATH, BEAUTY
+
+
+! FASHION
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Yoga pants/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Christmas pajama/i)
+
+
+! FOOD, SUPPLEMENTS
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Boost powder/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/spirulina/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Beef tallow/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Batana oil/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/sea moss/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/protien powder/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/instant whey/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/testosterone booster/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Meal replacement/i)
+
+! GAMING AND TOYS
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Nintendo/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/RC car/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Lego/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Super Mario/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Just Dance/i)
+
+! HOUSEHOLD
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Duracell Coppertop/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Bouncy castle/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Shoe rack/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/EXpo Dry Erase/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Essential oil/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Yankee candle/i)
+
+! KITCHEN APPLIANCE
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Nespresso/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Keurig/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/air fryer/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/dual-basket air/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/meat thermometer/i)
+
+! PET
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Scratching post/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/cat litter/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/cat toy/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/cat water fountain/i)
+
+! SPORTS, HEALTH, FITNESS
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Weight bench/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Dumbbell/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Bike wall/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/barbell/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/ankle weight/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/kettlebell/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/pickleball/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Pull up bar/i)
+
+! TECH
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/fusinon/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Norton 360/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/sonos/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Fire TV/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/1440P/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/QHD/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/HP Ink/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/INSTAX/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/UHD/BD/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Meta Quest/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Inkvestment/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Monster Mission/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/ink cartidge/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Range extender/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Wireless earbuds/i)
+
+
+! TOOLS
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/telescopic ladder/i)
+
+! CRAP
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Holy bible/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/golf cart/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/trolling motor/i)

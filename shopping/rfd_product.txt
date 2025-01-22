@@ -223,6 +223,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Pixel 11/i)
 forums.redflagdeals.com##li.topic.row:has-text(/samsung care/i)
 forums.redflagdeals.com##li.topic.row:has-text(/galaxy buds/i)
 forums.redflagdeals.com##li.topic.row:has-text(/galaxy unpacked/i)
+forums.redflagdeals.com##li.topic.row:has-text(/galaxy book/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Z Fold/i)
 
 
