@@ -22,3 +22,7 @@ reddit.com##.nd\:visible > .h-\[40px\].w-\[40px\].relative > .contents.nd\:visib
 ! Left Menu
 reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-\[2\] > nav > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
 reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
+
+! Popular communities
+www.reddit.com##.mb-0.box-border.py-md:has-text(/popular communities/i)
+

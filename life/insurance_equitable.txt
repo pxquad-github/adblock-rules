@@ -35,7 +35,7 @@ equitable.ca##h1:has-text(/News/i)
 equitable.ca##article.clearfix
 www.equitable.ca##.btn_article.btn
 
-! Bottom add
+! Bottom ad
 equitable.ca##.works-for-me
 
 

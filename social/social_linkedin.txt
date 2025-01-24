@@ -43,8 +43,8 @@ linkedin.com##.alternate-signin-container
 linkedin.com##.show.z-1.backdrop-blur-\[2px\].opacity-90.\!bg-\[\#F1F8FA\].w-\[359px\].flex-col.flex.windows-app-upsell--msft.windows-app-upsell.babybear\:hidden.p-2.min-h-\[56px\].right-3.bottom-3.fixed.z-10.container-raised.overflow-hidden.cta-modal
 
 ! User agreement, fine print etc
-ca.linkedin.com##.z-\[9999\].right-\[20px\].top-\[20px\].items-center.flex-col.flex.fixed.google-one-tap__module
-ca.linkedin.com##.mt-3.text-center.pb-2.text-xs.text-color-text-low-emphasis.linkedin-tc__text
+linkedin.com##.z-\[9999\].right-\[20px\].top-\[20px\].items-center.flex-col.flex.fixed.google-one-tap__module
+linkedin.com##.mt-3.text-center.pb-2.text-xs.text-color-text-low-emphasis.linkedin-tc__text
 
 ! Remove the entire side bar
 linkedin.com##.scaffold-layout__aside

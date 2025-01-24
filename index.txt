@@ -47,3 +47,4 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sit
 
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_linkedin.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit_feeds.txt
