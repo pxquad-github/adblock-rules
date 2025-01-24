@@ -94,7 +94,7 @@ amazon.ca##.a-carousel-initialized.DesktopDiscountAsinGrid-module__bubbles_tz5S4
 amazon.ca##.fresh-shoveler:has-text(/Best Sellers in/i)
 amazon.ca##.fresh-shoveler:has-text(/Books that you may like/i)
 amazon.ca##.fresh-shoveler:has-text(/Most wished for in/i)
-www.amazon.ca##.copilot-secure-display:has-text(Your browsing history)
+amazon.ca##.copilot-secure-display:has-text(Your browsing history)
 
 ! Top grid block
 amazon.ca##.gw-auto-height.gw-card-layout:has-text("Shop Amazon Basics deals")
@@ -227,6 +227,63 @@ amazon.ca##.a-link-expander.a-expander-inline-header.a-declarative.a-expander-he
 
 
 
+! =============================
+! KINDLE RELATED (PRODUCT PAGE)
+! =============================
+
+! Kindle book meta
+amazon.ca###Kibbo-KINDLE_UNLIMITED_UPSELL-Desktop
+amazon.ca##.buybox-message-content:has-text(Terms of Use)
+amazon.ca##.celwidget.a-text-center:has-text(/Read with our /i)
+amazon.ca###DeliverToDeviceMessage
+amazon.ca##.kindleALCExtraMessage
+amazon.ca##.a-spacing-top-micro.a-spacing-small.a-divider-break.a-divider.bdp-or-separator
+amazon.ca###detailBulletsWrapper_feature_div > ul.detail-bullet-list.a-spacing-none.a-vertical.a-nostyle.a-unordered-list:has-text(Best Sellers Rank)
+amazon.ca###persistentWidget_feature_div:has-text(Great on Kindle)
+
+! Audible option
+amazon.ca###tmm-grid-swatch-AUDIO_DOWNLOAD
+amazon.ca###audible_sampleplayer
+
+! Author
+amazon.ca###followTheAuthor_feature_div
+amazon.ca###moreAboutTheAuthorCard_feature_div
+
+! Customers also read, etc
+amazon.ca##.celwidget:has-text(Continue series you)
+amazon.ca##.celwidget:has-text(Customers who)
+amazon.ca##.celwidget:has-text(Shop this series)
+amazon.ca##.celwidget:has-text(More items to explore)
+
+! Rate experience
+amazon.ca##.shoppingCxFeedbackRootWidget
+
+! Book details
+amazon.ca###seriesBulletWidget_feature_div:has-text(/collects books from/i)
+amazon.ca##.gr-review-base.a-section
+
+! Report issue (for books)
+amazon.ca###FeedbackAgent_feature_div:has-text(/violates a copyright/i)
+
+! Share
+amazon.ca##.ssf-background-float
 
 
+! ==============================
+! KINDLE RELATED (POST CHECKOUT)
+! ==============================
 
+! Author
+amazon.ca##.aok-clearfix:has-text(Follow the author)
+amazon.ca##.aok-clearfix:has-text(Next in series)
+amazon.ca##.aok-clearfix:has-text(Also in this series)
+
+! Kindle unlimited
+amazon.ca##div.a-section:has-text(Read this title for free and get)
+
+! Next in series
+amazon.ca###retail-kindle-typ-shovelers_GenreBasedRecommenderStrategy_5790277011
+amazon.ca###retail-kindle-typ-shovelers_wsixnHCUIncrementalKindle
+amazon.ca###retail-kindle-typ-shovelers_GenreBasedRecommenderStrategy_5794194011
+amazon.ca##.a-section:has-text(Recommended for You Based on)
+amazon.ca##.a-section:has-text(For you in Mystery)

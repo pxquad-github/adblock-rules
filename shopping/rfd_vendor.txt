@@ -51,6 +51,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Wash & Go/i)
 ! Clothing
 forums.redflagdeals.com##li.topic.row:has-text(/UA Outlet/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Karbon/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Jerico/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Lululemon/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Puma/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Hilfiger/i)

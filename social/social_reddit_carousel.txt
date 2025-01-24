@@ -158,6 +158,6 @@ reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rou
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/quebec/i)
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/balatro/i)
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/dundermifflin/i)
-
-
-
+reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/baseball/i)
+reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/golf/i)
+reddit.com##article.m-0.w-full:has-text(/r\/globaloffensive/i)
