@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sho
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_bestbuy.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_bh.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_busybee.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_costco.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_ctire.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_ebay.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/shopping_ebooks.txt
@@ -42,9 +43,13 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sho
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_rogers.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_telus.txt
 
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/imdb.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/github.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/google.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/imdb.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/skype.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/stackoverflow.txt
 
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_linkedin.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit.txt
-https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit_feeds.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit_carousel.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit_story.txt

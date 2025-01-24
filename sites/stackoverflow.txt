@@ -1,0 +1,66 @@
+! ===============================================================================
+! STACKOVERFLOW (https://stackoverflow.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+
+! =================
+! MAIN LANDING PAGE
+! =================
+
+! Cookies
+stackoverflow.com###onetrust-consent-sdk
+
+! Signin with google
+stackoverflow.com###credential_picker_container
+
+! Footer
+stackoverflow.com##.md\:mt24.fs-fine.site-footer--copyright
+stackoverflow.com##div.site-footer--col:has-text(Products)
+stackoverflow.com##div.site-footer--col:has-text(Company)
+stackoverflow.com##div.site-footer--col:has-text(Stack Exchange Network)
+stackoverflow.com##.site-footer--container
+
+! Ads
+stackoverflow.com##.mb24
+stackoverflow.com##.overflow-hidden.mb32.md\:fd-column.ai-end.d-flex.pb0.md\:pb0.sm\:p24.p48.bbr-lg.bg-black-100
+
+! Navigation 
+stackoverflow.com##.js-help-button.s-topbar--item
+stackoverflow.com##.js-gps-track.js-site-switcher-button.s-topbar--item
+
+
+
+! ===================
+! INDIVIDUAL QUESTION
+! ===================
+
+! Not the question you're looking for?
+stackoverflow.com##.bottom-notice
+
+! Block: reply/post
+stackoverflow.com##.post-form.js-add-answer-component
+
+! Left sidebar
+stackoverflow.com##.mb8.mt32.ps-relative.js-freemium-cta
+stackoverflow.com##.js-collectives-navcta-toggle.ps-relative
+stackoverflow.com##.mb4:has-text(/Collectives/i)
+stackoverflow.com##.mb8.mt32.ml8:has-text(/LABS/i)
+stackoverflow.com##li.ps-relative:has-text(/Users/i)
+stackoverflow.com##li.ps-relative:has-text(/Companies/i)
+stackoverflow.com##li.ps-relative:has-text(/Discussions/i)
+
+! Right side bar: hot network questions
+stackoverflow.com##.tex2jax_ignore.module
+
+! RSS
+stackoverflow.com##.js-feed-link
+
+! Right side bar: news
+stackoverflow.com##.mb16.s-anchors__grayscale.s-anchors.s-sidebarwidget__yellow.s-sidebarwidget
+
+! Navigation
+stackoverflow.com##li.md\:d-none:has-text(/Overflow/i)
+stackoverflow.com##li.md\:d-none:has-text(/About/i)
+stackoverflow.com##li.md\:d-none:has-text(/Products/i)

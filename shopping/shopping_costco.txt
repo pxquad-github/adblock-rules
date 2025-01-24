@@ -1,0 +1,138 @@
+! ===============================================================================
+! SHOPPING_COSTCO (https://www.costco.ca/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! =========
+! MAIN PAGE
+! =========
+
+! Alerts (be selective in case there is a real alert)
+costco.ca##.mui-a4wj8d:has-text(/offers/i)
+costco.ca###header-top:has-text(/offers/i)
+
+
+! Language and locale
+costco.ca##.mui-1yu9n49.MuiBox-root > .mui-1cyqdgs > li:has-text(/EN/i)
+costco.ca##.mui-1yu9n49.MuiBox-root > .mui-1cyqdgs > li:has-text(/CA/i)
+costco.ca###country_dropdown:has-text(/CA/i)
+costco.ca##.open.dropdown-container:has-text(/EN/i)
+
+
+
+! Navigation
+costco.ca##.mui-1yu9n49.MuiBox-root > .mui-1cyqdgs > li:has-text(/Treasure Hunt/i)
+costco.ca##.mui-1yu9n49.MuiBox-root > .mui-1cyqdgs > li:has-text(/What\'s New/i)
+costco.ca##.mui-1yu9n49.MuiBox-root > .mui-1cyqdgs > li:has-text(/Online Deals/i)
+costco.ca##.mui-1yu9n49.MuiBox-root > .mui-1cyqdgs > li:has-text(/Warehouse Savings/i)
+costco.ca##.mui-1yu9n49.MuiBox-root > .mui-1cyqdgs > li:has-text(/Offers/i)
+costco.ca##.float-right.col-lg-3.col-xs-12 > .notranslate
+costco.ca###treasure-hunt
+costco.ca###whats-new
+costco.ca###warehouse-coupons
+costco.ca###online-deals
+costco.ca###email-signup-link
+costco.ca###offers-ending
+
+! Footer
+costco.ca##div.visible-xl-block.col-xl-3:has-text(/Follow Us/i)
+costco.ca###footer-email-offers-block
+costco.ca###footer-bottom
+
+
+! Footer navigation
+costco.ca##.mui-1ehsire.MuiBox-root > div:has-text(/About Us/i)
+costco.ca##.mui-1ehsire.MuiBox-root > div:has-text(/Vendors/i)
+costco.ca##li.mui-0:has-text(/Preventing fraud/i)
+costco.ca##li.mui-0:has-text(/purchase terms/i)
+costco.ca##li.mui-0:has-text(/accessibility/i)
+costco.ca##li.mui-0:has-text(/recycling/i)
+costco.ca##li.mui-0:has-text(/costco app/i)
+costco.ca##li.mui-0:has-text(/hearing aid/i)
+costco.ca##li.mui-0:has-text(/special events/i)
+costco.ca##li.mui-0:has-text(/costcogrocery/i)
+costco.ca##li.mui-0:has-text(/concierge/i)
+
+costco.ca##div.col-md-3.col-sm-3 > .footer-list:has-text(/About us/i)
+costco.ca##div.col-md-3.col-sm-3 > .footer-list:has-text(/Vendors/i)
+costco.ca##div.col-md-3.col-sm-3 > .footer-list:has-text(/Membership/i)
+costco.ca##li:has-text(/Hearing aid/i)
+costco.ca##li:has-text(/Accessibility/i)
+costco.ca##li:has-text(/Preventing fraud/i)
+costco.ca##li:has-text(/Recycling/i)
+costco.ca##li:has-text(/Costco App/i)
+costco.ca##li:has-text(/Gasoline/i)
+costco.ca##li:has-text(/CostcoGrocery/i)
+costco.ca##li:has-text(/Sepcial events/i)
+
+
+
+! Feedback
+costco.ca##.oo_tab_right
+
+! Why buy at costco
+costco.ca##div.mui-1q4kzyr.MuiBox-root:has-text(Annual Reward)
+
+! Grid squares: Appliances, tires, etc
+costco.ca##.mui-qjfzcm.MuiBox-root:has-text(/Appliances/i)
+costco.ca##.mui-qjfzcm.MuiBox-root:has-text(/Tires/i)
+costco.ca##.mui-qjfzcm.MuiBox-root:has-text(/Televisions/i)
+costco.ca##.mui-qjfzcm.MuiBox-root:has-text(/Computers/i)
+costco.ca##.mui-qjfzcm.MuiBox-root:has-text(/MATTRESSES/i)
+
+! Featured products
+costco.ca##div.mui-1q4kzyr.MuiBox-root:has-text(/Featured Products/i)
+costco.ca##div.mui-1q4kzyr.MuiBox-root:has-text(/What\'s New/i)
+
+! This is the main/first major ad block. This wipes out top half of the landing page
+costco.ca##main > div.mui-k9mlat.MuiBox-root:has-text(/Shop now/i)
+
+! Blocks that have $X off
+costco.ca##div.mui-k9mlat.MuiBox-root:nth-of-type(2) > div.mui-1q4kzyr.MuiBox-root:has-text(/0 Off/i)
+
+! Ad blocks
+costco.ca##.mui-1osek98.MuiBox-root
+
+! Cookies
+costco.ca###onetrust-consent-sdk
+
+
+! ===============
+! PRODUCT LISTING
+! ===============
+
+! Meta
+costco.ca##.mui-1kybcgf.MuiButton-tertiarySizeMedium.MuiButton-sizeMedium.MuiButton-tertiaryPrimary.MuiButton-tertiary.MuiButton-root.MuiButtonBase-root
+costco.ca##.mui-1elv8vm.MuiBox-root
+
+
+
+! =====================
+! SPECIFIC PRODUCT PAGE
+! =====================
+
+! Banner
+costco.ca##.product-top-banners.col-xs-12
+
+! Meta
+costco.ca##.visible-xl.visible-lg.product-social-print
+costco.ca##.col-lg-12.col-xs-12.add-to-list
+costco.ca##.locale_fr.hidden-sm.hidden-xs.crumbs
+costco.ca##.bv_main_container > div.bv_main_container_row_flex:has-text(/Write a review/i)
+costco.ca##.visible-xl.visible-lg.compare
+costco.ca##tr:has-text(/With an executive/i)
+costco.ca##tr:has-text(/CIBC Costco Master/i)
+costco.ca##.eco-head-apl
+
+
+! Reviews
+costco.ca###product_tabs > .col-xs-12 > .row > .col-xs-12.panel-body:has-text(/Reviews/i)
+costco.ca###tablist > li:has-text(/Reviews/i)
+
+! Ads
+costco.ca##.product-right-banners
+
+
+! Fine print that doesnt matter
+costco.ca##p:has-text(/Costco Concierge Services/i)

@@ -1,21 +1,17 @@
 ! ==============================================================================
-! SOCIAL_REDDIT_FEEDS (https://www.reddit.com/)
-! Separate list for filtering out feeds that I don't need to see while scrolling
+! SOCIAL_REDDIT_STORY (https://www.reddit.com/)
+! This is for the individual posts, to block communities that I don't care for
+! Make sure to sync these changes with SOCIAL_REDDIT_CAROUSEL
 !
 ! Note: the /<text>/i notation makes the text case insensitive.
 ! ==============================================================================
 
-
-
-! Roll at the top
-reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/sports/i)
-reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/xbox/i)
-
-! Posts from communities I don't care
 reddit.com##article.m-0.w-full:has-text(/r\/Canucks/i)
 reddit.com##article.m-0.w-full:has-text(/r\/hockey/i)
+reddit.com##article.m-0.w-full:has-text(/r\/raiders/i)
 reddit.com##article.m-0.w-full:has-text(/r\/nba/i)
 reddit.com##article.m-0.w-full:has-text(/r\/ptcgp/i)
+reddit.com##article.m-0.w-full:has-text(/r\/sports/i)
 reddit.com##article.m-0.w-full:has-text(/r\/leafs/i)
 reddit.com##article.m-0.w-full:has-text(/r\/joerogan/i)
 reddit.com##article.m-0.w-full:has-text(/r\/torontoraptors/i)

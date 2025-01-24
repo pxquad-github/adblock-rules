@@ -1,0 +1,28 @@
+! ===============================================================================
+! GITHUB (https://github.com/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Footer
+github.com##li.mx-2:has-text(/Docs/i)
+github.com##li.mx-2:has-text(/Manage Cookies/i)
+github.com##li.mx-2:has-text(/Terms/i)
+github.com##li.mx-2:has-text(/Privacy/i)
+github.com##li.mx-2:has-text(/Contact/i)
+github.com##cookie-consent-link
+github.com##.mx-2.flex-shrink-0.flex-items-center.d-flex
+
+
+! Blobs I don't care
+github.com###conduit-feed-frame:has-text(/Trending repo/i)
+github.com##article.py-3.width-full.flex-column.d-flex:has-text(/tutorial project/i)
+
+! Side bar: latest changes
+github.com##.rounded-2.p-3.color-border-default.border.color-bg-default.dashboard-changelog
+
+! Side bar: explore repos
+github.com##.border-bottom.mb-5.feed-right-sidebar > .rounded-2.p-3.color-border-default.border.color-bg-default.mb-5
+
+! Side bar: copilot (can access from top menu)
+github.com##.border-bottom.mb-5.feed-right-sidebar > div > .js-notice:has-text(Copilot)
