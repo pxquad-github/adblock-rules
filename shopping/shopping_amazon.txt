@@ -240,6 +240,7 @@ amazon.ca##.kindleALCExtraMessage
 amazon.ca##.a-spacing-top-micro.a-spacing-small.a-divider-break.a-divider.bdp-or-separator
 amazon.ca###detailBulletsWrapper_feature_div > ul.detail-bullet-list.a-spacing-none.a-vertical.a-nostyle.a-unordered-list:has-text(Best Sellers Rank)
 amazon.ca###persistentWidget_feature_div:has-text(Great on Kindle)
+amazon.ca###EbookSample
 
 ! Audible option
 amazon.ca###tmm-grid-swatch-AUDIO_DOWNLOAD
@@ -254,6 +255,7 @@ amazon.ca##.celwidget:has-text(Continue series you)
 amazon.ca##.celwidget:has-text(Customers who)
 amazon.ca##.celwidget:has-text(Shop this series)
 amazon.ca##.celwidget:has-text(More items to explore)
+amazon.ca###popularHighlightsBtfWW_feature_div
 
 ! Rate experience
 amazon.ca##.shoppingCxFeedbackRootWidget

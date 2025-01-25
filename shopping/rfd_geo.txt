@@ -52,6 +52,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Quebec/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sherbooke/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Québec/i)
 forums.redflagdeals.com##li.topic.row:has-text(/QC /i)
+forums.redflagdeals.com##li.topic.row:has-text(/(QC)/i)
 forums.redflagdeals.com##li.topic.row:has-text(/QC-only/i)
 
 ! GENERAL CANADA
