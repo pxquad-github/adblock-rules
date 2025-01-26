@@ -123,6 +123,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Vegan/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Essential Oil/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Calrose/i)
 forums.redflagdeals.com##li.topic.row:has-text(/quinoa/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Lavazza Crem/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Whey/i)
 forums.redflagdeals.com##li.topic.row:has-text(/mama burger/i)
 forums.redflagdeals.com##li.topic.row:has-text(/papa burger/i)
@@ -314,6 +315,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Core i3/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Core i5/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Core i3/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Fire TV/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Anker Soundcore/i)
 
 
 ! Tech - PC Companies

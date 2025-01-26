@@ -1,0 +1,42 @@
+! ===============================================================================
+! FANDOM
+! Any number of fan related sites, oftem found as video game wikis
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Switch language
+fandom.com##.page-header__languages:has-text(/English/i)
+
+! Start a wiki
+fandom.com##.global-top-navigation__start-new-wiki
+
+! Sign in
+fandom.com##.page-header__actions:has-text(/Sign In to edit/i)
+fandom.com##.global-top-navigation__action-wrapper > .sign-in.global-action__item
+fandom.com##.page-side-tools__wrapper
+fandom.com##.mw-editsection
+fandom.com###community-navigation > .sign-in.global-action__item
+
+! Survey
+fandom.com##.marketing-notifications
+
+! Footer
+fandom.com###WikiaBar
+fandom.com##.global-footer__bottom
+fandom.com##.global-footer__header
+
+
+! Footer major blocks
+fandom.com##.global-footer__section-community
+fandom.com##.global-footer__section-advertise
+fandom.com##.global-footer__section-fandom-apps.global-footer__section
+fandom.com##.global-footer__section-fandom-stores.global-footer__section
+fandom.com##.global-footer__section-social-links
+fandom.com##.global-footer__section-fandom-overview
+fandom.com##.global-footer__section-site-overview
+
+! Page meta
+fandom.com##.fandom-community-header__top-container > .wds-button-group.wiki-tools > a.wds-is-secondary.wds-button:nth-of-type(2)
+fandom.com##.license-description
+fandom.com###mw-data-after-content:has-text(/MOre Fandoms/i)

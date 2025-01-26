@@ -21,6 +21,9 @@ techpowerup.com##.page > .s-
 techpowerup.com##.frontpage-extra
 techpowerup.com##.patreon-previews
 
+! Poll
+techpowerup.com##.newspoll_btn.jsonly
+
 ! Today's files, reviews etc
 techpowerup.com##.todaysfiles.todayslist
 techpowerup.com##article.todaysreviews

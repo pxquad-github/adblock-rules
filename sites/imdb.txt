@@ -1,73 +1,122 @@
-! ============
-! MAIN LANDING
-! ============
+! =========
+! MAIN PAGE
+! =========
 
-! Header
-imdb.com##.jHAJWx.sc-eGJXzN
-imdb.com##.imdb-header__watchlist-button.jzOrdI.sc-fcmLWC > .ipc-text-button.ipc-btn--on-textPrimary.ipc-btn--button-radius.ipc-btn--theme-baseAlt.ipc-btn--core-baseAlt.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--single-padding.ipc-btn
-imdb.com##.ftVCet.sc-GvgMv.navbar__imdbpro
+! Sections that don't matter
+imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:has-text(From your Watchlist)
+imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:has-text(Top 10)
+imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:has-text(Fan favo)
+imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:has-text(Coming soon to theaters)
+imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:has-text(Top box office)
+
+imdb.com##div.page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:has-text(Exclusive videos)
+imdb.com##div.page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:has-text(Explore what)
+imdb.com##div.page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:has-text(What to watch)
+imdb.com##div.page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:has-text(More to explore)
+imdb.com##div.page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:has-text(Featured today)
+
+imdb.com##.ccXuUy.sc-cd2d94b0-0.ipc-page-content-container--center.ipc-page-content-container > div:has-text(Explore Movies)
+
+imdb.com##.celwidget:has-text(Most popular celebrities)
+
+imdb.com##.born-today
+imdb.com##.top-news
+imdb.com##.recently-viewed-items
+imdb.com##.in-theaters
+
+! Sign in, watchlist
+imdb.com##.footer__sign-in
+imdb.com##.hrzrxR.sc-fuISYh.navbar__user.nav__userMenu
+imdb.com##.imdb-header__watchlist-button
+
+! IMDB Pro
+imdb.com##.navbar__flyout--breakpoint-l.navbar__imdbpro-content
+
+! Lanaguage change
+imdb.com##.navbar__flyout--breakpoint-m.cXNOwG.dUVOWS.sc-csTbTw.sc-jQAyio:has-text(EN)
+
+! Menu
+imdb.com##.hamburger__icon
 
 
-! Top banner blob
-imdb.com##.ipc-page-grid__item--span-3.ipc-page-grid__item.bhtxwn.sc-49851e97-0
-
-! Featured today
-imdb.com##div.page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(2)
-
-! Most popular celebrities
-imdb.com##.hmZTRy.sc-a10d778f-0.ipc-page-content-container--center.ipc-page-content-container > .celwidget.ipc-page-section--baseAlt.ipc-page-section
-
-! What to watch
-imdb.com##.ipc-title__actions
-imdb.com##.from-your-watchlist
-imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:nth-of-type(1)
-imdb.com##.fan-picks > .ipc-title--on-textPrimary.ipc-title--subsection-title.ipc-title--baseAlt.ipc-title > .ipc-title__description
-imdb.com##.celwidget.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section
-
-! Exclusive videos
-imdb.com##.ipc-page-grid__item--span-3.ipc-page-grid__item > .ipc-page-section--baseAlt.ipc-page-section
-imdb.com##.ipc-page-grid__item--span-3.ipc-page-grid__item > .ipc-title--on-accent1.ipc-title--category-title.ipc-title--baseAlt.ipc-title > hgroup > .ipc-title__text
-
-! Explore
-imdb.com##div:nth-of-type(5) > .page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-title--on-accent1.ipc-title--category-title.ipc-title--baseAlt.ipc-title > hgroup > .ipc-title__text
-imdb.com##.top-box-office
-imdb.com##div:nth-of-type(6) > .page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid > section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:nth-of-type(2)
-imdb.com##div:nth-of-type(5) > .page-grid.gVLfbJ.sc-7404859-0.ipc-page-grid--bias-left.ipc-page-grid
-imdb.com##.rvi-empty-section
-imdb.com##.coming-soon-movie > .ipc-title--on-textPrimary.ipc-title--subsection-title.ipc-title--baseAlt.ipc-title > .ipc-title__description
-
-
-
-! Metadata on posts
-imdb.com##.ipc-secondary-button.ipc-btn--on-accent2.ipc-btn--button-radius.ipc-btn--theme-baseAlt.ipc-btn--core-baseAlt.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--full-width.ipc-btn
-imdb.com##div.ipc-sub-grid-item--span-4.ipc-sub-grid-item.coming-soon-title.ipc-slate-card--dynamic-width.ipc-slate-card--media-radius.ipc-slate-card--baseAlt.ipc-slate-card > .ipc-slate-card__content > .ipc-slate-card__text-container > .ipc-slate-card__actions
-imdb.com##div.ipc-sub-grid-item--span-4.ipc-sub-grid-item.coming-soon-title.ipc-slate-card--dynamic-width.ipc-slate-card--media-radius.ipc-slate-card--baseAlt.ipc-slate-card > .eJnXkD.sc-11d104ba-2
-imdb.com##.ipc-rate-button--baseAlt.ipc-rate-button--unrated.ipc-rating-star-group--unrated.ipc-rate-button
 
 ! Footer
+imdb.com##.footer__copyright
+imdb.com##.footer__logo.imdb-footer__logo
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Press Room)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Advertising)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Jobs)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Conditions of Use)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Privacy Policy)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Your Ads)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Help)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Site Index)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(IMDbPro)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(Box Office Mojo)
+imdb.com##.imdb-footer__links > div > .baseAlt.footer__linksRow.ipc-inline-list > li.ipc-inline-list__item:has-text(License IMDb Data)
+imdb.com##.imdb-footer__links
 imdb.com##.footer.cvdsgD.sc-bCwene.imdb-footer
 
 
 
-! ================
-! INDIVIDUAL MOVIE
-! ================
+! ===============
+! INDIVIDUAL PAGE
+! ===============
 
-! Header
-imdb.com##div.rating-bar__base-button.iaJqqu.sc-acdbf0f3-0:nth-of-type(2)
-imdb.com##.kUfGfN.sc-70a366cc-1.jJkxPn.sc-3a4309f8-0 > .dOjKRs.sc-3a4309f8-1 > div.rating-bar__base-button.iaJqqu.sc-acdbf0f3-0:nth-of-type(3)
-imdb.com##.ipc-responsive-button--button-radius.ipc-responsive-button--single-padding.ipc-btn--on-textPrimary.ipc-responsive-button--transition-m.ipc-btn--theme-baseAlt.ipc-responsive-button
-imdb.com##.kVSIEg.sc-1fdae676-1
-imdb.com##.hGdSLi.sc-5d8253ca-3
+! Sub navigation
+imdb.com##.hxKEsl.sc-5d8253ca-1:has-text(/Episode Guide/i)
+imdb.com##.hxKEsl:has-text(Cast & crew)
 
-! Meta
-imdb.com##.GeQgK.sc-70a366cc-9.eyKCbY.sc-22537390-0.ipc-metadata-list__item > .ipc-metadata-list-item__content-container > .celwidget.pro-upsell.gQyhzh.sc-a7284962-0
-imdb.com##.ketnsO.sc-9a2a0028-11
-imdb.com##.cDzRCX.sc-9a2a0028-11 > div
-imdb.com##li.flXrcD.sc-b782214c-1.ipc-inline-list__item:nth-of-type(1)
-imdb.com##li.flXrcD.sc-b782214c-1.ipc-inline-list__item:nth-of-type(2)
+! Voting, ratings
+imdb.com##div.rating-bar__base-button.iaJqqu.sc-acdbf0f3-0:has-text(YOUR RATING)
 
-! Sidebar
-imdb.com##.right-rail-more-to-explore.foEuCN.sc-65d2a03-2
+! Add to watchlist
+imdb.com##.ketnsO.sc-9a2a0028-11:has-text(Add to Watchlist)
+imdb.com##.cDzRCX.sc-9a2a0028-11:has-text(Add to Watchlist)
 
-! Details
+! IMDB Pro
+imdb.com###ProUpsellLink
+imdb.com##li.ipc-metadata-list-item--link.ipc-metadata-list__item:has-text(IMDbPro)
+imdb.com##li.ipc-metadata-list-item--link.ipc-metadata-list__item:has-text(Parents guide)
+
+! Modal vote dialog
+imdb.com##.enter-done.ipc-rating-prompt.ipc-promptable-dialog.ipc-promptable-base
+
+! Edit button
+imdb.com##.ipc-title__actions:has-text(Edit)
+imdb.com##.ipc-title__actions:has-text(Add photo)
+
+
+! Sections I don't care
+imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(Awards)
+imdb.com##.right-rail-more-to-explore
+imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(More like this)
+imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(Did you know)
+imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(User reviews)
+imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(Top picks)
+imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(Related news)
+imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(Contribute to this page)
+imdb.com##section.dVWlvA.sc-d2a39205-0:has-text(/See the list/i)
+imdb.com##section.dVWlvA.sc-d2a39205-0:has-text(/Everything new/i)
+
+
+! Blocks I don't care
+imdb.com##.ikizSd.sc-142fb3e4-0.ipc-chip-list.ipc-chip-list--base
+imdb.com##li.ipc-metadata-list-item--link.ipc-metadata-list__item:has-text(Production companies)
+
+! Meta (likes, thumbs up etc)
+imdb.com##.eJnXkD.sc-11d104ba-2
+imdb.com##.videoplayer-reaction-bar-summary
+
+
+! ==============
+! MAIN HERO PAGE
+! ==============
+
+! Reaction meta
+imdb.com##.dJkeEw.sc-8d19490d-1.ipc-reaction-selector__selector-root
+
+! Misc
+imdb.com##section.celwidget.ipc-page-section--baseAlt.ipc-page-section:has-text(Related Videos)
+imdb.com##.ipc-snackbar:has-text(Video playback muted automatically)
+

@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sho
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_rogers.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_telus.txt
 
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/fandom.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/github.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/google.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/imdb.txt
