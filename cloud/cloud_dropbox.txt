@@ -1,0 +1,39 @@
+! =================================================================================================================
+! CLOUD_DROPBOX
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =================================================================================================================
+
+! ================
+! UNLOGGED IN PAGE
+! ================
+! Sign in with Google
+dropbox.com###credential_picker_container
+
+! SSO Google Apple
+dropbox.com##._third-party-container_1p0e9_12
+dropbox.com##._hr-label_1rzgs_4:has-text(/or/i)
+
+! Footer
+dropbox.com##li.dwg-mr--3.dwg-mt--3.dwg-box.dwg-footer-plank__link-list-item:has-text(Cookie policy)
+dropbox.com##li.dwg-mr--3.dwg-mt--3.dwg-box.dwg-footer-plank__link-list-item:has-text(Privacy)
+dropbox.com##li.dwg-mr--3.dwg-mt--3.dwg-box.dwg-footer-plank__link-list-item:has-text(CCPA)
+
+! Language region swap
+dropbox.com##div.dwg-box.dwg-flex-grid__cell:has-text(English)
+
+
+! =========
+! LOGGED IN
+! =========
+
+! Modeal popup (usually selling something)
+dropbox.com##.ReactModalPortal
+
+! Upgrade Dropbox button
+dropbox.com##._toolkit-link_1gpi8_1:has-text(Click to upgrade)
+dropbox.com##.maestro-campaigns-toolkit-portal:has-text(Try Dropbox)
+
+! Suggested for You blob
+dropbox.com##._suggestSection_odl62_17:has-text(Suggested for you)
+

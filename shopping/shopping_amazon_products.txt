@@ -20,6 +20,7 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Philips AVEN
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Baby balance/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nipple flow/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Breast Pump/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/nursing bra/i)
 
 ! BATH, BEAUTY
 
@@ -39,6 +40,8 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/protien powd
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/instant whey/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/testosterone booster/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Meal replacement/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/protein powder/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/biosteel/i)
 
 ! GAMING AND TOYS
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nintendo/i)
@@ -67,6 +70,7 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Scratching p
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/cat litter/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/cat toy/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/cat water fountain/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/dog training collar/i)
 
 ! SPORTS, HEALTH, FITNESS
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Weight bench/i)
@@ -77,8 +81,12 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ankle weight
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/kettlebell/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/pickleball/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Pull up bar/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/blood pressure monitor/i)
 
 ! TECH
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/TP-link deco/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/pixma/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/canon ink/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/fusinon/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Norton 360/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/sonos/i)
@@ -97,6 +105,7 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Wireless ear
 
 
 ! TOOLS
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/air duster/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/telescopic ladder/i)
 
 ! CRAP

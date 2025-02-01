@@ -4,6 +4,8 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blo
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog/blog_toolguyd.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/blog/blog_tpu.txt
 
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/cloud/cloud_dropbox.txt
+
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/life/credit_borrowell.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/life/credit_creditkarma.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/life/insurance_equitable.txt
@@ -49,8 +51,10 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sit
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/imdb.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/skype.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/stackoverflow.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/wirecutter.txt
 
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_linkedin.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit_carousel.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_reddit_story.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_youtube.txt

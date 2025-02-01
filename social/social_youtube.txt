@@ -1,0 +1,65 @@
+! ==============================================================================
+! SOCIAL_YOUTUBE (https://www.youtube.com/)
+! This is for the main YouTube portal -- the entries here need to have www. on 
+! them to distinguish, say, from music.youtube.com
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==============================================================================
+
+! =================
+! MAIN LANDING PAGE
+! =================
+
+! Tags across the top
+www.youtube.com###scroll-container:has-text(All)
+
+! YouTube Shorts, PLayables
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:has-text(Shorts)
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:has-text(YouTube Playables)
+
+! Left menu bar, navigation elements I don't care for
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:has-text(Send feedback)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:has-text(Help)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:has-text(YouTube Kids)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:has-text(Sports)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:has-text(Shorts)
+
+! Left bar, get rid of the entire Explore and Subscriptions section
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:has-text(Explore)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2):has-text(Subscriptions)
+
+! Left bar, footer
+www.youtube.com##[href="https://www.youtube.com/about/"]
+www.youtube.com##[href="https://www.youtube.com/about/press/"]
+www.youtube.com##[href="https://www.youtube.com/about/copyright/"]
+www.youtube.com##[href="/t/contact_us/"]
+www.youtube.com##[href="https://www.youtube.com/creators/"]
+www.youtube.com##[href="https://developers.google.com/youtube"]
+www.youtube.com##[href="/t/terms"]
+www.youtube.com##[href="https://www.youtube.com/about/policies/"]
+www.youtube.com##[href^="https://www.youtube.com/howyoutubeworks"]
+www.youtube.com##[href="https://www.google.com/accessibility/get-in-touch/"]
+www.youtube.com##[href="/t/privacy"]
+www.youtube.com##[href="https://www.youtube.com/ads/"]
+
+! Left bar, copyright
+www.youtube.com###copyright
+
+
+! ================
+! INDIVIDUAL VIDEO
+! ================
+
+! Buttons I won't press
+www.youtube.com###sponsor-button:has-text(Join)
+www.youtube.com##yt-button-view-model.ytd-menu-renderer:has-text(Thanks)
+www.youtube.com##yt-button-view-model.ytd-menu-renderer:has-text(Clip)
+
+! Shorts
+www.youtube.com##ytd-reel-shelf-renderer:has-text(Shorts)
+
+! Comments lol
+www.youtube.com###comments
+
+! Transcript button
+www.youtube.com##ytd-video-description-transcript-section-renderer

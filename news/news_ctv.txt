@@ -57,6 +57,4 @@ ctvnews.ca##.c-bottom__container
 ctvnews.ca###articleVideoSlider-1598411968 > .c-article-video
 ctvnews.ca##.basicpage.page.xfpage
 ctvnews.ca##.c-text > .c-relatedStories
-
-! Jan 10, 2025 https://www.ctvnews.ca
 ctvnews.ca##[href="https://whatsapp.com/channel/0029VaHOKHN3rZZbOPG8Kz2H"]

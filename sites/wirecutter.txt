@@ -1,0 +1,65 @@
+! ===============================================================================
+! WIRECUTTER (https://www.nytimes.com/wirecutter/)
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+
+! =================
+! MAIN LANDING PAGE
+! =================
+! Alert (be selective)
+nytimes.com###site_head__statement:has-text(earn a commission)
+
+! Footer
+nytimes.com##div.a1497183:has-text(A New York Times Company)
+nytimes.com##.fae5397c:has-text(is the product recommendation service)
+nytimes.com##.a1497183.e91fd2bb
+
+! Footer navigation
+nytimes.com##.a3934294:has-text(/Jobs at Wirecutter/i)
+nytimes.com##.a3934294:has-text(/How to Pitch/i)
+nytimes.com##.a3934294:has-text(/Newsletters/i)
+nytimes.com##.a3934294:has-text(/Contact us/i)
+
+! Sidebar, daily deals
+nytimes.com##.deaf7ce6:has-text(/Daily deals/i)
+nytimes.com##section.a00088b5:has-text(The Wirecutter Show)
+
+! Sidebar 'The latest'
+nytimes.com##.f31493e1
+
+
+
+! ===============
+! INDIVIDUAL POST
+! ===============
+
+! Social
+nytimes.com##.d8fa7d3f.cf439f01
+
+! Author etc
+nytimes.com##.f6782b90
+nytimes.com##.e5d974ab.a8b71d33
+
+! Looking for something else
+nytimes.com##.ca627d12:has-text(Looking for something else)
+nytimes.com##.d048ac42:has-text(Looking for something else)
+
+! Commments
+nytimes.com###comments
+
+! Bottom, meet your guides
+nytimes.com##.d4b00d15:has-text(Meet your guide)
+
+! Meta for pictures and call out boxes
+nytimes.com##figcaption:has-text(Photo:)
+nytimes.com##.e14704b2
+nytimes.com##.ab4df9c8:has-text(May be out of stock)
+
+! ======================
+! CATEGORY LANDING PAGES
+! ======================
+
+! Hide the author
+nytimes.com##.c3074b9c:has-text(/by/i)

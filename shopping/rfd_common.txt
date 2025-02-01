@@ -74,7 +74,7 @@ forums.redflagdeals.com##.header.topiclist
 forums.redflagdeals.com##li.topic.row:has-text(/Moved/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sponsored/i)
 forums.redflagdeals.com##li.topic.row:has-text(/New Flyer/i)
-
+forums.redflagdeals.com##li.topic.row:has-text(/[DEAD]]/i)
 
 ! ==============================================================================
 ! Individual post specific cleanup. This is when you click on an individual deal

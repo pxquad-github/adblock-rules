@@ -53,7 +53,9 @@ forums.redflagdeals.com##li.topic.row:has-text(/MBNA/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Mastercard/i)
 forums.redflagdeals.com##li.topic.row:has-text(/American Express/i)
 forums.redflagdeals.com##li.topic.row:has-text(/BMO/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Rogers Bank/i)
 forums.redflagdeals.com##li.topic.row:has-text(/AnyCard/i)
+forums.redflagdeals.com##li.topic.row:has-text(/TD First Class/i)
 
 
 ! Cars, Bikes
@@ -78,6 +80,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Timberland/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Saxx/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Croc/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Vape/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Skechers/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Puma/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Reebok/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Ray Ban/i)
@@ -118,6 +121,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Game Pass/i)
 
 
 ! Food, Supplements, etc.
+forums.redflagdeals.com##li.topic.row:has-text(/Whopper/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Meal Replacement/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Vegan/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Essential Oil/i)
@@ -240,6 +244,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/PC point/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Aeroplan/i)
 forums.redflagdeals.com##li.topic.row:has-text(/PC Point/i)
 forums.redflagdeals.com##li.topic.row:has-text(/PC Optimum/i)
+forums.redflagdeals.com##li.topic.row:has-text(/000 bonus points/i)
 forums.redflagdeals.com##li.topic.row:has-text(/000 points/i)
 forums.redflagdeals.com##li.topic.row:has-text(/points event/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Triangle World Elite/i)
@@ -269,6 +274,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/LA Fitness/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Raptors/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Toronto Maple Leaf/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sportsnet/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Honey hall of fame/i)
 forums.redflagdeals.com##li.topic.row:has-text(/superbowl/i)
 
 
@@ -288,9 +294,11 @@ forums.redflagdeals.com##li.topic.row:has-text(/small popcorn/i)
 forums.redflagdeals.com##li.topic.row:has-text(/medium popcorn/i)
 
 ! Tech
+forums.redflagdeals.com##li.topic.row:has-text(/CANON Imageclass/i)
 forums.redflagdeals.com##li.topic.row:has-text(/APP only/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Mobile Order/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Gaming /i)
+forums.redflagdeals.com##li.topic.row:has-text(/Xfinity/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Oculus/i)
 forums.redflagdeals.com##li.topic.row:has-text(/MX Master/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Surface 2/i)
@@ -316,6 +324,9 @@ forums.redflagdeals.com##li.topic.row:has-text(/Core i5/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Core i3/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Fire TV/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Anker Soundcore/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Ring battery/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Ring camera/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Ring light/i)
 
 
 ! Tech - PC Companies
