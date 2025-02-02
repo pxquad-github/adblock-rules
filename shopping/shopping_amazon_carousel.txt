@@ -23,14 +23,26 @@ amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Breast Pump/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/nursing bra/i)
 
 ! BATH, BEAUTY
-
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/handheld bidet/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/bidet attachment/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/collagen/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/forehead therm/i)
 
 ! FASHION
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Yoga pants/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Christmas pajama/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/tank top/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/boots for women/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/shoes for women/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/nightgown/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/womens tops/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/v neck/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/earring/i)
+
 
 
 ! FOOD, SUPPLEMENTS
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/glucosamine/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Boost powder/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/spirulina/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Beef tallow/i)
@@ -42,6 +54,7 @@ amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/testosterone booste
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Meal replacement/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/protein powder/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/biosteel/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/castor oil/i)
 
 ! GAMING AND TOYS
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Nintendo/i)
@@ -49,6 +62,7 @@ amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/RC car/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Lego/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Super Mario/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Just Dance/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/magnetic building/i)
 
 ! HOUSEHOLD
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Duracell Coppertop/i)
@@ -59,6 +73,9 @@ amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Essential oil/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Yankee candle/i)
 
 ! KITCHEN APPLIANCE
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/toaster/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Automatic espresso/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Series Fully Automatic/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Nespresso/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Keurig/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/air fryer/i)
@@ -82,8 +99,21 @@ amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/kettlebell/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/pickleball/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Pull up bar/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/blood pressure monitor/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/pulse oximeter/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/swim goggles/i)
 
 ! TECH
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/white noise/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/ring pan/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/fujinon/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/portable dvd/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/eero/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/ring battery/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/ring floodlight/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/kids tablet/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/soundcore/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/apple watch/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Blink outdoor/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/tp-link deco/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/pixma/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/canon ink/i)
@@ -106,7 +136,10 @@ amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Wireless earbuds/i)
 
 ! TOOLS
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/air duster/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/chainsaw/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/cordless snowshovel/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/telescopic ladder/i)
+amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/makita/i)
 
 ! CRAP
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/Holy bible/i)

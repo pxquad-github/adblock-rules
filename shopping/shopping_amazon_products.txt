@@ -23,14 +23,26 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Breast Pump/
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/nursing bra/i)
 
 ! BATH, BEAUTY
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/handheld bidet/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/bidet attachment/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/collagen/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/forehead therm/i)
 
 
 ! FASHION
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Yoga pants/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Christmas pajama/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/tank top/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/boots for women/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/shoes for women/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/nightgown/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/womens tops/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/v neck/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/earring/i)
 
 
 ! FOOD, SUPPLEMENTS
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/glucosamine/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Boost powder/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/spirulina/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Beef tallow/i)
@@ -42,6 +54,7 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/testosterone
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Meal replacement/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/protein powder/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/biosteel/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/castor oil/i)
 
 ! GAMING AND TOYS
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nintendo/i)
@@ -49,6 +62,7 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/RC car/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Lego/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Super Mario/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Just Dance/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/magnetic building/i)
 
 ! HOUSEHOLD
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Duracell Coppertop/i)
@@ -59,6 +73,9 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Essential oi
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Yankee candle/i)
 
 ! KITCHEN APPLIANCE
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/toaster/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Automatic espresso/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Series Fully Automatic/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nespresso/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Keurig/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/air fryer/i)
@@ -82,8 +99,21 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/kettlebell/i
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/pickleball/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Pull up bar/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/blood pressure monitor/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/pulse oximeter/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/swim goggles/i)
 
 ! TECH
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/white noise/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ring pan/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/fujinon/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/portable dvd/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/eero/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ring battery/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ring floodlight/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/kids tablet/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/soundcore/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/apple watch/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Blink outdoor/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/TP-link deco/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/pixma/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/canon ink/i)
@@ -106,7 +136,10 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Wireless ear
 
 ! TOOLS
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/air duster/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/chainsaw/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/cordless snow shovel/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/telescopic ladder/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/makita/i)
 
 ! CRAP
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Holy bible/i)

@@ -34,6 +34,9 @@ forums.redflagdeals.com##li.topic.row:has-text(/Dyson/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Nespresso/i)
 forums.redflagdeals.com##li.topic.row:has-text(/airfyer/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Creami/i)
+forums.redflagdeals.com##li.topic.row:has-text(/K-cup/i)
+forums.redflagdeals.com##li.topic.row:has-text(/k-pod/i)
+forums.redflagdeals.com##li.topic.row:has-text(/k pod/i)
 
 
 ! Arts
@@ -184,6 +187,8 @@ forums.redflagdeals.com##li.topic.row:has-text(/DualBrew/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Dual Brew/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Elf on/i)
 forums.redflagdeals.com##li.topic.row:has-text(/laser hair/i)
+forums.redflagdeals.com##li.topic.row:has-text(/braun shaver/i)
+forums.redflagdeals.com##li.topic.row:has-text(/cat litter/i)
 
 
 ! Monitors
