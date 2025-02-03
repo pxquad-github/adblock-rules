@@ -20,12 +20,17 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Philips AVEN
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Baby balance/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nipple flow/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Breast Pump/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Breast milk/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/nursing bra/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/milk warm/i)
 
 ! BATH, BEAUTY
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/handheld bidet/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/bidet attachment/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/collagen/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/maybelline/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/mascara/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Oréal/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/forehead therm/i)
 
 
@@ -39,10 +44,13 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/nightgown/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/womens tops/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/v neck/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/earring/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/women pant/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/swim trunk/i)
 
 
 ! FOOD, SUPPLEMENTS
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/glucosamine/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/omega 3/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Boost powder/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/spirulina/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Beef tallow/i)
@@ -71,16 +79,23 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Shoe rack/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/EXpo Dry Erase/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Essential oil/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Yankee candle/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/mattress/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/electric shaver/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/epilator/i)
 
 ! KITCHEN APPLIANCE
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/toaster/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/panini/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Automatic espresso/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Series Fully Automatic/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Nespresso/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Keurig/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/air fryer/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/airfryer/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/dual-basket air/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/meat thermometer/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/electric kettle/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/food dehydrator/i)
 
 ! PET
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Scratching post/i)
@@ -101,10 +116,13 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Pull up bar/
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/blood pressure monitor/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/pulse oximeter/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/swim goggles/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/paddle board/i)
 
 ! TECH
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ring spotlight/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/white noise/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ring pan/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ring stick/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/fujinon/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/portable dvd/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/eero/i)
@@ -131,7 +149,8 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Inkvestment/
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Monster Mission/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/ink cartidge/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Range extender/i)
-amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Wireless earbuds/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Wireless earbud/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/complete first season/i)
 
 
 ! TOOLS
@@ -140,8 +159,10 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/chainsaw/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/cordless snow shovel/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/telescopic ladder/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/makita/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/glue trap/i)
 
 ! CRAP
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/Holy bible/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/golf cart/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/trolling motor/i)
+amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/luggage/i)

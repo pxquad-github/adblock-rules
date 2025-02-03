@@ -150,6 +150,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Eendless Shrimp/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Purina/i)
 forums.redflagdeals.com##li.topic.row:has-text(/plant based/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Hummus/i)
+forums.redflagdeals.com##li.topic.row:has-text(/large fry/i)
 forums.redflagdeals.com##li.topic.row:has-text(/condom/i)
 
 
@@ -189,6 +190,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Elf on/i)
 forums.redflagdeals.com##li.topic.row:has-text(/laser hair/i)
 forums.redflagdeals.com##li.topic.row:has-text(/braun shaver/i)
 forums.redflagdeals.com##li.topic.row:has-text(/cat litter/i)
+forums.redflagdeals.com##li.topic.row:has-text(/mattress/i)
 
 
 ! Monitors
