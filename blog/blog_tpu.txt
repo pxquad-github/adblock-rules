@@ -32,6 +32,7 @@ techpowerup.com##article.todaysreviews
 techpowerup.com##article.newspost:has-text(/KeysFan/i)
 techpowerup.com##article.newspost:has-text(/Genuine Software/i)
 techpowerup.com##article.newspost:has-text(/Deal/)
+techpowerup.com##article.newspost:has-text(/Sponsored/)
 
 ! Footer
 techpowerup.com##.site-footer

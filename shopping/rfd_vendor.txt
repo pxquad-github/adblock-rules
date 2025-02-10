@@ -29,6 +29,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Virgin/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Tangerine/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Scotiabank/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Canadian Mint/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Questtrade/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Credit Card Genius/i)
 
 
@@ -47,6 +48,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Phonebox/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Germanparts/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Halo wash/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Wash & Go/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Simoniz/i)
 
 
 ! Clothing
@@ -67,19 +69,24 @@ forums.redflagdeals.com##li.topic.row:has-text(/TMBG/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Moore\'s/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Oakley/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Skechers/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Silvert/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Coach Outlet/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Costco business center/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sticker Mule/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Coach outlet/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Athletic works/i)
 
 
 ! Fast Food, Corner-Store, Restaurants, Food, Drink
 forums.redflagdeals.com##li.topic.row:has-text(/Osmow/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Mary Brown/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Sunset Grill/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Liberty Commons/i)
 forums.redflagdeals.com##li.topic.row:has-text(/St-Viateur/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sungiven/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Swiss Chalet/i)
-forums.redflagdeals.com##li.topic.row:has-text(/Kettleman/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Monster Ear/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Ali Baba/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Harvey/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Jollibee/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Bonacini/i)
@@ -111,6 +118,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Booster juice/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Kettleman/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Taro's Fish/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Squish cand/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Cafe St-Henri/i)
 
 
 ! Gig
@@ -146,6 +154,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Fillion Elec/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Oshkosh/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Moore\'s/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Dollarama Deals/i)
+forums.redflagdeals.com##li.topic.row:has-text(/2001 Audio/i)
 
 
 ! Sports, Health, Supplements
@@ -184,6 +193,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Skullcandy/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Mac App/i)
 forums.redflagdeals.com##li.topic.row:has-text(/NORTON/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Fubo/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Stream+/i)
 
 
 ! Toys
