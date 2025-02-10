@@ -1,0 +1,18 @@
+! ===============================================================================
+! DUCKDUCKGO
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Not finding what you're looking for
+duckduckgo.com##.RPL9esU9f8nMDBntEfZQ
+
+! News letter
+duckduckgo.com##.aDtqDaYogch0DyrGTrX6:has-text(DuckDuckNew)
+
+! Your protection, our priority banner at the top
+duckduckgo.com##.header--aside__item--hidden-lg.header--aside__item
+
+! From the main page, everything below the search
+duckduckgo.com##.minimal-homepage_belowTheFoldWrapper__I_rnZ
+duckduckgo.com##.center_andText__ejUnC.center_intrinsic__mk_Ab.center_root__Uf1xM

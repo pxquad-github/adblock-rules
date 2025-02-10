@@ -1,0 +1,11 @@
+! ===============================================================================
+! UNIVERSAL
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ===============================================================================
+
+! Trying to stamp out all instances of the 'sign in with google' crap
+###credential_picker_container
+
+! Trying to stamp out the stupid cookie thing
+###onetrust-consent-sdk

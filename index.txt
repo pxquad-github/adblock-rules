@@ -45,12 +45,14 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sho
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_rogers.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/telecom_telus.txt
 
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/duckduckgo.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/fandom.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/github.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/google.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/imdb.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/skype.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/stackoverflow.txt
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/universal.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/sites/wirecutter.txt
 
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/social/social_linkedin.txt
