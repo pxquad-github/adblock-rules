@@ -246,3 +246,6 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/office chair
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/gaming chair/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/greatest hits/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/trunk organize/i)
+
+
+! BULK ENTRIES (ADDED BY rule-builder)

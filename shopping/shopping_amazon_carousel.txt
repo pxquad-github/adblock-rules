@@ -247,3 +247,6 @@ amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/office chair/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/gaming chair/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/greatest hits/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/trunk organize/i)
+
+
+! BULK ENTRIES (ADDED BY rule-builder)

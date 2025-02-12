@@ -1,0 +1,9 @@
+! =========================================================================================================
+! RFD_BULK
+! This will help filter out posts from places you don't care about (i.e., on the other side of the country)
+! This file will be populated by the rule-builder app
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =========================================================================================================
+
+! BULK ENTRIES (ADDED BY rule-builder)

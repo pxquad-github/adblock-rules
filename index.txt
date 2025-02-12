@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/new
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news/news_ctv.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/news/news_therecord.txt
 
+https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_bulk.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_common.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_geo.txt
 https://raw.githubusercontent.com/pxquad-github/ublock-rules/refs/heads/main/shopping/rfd_product.txt
