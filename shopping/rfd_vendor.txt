@@ -79,7 +79,9 @@ forums.redflagdeals.com##li.topic.row:has-text(/Athletic works/i)
 
 ! Fast Food, Corner-Store, Restaurants, Food, Drink
 forums.redflagdeals.com##li.topic.row:has-text(/Osmow/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Panago/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Mary Brown/i)
+forums.redflagdeals.com##li.topic.row:has-text(/A&W/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sunset Grill/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Liberty Commons/i)
 forums.redflagdeals.com##li.topic.row:has-text(/St-Viateur/i)
@@ -130,6 +132,8 @@ forums.redflagdeals.com##li.topic.row:has-text(/DoorDash/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Door Dash/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Instacart/i)
 
+! Household
+forums.redflagdeals.com##li.topic.row:has-text(/reliableparts/i)
 
 ! Online stores
 forums.redflagdeals.com##li.topic.row:has-text(/Jomashop/i)

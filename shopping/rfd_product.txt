@@ -78,6 +78,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/electric bike/i)
 
 ! Clothing
 forums.redflagdeals.com##li.topic.row:has-text(/Nike/i)
+forums.redflagdeals.com##li.topic.row:has-text(/New balance/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Under Armour/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Peloton/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Seiko/i)
@@ -280,6 +281,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Share your favourite deals/i)
 
 ! Sports
 forums.redflagdeals.com##li.topic.row:has-text(/Jays/i)
+forums.redflagdeals.com##li.topic.row:has-text(/jerset/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Golf/i)
 forums.redflagdeals.com##li.topic.row:has-text(/NHL/i)
 forums.redflagdeals.com##li.topic.row:has-text(/NBA/i)
@@ -294,6 +296,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/LA Fitness/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Raptors/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Toronto Maple Leaf/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Sportsnet/i)
+forums.redflagdeals.com##li.topic.row:has-text(/ice skate/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Honey hall of fame/i)
 forums.redflagdeals.com##li.topic.row:has-text(/superbowl/i)
 
@@ -351,6 +354,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/Ring light/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Lorex/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Monster Ear/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Monster Head/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Monster Aria/i)
 
 ! Tech - ISP
 forums.redflagdeals.com##li.topic.row:has-text(/Telus Fibre/i)
@@ -368,6 +372,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/HP Pavilion/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Dell Precision/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Dell XPS/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Lenovo/i)
+forums.redflagdeals.com##li.topic.row:has-text(/HP 240/i)
 
 ! Tech - Networking 
 forums.redflagdeals.com##li.topic.row:has-text(/Mesh Wi/i)
@@ -417,6 +422,7 @@ forums.redflagdeals.com##li.topic.row:has-text(/trampoline/i)
 forums.redflagdeals.com##li.topic.row:has-text(/dumbbel/i)
 forums.redflagdeals.com##li.topic.row:has-text(/stroller/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Graco/i)
+forums.redflagdeals.com##li.topic.row:has-text(/Hot Wheel/i)
 forums.redflagdeals.com##li.topic.row:has-text(/Harry Potter/i)
 
 
