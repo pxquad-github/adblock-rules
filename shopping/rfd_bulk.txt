@@ -7,3 +7,7 @@
 ! =========================================================================================================
 
 ! BULK ENTRIES (ADDED BY rule-builder)
+forums.redflagdeals.com##li.topic.row:has-text(/slurpee/i)
+forums.redflagdeals.com##li.topic.row:has-text(/royal quest online/i)
+forums.redflagdeals.com##li.topic.row:has-text(/mud sweat and gears/i)
+forums.redflagdeals.com##li.topic.row:has-text(/jersey/i)
