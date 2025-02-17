@@ -78,3 +78,4 @@ creditkarma.ca##.e1wnb2cb0.css-1h0eqhz > .item-last:has-text(Advertiser)
 ! Ad elements
 creditkarma.ca##div.eb510oh0.css-167bqiu.item:has-text(See my card offers)
 creditkarma.ca##.en9vtv70.css-xzv3x4:has-text(Search for lower rates)
+creditkarma.ca##.e1wnb2cb0.css-g7h19u > div.eb510oh0.css-167bqiu.item:has-text(my offers)
