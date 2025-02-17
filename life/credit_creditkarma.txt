@@ -16,8 +16,7 @@ creditkarma.ca##.en9vtv70.css-1a8o401 > .en9vtv70.css-1w5ja03
 
 ! Main body, working top to bottom
 creditkarma.ca##.en9vtv70.css-1g3tazx
-creditkarma.ca##div.en9vtv70.css-1toxiiv:nth-of-type(3)
-creditkarma.ca##div.en9vtv70.css-1toxiiv:nth-of-type(4)
+creditkarma.ca##div.en9vtv70.css-1toxiiv:has-text(Sign up for free)
 
 ! Everything from the footer. individually. 
 !   If you just nuke the footer using 'creditkarma.ca##.en9vtv70.css-1vtvdg4' then there is sometimes a problem when logging
@@ -44,18 +43,28 @@ creditkarma.ca##.css-1nbrgf1
 ! Note: CookieBlock domain exception needed to login
 ! ================================================
 
-creditkarma.ca##.e1wnb2cb0.css-1hepgvw.relative.ph4.pv1.bg-white.items-center.justify-center.flex-column.flex.w-100 > .item-last.eb510oh0.css-1gwj01n.item
-creditkarma.ca##.e1wnb2cb0.css-1yga5ks
+! Main ad block
 creditkarma.ca##.e1wnb2cb0.css-1ocyozw
-creditkarma.ca##.e1fhlxjn0.css-77inx8
-creditkarma.ca##.en9vtv70.css-zr38p0
+
+! Disclaimer
+creditkarma.ca##.en9vtv70.css-1ksbkpl
+
+! Removing stupid menu entries
+creditkarma.ca##a.e6n4x3c1.css-m4wwpm:has-text(Cards)
+creditkarma.ca##a.e6n4x3c1.css-m4wwpm:has-text(Loans)
+creditkarma.ca##a.e6n4x3c1.css-m4wwpm:has-text(Money)
+creditkarma.ca##a.e6n4x3c1.css-m4wwpm:has-text(Articles)
+
+! Change language
+creditkarma.ca##.en9vtv70.css-1rw8c2j > .en9vtv70.css-n27112:has-text(/EN/i)
 
 
 ! ==========================================
 ! Report (https://www.creditkarma.ca/report)
 ! ==========================================
-! Popup
+! Popup/modal
 creditkarma.ca##.ew3io0.css-g65u74
+creditkarma.ca##.en9vtv70.css-xzv3x4
 
 ! Side bar
 creditkarma.ca##.en9vtv70.css-waoen5
@@ -63,7 +72,9 @@ creditkarma.ca##.en9vtv70.css-waoen5
 ! Menu at the top
 creditkarma.ca##.en9vtv70.css-1w5ja03 > .e6n4x3c0.css-m4wwpm
 
-! Main content working top to bottom
-creditkarma.ca##div.eb510oh0.css-167bqiu.item:nth-of-type(3)
-creditkarma.ca##.e300kjk0.css-6jgec2
-creditkarma.ca##.en9vtv70.css-xzv3x4
+! Disclaimer
+creditkarma.ca##.e1wnb2cb0.css-1h0eqhz > .item-last:has-text(Advertiser)
+
+! Ad elements
+creditkarma.ca##div.eb510oh0.css-167bqiu.item:has-text(See my card offers)
+creditkarma.ca##.en9vtv70.css-xzv3x4:has-text(Search for lower rates)

@@ -40,29 +40,26 @@ borrowell.com##.splash-container
 ! Clean up the dashboard (https://apps.borrowell.com/dashboard)
 ! =============================================================
 
+! Modal popup
+borrowell.com##.r-184en5c.r-13qz1uu.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1777fci.r-1pi2tsx.r-6koalj.r-1p0dtai.r-drfeu3.r-1awozwy.r-1otgn73.r-1loqt21.css-175oi2r
+
+! Ad at the top
+borrowell.com##.css-1tcf7lu > .css-1tcf7lu
+
 ! Clean up the menu
-borrowell.com##div.r-1pyaxff.r-11f147o.r-18u37iz.r-3f7b68.r-1vznrp2.r-nefvgx.r-5qlx7g.r-1niwhzg.r-1awozwy.r-1otgn73.r-1loqt21.css-175oi2r:nth-of-type(2)
-borrowell.com##div.r-1pyaxff.r-11f147o.r-18u37iz.r-3f7b68.r-1vznrp2.r-nefvgx.r-5qlx7g.r-1niwhzg.r-1awozwy.r-1otgn73.r-1loqt21.css-175oi2r:nth-of-type(3)
-borrowell.com##div.r-1pyaxff.r-11f147o.r-18u37iz.r-3f7b68.r-1vznrp2.r-nefvgx.r-5qlx7g.r-1niwhzg.r-1awozwy.r-1otgn73.r-1loqt21.css-175oi2r:nth-of-type(4)
+borrowell.com##.r-1dfn399.r-18u37iz.css-175oi2r > div:has-text(Credit Cards)
+borrowell.com##.r-1dfn399.r-18u37iz.css-175oi2r > div:has-text(Loans)
+borrowell.com##.r-1dfn399.r-18u37iz.css-175oi2r > div:has-text(Build Credit)
+borrowell.com##.r-1dfn399.r-18u37iz.css-175oi2r > div:has-text(Recommendations)
+
+! Refer a friend
 borrowell.com##.r-183qiq8.r-1t01tom.r-lchren.r-1jj8364.r-1qahzrx.r-1wtj0ep.r-1wbh5a2.r-16y2uox.r-18u37iz.r-1iusvr4.r-1awozwy.css-175oi2r > .r-1otgn73.r-1loqt21.r-lrvibr.r-1i6wzkk.css-175oi2r
 
 ! Side bar
 borrowell.com##.css-1eoyhnk
 
-! Ad at the top
-borrowell.com##.css-1tcf7lu > .css-1tcf7lu
-
-! More offers, etc, working our way top to bottom
-borrowell.com##.css-nat2nm > div.css-175oi2r > .r-13qz1uu.r-18u37iz.r-1awozwy.css-175oi2r
-borrowell.com##div:nth-of-type(3) > .r-13qz1uu.r-rs99b7.r-1phboty.r-1sip6nj.r-3pj75a.r-w7s2jr.r-1qk6wnv.r-c67a83.r-1moyyf3.r-1pp923h.r-14lw9ot.css-175oi2r
-borrowell.com##.r-13qz1uu.r-12kyg2d.r-f4gmv6.r-eqz5dr.css-175oi2r .r-13qz1uu.r-rs99b7.r-1phboty.r-1sip6nj.r-3pj75a.r-w7s2jr.r-1qk6wnv.r-c67a83.r-1moyyf3.r-1pp923h.r-14lw9ot.css-175oi2r
-borrowell.com###horizontal-carousel-list-8c90d4a7-d732-437b-a19b-e936e1058e95 > .r-18u37iz.css-175oi2r > .r-cpa5s6.css-175oi2r > .r-18u37iz.css-175oi2r > .r-1a146b9.r-95jzfe.r-i023vh.r-1qhn6m8.r-1l7z4oj.r-1j93nrh.r-rs99b7.r-1qk6wnv.r-c67a83.r-1phboty.r-1sip6nj.r-1moyyf3.r-1pp923h.r-14lw9ot.css-175oi2r
-
-borrowell.com##.css-nat2nm > div.css-175oi2r:nth-of-type(4)
-borrowell.com##div.css-175oi2r:nth-of-type(5)
-borrowell.com##div:nth-of-type(6)
-borrowell.com###horizontal-carousel-list-86234f45-1cf0-4f19-8f40-3db0e51fc5ba > .r-18u37iz.css-175oi2r
-borrowell.com##div.css-175oi2r:nth-of-type(7)
+! More offers, etc, working our way top to bottom (the only one we are interested in is the updates)
+borrowell.com##.css-nat2nm > div:not(:has-text(/View Updates/i))
 
 
 ! ====================================================================
@@ -82,15 +79,15 @@ borrowell.com##.refer-a-friend-nav-link
 ! ================================================================================
 borrowell.com##.recommendations-snack.snap-bar
 
-
 ! ===============================================================================
 ! Clean up your 'Credit Coach' page (https://app.borrowell.com/#/app/creditcoach)
 ! ===============================================================================
 borrowell.com##.card6.animated-card
-
+borrowell.com##.ng-star-inserted.disclaimer-lg.disclaimer
 
 ! ======================================================================================
 ! Clean up your actual credit report page (https://app.borrowell.com/#/app/creditReport)
 ! ======================================================================================
 borrowell.com###cr-recommendations
 borrowell.com##.sponsored-card-container
+borrowell.com##cc-consolidation-card

@@ -47,10 +47,22 @@ google.ca##a.ZYHQ7e:has-text(/Help/i)
 google.ca##a.ZYHQ7e:has-text(/Terms/i)
 
 ! Language swap to French
-google.ca###gws-output-pages-elements-homepage_additional_languages__als:has-text(/Français/i)
+google.ca###gws-output-pages-elements-homepage_additional_languages__als:has-text(/Fran/i)
 
 ! Search by voice
 google.ca##.XDyW0e
 
 ! Types of search results
 google.ca##.crJ18e > div > div:has-text(/Shopping/i)
+
+
+
+! ==========================================
+! GOOGLE PHOTOS (https://photos.google.com/)
+! ==========================================
+
+! Discounts
+photos.google.com##.GIj5nd:has-text(/Unlock storage discount/i)
+
+! Tooltips
+photos.google.com##.mVK51d:has-text(Get access to all of your)

@@ -21,6 +21,9 @@ fandom.com###community-navigation > .sign-in.global-action__item
 ! Survey
 fandom.com##.marketing-notifications
 
+! Ad/sign-in
+fandom.com##.notifications-placeholder:has-text("To remove ads")
+
 ! Footer
 fandom.com###WikiaBar
 fandom.com##.global-footer__bottom
