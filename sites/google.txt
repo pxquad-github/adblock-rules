@@ -66,3 +66,15 @@ photos.google.com##.GIj5nd:has-text(/Unlock storage discount/i)
 
 ! Tooltips
 photos.google.com##.mVK51d:has-text(Get access to all of your)
+
+
+
+
+! =========================================================
+! GMAIL (https://mail.google.com/mail/)
+! This is now a mechanism to block specific types of emails
+! =========================================================
+
+! bubs
+mail.google.com##table[class*=-book]:not(:has-text(Free))
+mail.google.com##[class*=bl-wrapper] > tbody > tr > td > table > tbody > tr:not(:has-text(Free))
