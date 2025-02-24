@@ -10,11 +10,11 @@ echo.lan
 ## uBlock Rules List
 Within the ublock settings, navigate to the _Filter lists_ tab and at the bottom, expand _Import..._, paste the rule(s) you want to import and save.
 The master list of all rules can be found here
-https://raw.githubusercontent.com/pxquad-github/adlock-rules/refs/heads/main/ublock/index.txt<br>
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/index.txt<br>
 
 ## Pi-Hole List
 Within Pi-Hole (v6), select _Lists_ from the left hand menu and add the following list(s) to your block-list
-https://raw.githubusercontent.com/pxquad-github/adlock-rules/refs/heads/main/pihole/echo-block.txt<br>
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/pihole/echo-block.txt<br>
 
 ---
 
