@@ -253,3 +253,5 @@ reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rou
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/blackops6/i)
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/loveisblindonnetflix/i)
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/30rock/i)
+reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/nba/i)
+reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/cricket/i)

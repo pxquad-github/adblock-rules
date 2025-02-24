@@ -431,4 +431,3 @@ amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/countertop m
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/logitech M550/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/tattoo numbing/i)
 amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/logitech M705/i)
-amazon.ca##.ProductCard-module__card_uyr_Jh7WpSkPx4iEpn4w:has-text(/pads for women/i)

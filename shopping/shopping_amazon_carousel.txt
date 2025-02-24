@@ -432,4 +432,3 @@ amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/countertop microwav
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/logitech M550/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/tattoo numbing/i)
 amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/logitech M705/i)
-amazon.ca##li.dcl-carousel-element.a-carousel-card:has-text(/pads for women/i)
