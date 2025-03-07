@@ -76,5 +76,5 @@ photos.google.com##.mVK51d:has-text(Get access to all of your)
 ! =========================================================
 
 ! bubs
-mail.google.com##table[class*=-book]:not(:has-text(Free))
+mail.google.com##table[class*=-book]:not(:has-text(Free!))
 mail.google.com##[class*=bl-wrapper] > tbody > tr > td > table > tbody > tr:not(:has-text(Free))
