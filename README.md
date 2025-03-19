@@ -4,7 +4,7 @@
 This is just a simple place, I can put all my ad- and malware-block rules, for both uBlock as well as PiHole. This has two benefits
 1. By breaking the rules out into separate lists, they can be selectively imported and,
 1. More importantly, the same consistent rules can be applied across multiple browsers/machines without having to rely on remembering to sync rules to/from the built-in browser syncing.
-echo.lan
+
 
 
 ## uBlock Rules List
