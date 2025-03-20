@@ -45,6 +45,8 @@ amazon.ca##div.navFooterCopyright
 ! Remove the 'continue series you've started and 'discover more'
 amazon.ca###rhf-shoveler
 
+! Audble etc footer banners
+amazon.ca##.acsUxWidget
 
 
 
