@@ -47,7 +47,7 @@ amazon.ca###rhf-shoveler
 
 ! Audble etc footer banners
 amazon.ca##.acsUxWidget
-
+amazon.ca###slot-17
 
 
 ! ======
