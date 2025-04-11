@@ -291,3 +291,33 @@ amazon.ca###retail-kindle-typ-shovelers_wsixnHCUIncrementalKindle
 amazon.ca###retail-kindle-typ-shovelers_GenreBasedRecommenderStrategy_5794194011
 amazon.ca##.a-section:has-text(Recommended for You Based on)
 amazon.ca##.a-section:has-text(For you in Mystery)
+
+
+! =============
+! AMAZON GAMING
+! =============
+
+! Stuff at the top
+! XBOX Entries
+gaming.amazon.com##.carousel-shoveler__container--FGWP.carousel-shoveler__container > .tw-full-width.grid-carousel--no-edge-gutter.grid-carousel--gutter-lg.grid-carousel--controls-outside.grid-carousel--at-left-end.grid-carousel > .tw-relative.tw-full-width > .tw-item-order-1.tw-flex-grow-1.grid-carousel__gradient-right > .tw-overflow-hidden.grid-carousel__gradient-left > .grid-carousel__scroll-el--snap.grid-carousel__scroll-el--smooth.grid-carousel__scroll-el > .grid-carousel__content > li.grid-carousel__slide:has-text(XBOX)
+gaming.amazon.com##.carousel-shoveler__container--FGWP.carousel-shoveler__container > .tw-full-width.grid-carousel--no-edge-gutter.grid-carousel--gutter-lg.grid-carousel--controls-outside.grid-carousel > .tw-relative.tw-full-width > .tw-item-order-1.tw-flex-grow-1.grid-carousel__gradient-right > .tw-overflow-hidden.grid-carousel__gradient-left > .grid-carousel__scroll-el--snap.grid-carousel__scroll-el--smooth.grid-carousel__scroll-el > .grid-carousel__content > li.grid-carousel__slide:has-text(XBOX)
+
+! Tab bar at the top
+gaming.amazon.com##.tw-sm-mg-b-0.tw-pd-r-1.tw-overflow-auto.tw-mg-b-1.tw-flex-grow-1.tw-flex.offer-filters__gradient-right.offer-filters
+
+
+! Promo banners
+gaming.amazon.com##.tw-relative.tw-justify-content-center.tw-full-width.tw-flex-column.tw-flex.generic-promotion-banner-container
+
+! Games that have already been claimed or from XBOX
+gaming.amazon.com###offer-section-FGWP_FULL > .tw-xxl-pd-x-10.tw-sm-pd-x-6.tw-pd-x-3.tw-mg-b-4.tw-md-pd-x-10 > .offer-list__content__grid > div.tw-block:has-text(Play game)
+gaming.amazon.com###offer-section-FGWP_FULL > .tw-xxl-pd-x-10.tw-sm-pd-x-6.tw-pd-x-3.tw-mg-b-4.tw-md-pd-x-10 > .offer-list__content__grid > div.tw-block:has-text(XBOX)
+gaming.amazon.com###offer-section-FGWP_FULL > .tw-xxl-pd-x-10.tw-sm-pd-x-6.tw-pd-x-3.tw-mg-b-4.tw-md-pd-x-10 > .offer-list__content__grid > div.tw-block:has-text(Collected)
+
+! Sections I don't care for
+gaming.amazon.com##div.tw-block.tw-align-items-center:has-text(In-game content)
+gaming.amazon.com##div.tw-block.tw-align-items-center:has-text(Explore more with Prime)
+gaming.amazon.com##div.tw-block.tw-align-items-center:has-text(Cloud games on Amazon Luna)
+
+! Back to the top bar at the bottom
+gaming.amazon.com##.tw-md-mg-t-1.tw-bottom-0 > .tw-interactable--inverted.tw-interactable.tw-full-width.tw-block.tw-interactive
