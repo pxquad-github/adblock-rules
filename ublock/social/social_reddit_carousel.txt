@@ -365,3 +365,5 @@ reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rou
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/fireemblem/i)
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/sdruntucked/i)
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/MHWilds/i)
+reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/dashlane/i)
+reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/hmmwv/i)
