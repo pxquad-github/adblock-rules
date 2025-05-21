@@ -26,3 +26,14 @@ reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
 ! Popular communities
 www.reddit.com##.mb-0.box-border.py-md:has-text(/popular communities/i)
 
+! Reddit side bar bits I don't care for
+reddit.com##div.text-neutral-content-weak:has-text(Rules)
+reddit.com##hr.my-md.border-neutral-border-weak
+reddit.com##div.text-neutral-content-weak:has-text(Installed Apps)
+reddit.com##div.text-neutral-content-weak:has-text(Moderators)
+reddit.com##div.text-neutral-content-weak:has-text(Rule A)
+reddit.com##div.text-neutral-content-weak:has-text(Recommended community)
+reddit.com##div.text-neutral-content-weak:has-text(User flair)
+
+! Reddit community size ranking
+reddit.com##.items-start.flex-col.flex.directory-link

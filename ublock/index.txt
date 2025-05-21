@@ -51,6 +51,7 @@ https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ub
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/sites/sites_github.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/sites/sites_google.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/sites/sites_imdb.txt
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/sites/sites_outlook.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/sites/sites_skype.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/sites/sites_stackoverflow.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/sites/sites_universal.txt
@@ -60,4 +61,5 @@ https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ub
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_reddit.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_reddit_carousel.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_reddit_story.txt
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_teams.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube.txt

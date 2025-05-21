@@ -20,7 +20,7 @@ google.com##a.ZYHQ7e:has-text(/Terms/i)
 
 
 ! Language swap to French
-google.com###gws-output-pages-elements-homepage_additional_languages__als:has-text(/Français/i)
+google.com###gws-output-pages-elements-homepage_additional_languages__als:has-text(/Franï¿½ais/i)
 
 ! Search by voice
 google.com##.XDyW0e
@@ -71,10 +71,37 @@ photos.google.com##.mVK51d:has-text(Get access to all of your)
 
 
 ! =========================================================
-! GMAIL (https://mail.google.com/mail/)
+! GMAIL MAIL (https://mail.google.com/mail/)
 ! This is now a mechanism to block specific types of emails
 ! =========================================================
 
-! bubs
+! bookbub emails
 mail.google.com##table[class*=-book]:not(:has-text(Free!))
 mail.google.com##[class*=bl-wrapper] > tbody > tr > td > table > tbody > tr:not(:has-text(Free))
+
+
+
+! ==========================================
+! GMAIL UI
+! This is for blocking elements within GMAIL
+! ==========================================
+
+! Hide gemini
+mail.google.com##.e5IPTd.r4vW1e
+
+! Hide Updates
+mail.google.com##.zo
+
+! When a subtab (i.e., Social, Promotions etc) is empty, hide the filer text
+mail.google.com###\:21 > div > .aVj > .aRs > .aRu:has-text("tab is empty")
+
+! Hide the 'react to this email'
+mail.google.com##.L3.T-I-JE.T-I-ax7.R1Zuwf.T-I-Js-IF.J-J5-Ji.T-I
+mail.google.com##.L3.T-I-ax7.R1Zuwf.T-I-Js-IF.J-J5-Ji.T-I
+mail.google.com##.LS5phe.jWOS7-JX-I-ql-ay5-ays.jWOS7-JX-I
+
+! Hide side panel (that includes links to Calendar, Tasks, Keep etc)
+mail.google.com##.brC-bsf-aT5-aOt
+mail.google.com##.brC-dA-I.aT5-aOt-I
+mail.google.com##.brC-aT5-aOt-bsf-Jw
+

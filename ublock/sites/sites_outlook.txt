@@ -1,0 +1,51 @@
+! ==============================================================================
+! SITES_OUTLOOK (https://outlook.office.com/mail/)
+! This is for the web based Outlook UI
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==============================================================================
+
+
+! =============
+! LEFT HAND BAR
+! =============
+! OneNote
+outlook.office.com###\33 77c982d-9686-450e-9a7c-22aeaf1bc162
+
+! Copilot
+outlook.office.com###d870f6cd-4aa5-4d42-9626-ab690c041429
+
+! Todo
+outlook.office.com###\30 d5c91ee-5be2-4b79-81ed-23e6c4580427
+
+! People
+outlook.office.com###\33 55fbd79-3ba2-4554-8f2d-0300fde91f30
+
+! More Apps
+outlook.office.com##.f1i5mqs4.fqerorx.f1c21dwh.f1vx9l62.f122n59.f22iagw.___1fkhojs > .f10pi13n.___77lcry0
+outlook.office.com##.o365sx-button.o365sx-waffle.clgiLVKPzugZZns0LiPTqw\=\=
+
+! =========
+! TOP RIGHT
+! =========
+outlook.office.com###owaNoteFeedButton_container > .rSDngy50C4hLvjN77R3dbA\=\=
+outlook.office.com###O365_MainLink_Chat > .o365cs-base
+outlook.office.com###owaTimePanelBtn_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
+
+
+! ======
+! RIBBON
+! ======
+
+! Help Tab
+outlook.office.com##div.item-175.ms-OverflowSet-item:has-text(Help)
+
+! Discover groups
+outlook.office.com##div.groupContainer-187:has-text(/Discovergroups/i)
+
+
+
+! ==================
+! INDIVIDUAL MESSAGE
+! ==================
+

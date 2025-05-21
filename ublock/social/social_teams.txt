@@ -1,0 +1,40 @@
+! ==============================================================================
+! SOCIAL_YOUTUBE (https://teams.microsoft.com/v2/)
+! This is for the web based MS Teams UI
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==============================================================================
+
+! ====
+! CHAT
+! ====
+
+! Copilot crap
+teams.microsoft.com###menur22:has-text(/Discover/i)
+
+! Storyline
+teams.microsoft.com###com\.microsoft\.chattabs\.storyline
+
+! Add a tab
+teams.microsoft.com###addTabButton
+
+! Notes
+teams.microsoft.com##.f122n59.f22iagw.___1wrlx8u.fui-Flex:has-text(Notes)
+
+! Chat details
+teams.microsoft.com##button.ff49k79.f18ktai2.f1d2rq10.f1szoe96.f18p0k4z.f9ddjv3.f18onu3q.f4xjyn1.f1tme0vf.f1j98vj9.f1dfjoow.f1fg1p5m.fx2bmrt.f16h9ulv.fs4ktlq.f1h0usnq.fwiml72.fuxngvv.ft1hn21.f139oj5f.fecsdlb.f1ukrpxl.fr80ssc.f1s2uweq.fjxutwb.fkfq4zb.f1pdflbu.f1q5o8ev.f11589ue.f1p3nwhy.f1c21dwh.___jc3srz0.r1alrhcs.fui-Button:nth-of-type(2)
+
+
+! =============
+! LEFT SIDE BAR
+! =============
+teams.microsoft.com###menur22:has-text(/Discover/i)
+teams.microsoft.com##.f1ja72i3.f1vx9l62.fsuw20m.f122n59.f22iagw.___4vdui50 > div:has-text(/OneDrive/i)
+teams.microsoft.com##.f1ja72i3.f1vx9l62.fsuw20m.f122n59.f22iagw.___4vdui50 > div:has-text(/CoPilot/i)
+teams.microsoft.com##.f1ja72i3.f1vx9l62.fsuw20m.f122n59.f22iagw.___4vdui50 > div:has-text(/Apps/i)
+teams.microsoft.com###ac40aa4a-fef1-4896-aea2-46d1c14dbfd5:has-text(/Apps/i)
+teams.microsoft.com##.f1ozlkrg.f10ostut.f1deotkl.f1krrbdw.f1xqy1su.f1tx4pjd.fj239l.f1q3txrk.fzpis3h.f1o7qkhw.fz7cnr3.fvi4nxw.f1u8i3ug.f11uhznr.figsok6.fhovq9v.f1couhl3.f3swjwz.fzki0ko.f1rvrf73.fqdk4by.f1358rze.fre7gi1.f44c6la.ftgf7lp.f18ktai2.___vthpca0.r1alrhcs.fui-Button
+
+
+! Grid button and Teams logo
+teams.microsoft.com##.f2ht21.fmihtst.fmg4s26.f1joal8y.f1l02sjl.fly5x3f.f122n59.f22iagw.___5xe3eb0.fui-Flex
