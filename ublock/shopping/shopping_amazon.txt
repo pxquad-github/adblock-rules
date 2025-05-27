@@ -100,7 +100,15 @@ amazon.ca##.copilot-secure-display:has-text(Your browsing history)
 
 
 ! Top grid block
+amazon.ca###desktop-grid-1:has-text(Influencer)
+amazon.ca###desktop-grid-2:has-text(Influencer)
+amazon.ca###desktop-grid-3:has-text(Influencer)
+amazon.ca###desktop-grid-4:has-text(Influencer)
+amazon.ca###desktop-grid-5:has-text(Influencer)
 amazon.ca###desktop-grid-6:has-text(Influencer)
+amazon.ca###desktop-grid-7:has-text(Influencer)
+
+
 amazon.ca##.gw-auto-height.gw-card-layout:has-text("Shop Amazon Basics deals")
 amazon.ca##.a-cardui:has-text(Looking for a gift)
 ! amazon.ca###desktop-grid-4
@@ -131,6 +139,11 @@ amazon.ca##._video-player_view_pvea-recommendation-card-wrapper__232n5
 
 ! Banners at the top of the Deals page
 amazon.ca##._Y29ud_bxcGridRow_Zu5i8
+amazon.ca###CardInstancewm2QPb6STDvJ3TFJyJ8HpQ
+
+
+
+
 
 ! ======
 ! KINDLE
