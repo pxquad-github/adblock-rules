@@ -44,6 +44,10 @@ outlook.office.com##div.item-175.ms-OverflowSet-item:has-text(Help)
 outlook.office.com##div.groupContainer-187:has-text(/Discovergroups/i)
 
 
+! =============
+! NOTIFICATIONS
+! =============
+outlook.office.com##.f494woh.f1e31b4d.f1vgc2s3.f15twtuk.f1euv43f.___1uxlrft:has-text(/Fundrais/i)
 
 ! ==================
 ! INDIVIDUAL MESSAGE

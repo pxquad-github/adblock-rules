@@ -98,36 +98,39 @@ amazon.ca##.fresh-shoveler:has-text(/Books that you may like/i)
 amazon.ca##.fresh-shoveler:has-text(/Most wished for in/i)
 amazon.ca##.copilot-secure-display:has-text(Your browsing history)
 
+
 ! Top grid block
+amazon.ca###desktop-grid-6:has-text(Influencer)
 amazon.ca##.gw-auto-height.gw-card-layout:has-text("Shop Amazon Basics deals")
 amazon.ca##.a-cardui:has-text(Looking for a gift)
-amazon.ca###desktop-grid-4
-amazon.ca###desktop-grid-5
-amazon.ca###desktop-grid-2-AB
+! amazon.ca###desktop-grid-4
+! amazon.ca###desktop-grid-5
+! amazon.ca###desktop-grid-2-AB
 
 ! Middle grid block: Hide all the 'Continue shopping for', 'Explore more', 'Pick up where you left off' blocks on the mian page
-amazon.ca###desktop-btf-grid-1
-amazon.ca###desktop-btf-grid-2
-amazon.ca###desktop-btf-grid-3
-amazon.ca###desktop-btf-grid-4
-amazon.ca###desktop-btf-grid-5
-amazon.ca###desktop-btf-grid-6
-amazon.ca###desktop-btf-grid-7
-amazon.ca###desktop-btf-grid-8
-amazon.ca###desktop-btf-grid-9
-amazon.ca###desktop-btf-grid-10
-amazon.ca###desktop-btf-grid-11
-amazon.ca###desktop-btf-grid-12
-amazon.ca##hr.card-flow-row-break
+! amazon.ca###desktop-btf-grid-1
+! amazon.ca###desktop-btf-grid-2
+! amazon.ca###desktop-btf-grid-3
+! amazon.ca###desktop-btf-grid-4
+! amazon.ca###desktop-btf-grid-5
+! amazon.ca###desktop-btf-grid-6
+! amazon.ca###desktop-btf-grid-7
+! amazon.ca###desktop-btf-grid-8
+! amazon.ca###desktop-btf-grid-9
+! amazon.ca###desktop-btf-grid-10
+! amazon.ca###desktop-btf-grid-11
+! amazon.ca###desktop-btf-grid-12
+! amazon.ca##hr.card-flow-row-break
 
 ! Hero banner
 amazon.ca##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
 
 ! Prime video ad spot
 amazon.ca##._video-player_view_pvea-recommendation-card-wrapper__232n5
-amazon.ca##.gw-card-layout.gw-fixed-col.gw-col.a-spacing-none.a-section
+! amazon.ca##.gw-card-layout.gw-fixed-col.gw-col.a-spacing-none.a-section
 
-
+! Banners at the top of the Deals page
+amazon.ca##._Y29ud_bxcGridRow_Zu5i8
 
 ! ======
 ! KINDLE
