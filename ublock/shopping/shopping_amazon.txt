@@ -99,43 +99,54 @@ amazon.ca##.fresh-shoveler:has-text(/Most wished for in/i)
 amazon.ca##.copilot-secure-display:has-text(Your browsing history)
 
 
-! Top grid block
-amazon.ca###desktop-grid-1:has-text(Influencer)
-amazon.ca###desktop-grid-2:has-text(Influencer)
-amazon.ca###desktop-grid-3:has-text(Influencer)
-amazon.ca###desktop-grid-4:has-text(Influencer)
-amazon.ca###desktop-grid-5:has-text(Influencer)
-amazon.ca###desktop-grid-6:has-text(Influencer)
-amazon.ca###desktop-grid-7:has-text(Influencer)
+! May 27, 2025 https://www.amazon.ca
+amazon.ca##.gw-card-layout.gw-fixed-col:has-text(Workplace wellbeing deals)
+amazon.ca##.pd_rd_r-da10834e-189e-4de5-a01c-2db32f3a6329.pd_rd_w-N1rkX.pd_rd_wg-ATnkD.celwidget.desktop-gateway-atf_mission-cx-personalized-category-discovery-model-v2-single-widget_0
+amazon.ca###desktop-grid-4:has-text(Categories to explore)
+amazon.ca##.pd_rd_r-21ab910c-e52d-4ea5-b1f6-dc30ace28c76.pd_rd_w-Wd93A.pd_rd_wg-X7WYG.celwidget.desktop-gateway-atf_deals-s-recs-sims-saved
 
 
-amazon.ca##.gw-auto-height.gw-card-layout:has-text("Shop Amazon Basics deals")
-amazon.ca##.a-cardui:has-text(Looking for a gift)
-! amazon.ca###desktop-grid-4
-! amazon.ca###desktop-grid-5
-! amazon.ca###desktop-grid-2-AB
+! For the upper containers, this is the only one I will tolerate
+amazon.ca###desktop-grid-1:not(:has-text(Keep))
+amazon.ca###desktop-grid-2:not(:has-text(Keep))
+amazon.ca###desktop-grid-3:not(:has-text(Keep))
+amazon.ca###desktop-grid-4:not(:has-text(Keep))
+amazon.ca###desktop-grid-5:not(:has-text(Keep))
+amazon.ca###desktop-grid-6:not(:has-text(Keep))
+amazon.ca###desktop-grid-7:not(:has-text(Keep))
+amazon.ca###desktop-grid-8:not(:has-text(Keep))
 
-! Middle grid block: Hide all the 'Continue shopping for', 'Explore more', 'Pick up where you left off' blocks on the mian page
-! amazon.ca###desktop-btf-grid-1
-! amazon.ca###desktop-btf-grid-2
-! amazon.ca###desktop-btf-grid-3
-! amazon.ca###desktop-btf-grid-4
-! amazon.ca###desktop-btf-grid-5
-! amazon.ca###desktop-btf-grid-6
-! amazon.ca###desktop-btf-grid-7
-! amazon.ca###desktop-btf-grid-8
-! amazon.ca###desktop-btf-grid-9
-! amazon.ca###desktop-btf-grid-10
-! amazon.ca###desktop-btf-grid-11
-! amazon.ca###desktop-btf-grid-12
-! amazon.ca##hr.card-flow-row-break
+! For the main body and lower containers, this is the only one I will tolerate
+amazon.ca###desktop-btf-grid-1:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-2:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-3:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-4:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-5:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-6:not(:has-text(Shop all deals))
+amazon.ca###desktop-1:not(:has-text(Shop all deals))
+amazon.ca###desktop-2:not(:has-text(Shop all deals))
+amazon.ca###desktop-3:not(:has-text(Shop all deals))
+amazon.ca###desktop-4:not(:has-text(Shop all deals))
+amazon.ca###desktop-5:not(:has-text(Shop all deals))
+amazon.ca###desktop-6:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-1:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-2:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-3:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-4:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-5:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-6:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-7:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-8:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-9:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-10:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-11:not(:has-text(Shop all deals))
+amazon.ca###desktop-btf-grid-12:not(:has-text(Shop all deals))
 
 ! Hero banner
 amazon.ca##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
 
 ! Prime video ad spot
 amazon.ca##._video-player_view_pvea-recommendation-card-wrapper__232n5
-! amazon.ca##.gw-card-layout.gw-fixed-col.gw-col.a-spacing-none.a-section
 
 ! Banners at the top of the Deals page
 amazon.ca##._Y29ud_bxcGridRow_Zu5i8
