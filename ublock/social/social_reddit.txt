@@ -22,6 +22,23 @@ reddit.com##.nd\:visible > .h-\[40px\].w-\[40px\].relative > .contents.nd\:visib
 ! Left Menu
 reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-\[2\] > nav > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
 reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
+reddit.com##reddit-recent-pages
+reddit.com###RESOURCES > faceplate-tracker:has-text(Advertise)
+reddit.com###RESOURCES > faceplate-tracker:has-text(Resources)
+reddit.com###RESOURCES > faceplate-tracker:has-text(Reddit Pro)
+reddit.com###RESOURCES > faceplate-tracker:has-text(About Reddit)
+reddit.com###RESOURCES > faceplate-tracker:has-text(Help)
+reddit.com###RESOURCES > faceplate-tracker:has-text(Blog)
+reddit.com###RESOURCES > faceplate-tracker:has-text(Careers)
+reddit.com###RESOURCES > faceplate-tracker:has-text(Press)
+reddit.com###RESOURCES
+reddit.com##.contents > left-nav-topic-tracker:has-text(Sports)
+reddit.com##.contents > left-nav-topic-tracker:has-text(Fashion)
+reddit.com##.contents > left-nav-topic-tracker:has-text(Anime)
+reddit.com##.contents > left-nav-topic-tracker:has-text(Arts)
+
+! Collapse menu button
+reddit.com###flex-nav-collapse-button
 
 ! Popular communities
 www.reddit.com##.mb-0.box-border.py-md:has-text(/popular communities/i)
@@ -37,3 +54,9 @@ reddit.com##div.text-neutral-content-weak:has-text(User flair)
 
 ! Reddit community size ranking
 reddit.com##.items-start.flex-col.flex.directory-link
+
+! Right hand bar
+reddit.com##.flex-auto.right-sidebar-contents
+
+! Footer
+reddit.com##.mb-md.mx-md.flex.justify-self-end.legal-links
