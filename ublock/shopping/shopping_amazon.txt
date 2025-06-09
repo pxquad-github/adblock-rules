@@ -230,6 +230,16 @@ amazon.ca##.a-button-primary:has-text(Buy it again)
 ! Hide things we got for free ($0.00)
 amazon.ca##div.js-order-card.order-card:has-text(/\$0.00/i)
 
+
+! =====
+! DEALS
+! =====
+
+! Banner blocks on the deals pageyes
+amazon.ca##.dcl-container-inner:has-text(Deals related to items)
+amazon.ca##.dcl-container-inner:has-text(Continue shopping deals)
+
+
 ! ====
 ! CART
 ! ====
