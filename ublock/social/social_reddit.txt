@@ -32,6 +32,7 @@ reddit.com###RESOURCES > faceplate-tracker:has-text(Blog)
 reddit.com###RESOURCES > faceplate-tracker:has-text(Careers)
 reddit.com###RESOURCES > faceplate-tracker:has-text(Press)
 reddit.com###RESOURCES
+reddit.com##.font-normal > faceplate-tracker:has-text(/Resources/i)
 reddit.com##.contents > left-nav-topic-tracker:has-text(Sports)
 reddit.com##.contents > left-nav-topic-tracker:has-text(Fashion)
 reddit.com##.contents > left-nav-topic-tracker:has-text(Anime)

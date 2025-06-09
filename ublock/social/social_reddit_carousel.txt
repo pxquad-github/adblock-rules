@@ -457,3 +457,4 @@ reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rou
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/topcharactertropes/i)
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/calamitymod/i)
 reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/witchesvspatriarchy/i)
+reddit.com##faceplate-tracker.shrink-0.list-none.inline-flex.overflow-hidden.rounded-\[16px\].mr-md:has-text(/r\/zelda/i)

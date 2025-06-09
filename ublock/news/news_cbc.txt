@@ -27,6 +27,7 @@ cbc.ca##.nav-shows.subNavLink.navLink
 cbc.ca##.nav-articles.subNavLink.navLink
 cbc.ca##.nav-video.subNavLink.navLink
 cbc.ca##.nav-about-cbc-arts.firstItem.subNavLink.navLink
+cbc.ca##.type-primary-Rc3NU:has-text(Sports)
 
 ! Menu popout
 cbc.ca##.hasSubsection.mainMenuItem.nav-discover-cbc
@@ -48,6 +49,7 @@ cbc.ca##.hasSubsection.mainMenuItem.nav-more
 
 ! Footer
 cbc.ca##.sclt-footer.globalFooter
+cbc.ca##.sclt-section18:has-text(News in 7 Languages)
 
 ! Sections to turf
 cbc.ca##.playlistSwimlane
@@ -73,6 +75,9 @@ cbc.ca##.cardDefault.card:has-text(/Short Docs/i)
 cbc.ca##.cardDefault.card:has-text(/Quirks & Quarks/i)
 cbc.ca##.cardDefault.card:has-text(/CBC KIDS NEWS/i)
 cbc.ca###card-1\.7437951:has-text(/Listen/i)
+cbc.ca##.shortsWidget-E7kwG
+cbc.ca##.sclt-section0:has-text(Explore all of CBC)
+
 
 
 

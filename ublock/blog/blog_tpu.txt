@@ -62,3 +62,16 @@ techpowerup.com##.addcase-button
 
 ! Any of the databases pages
 techpowerup.com##.changes
+
+
+! Stories that I have no interest in
+techpowerup.com##article.newspost:has-text(Xbox)
+techpowerup.com##article.newspost:has-text(Capcom)
+techpowerup.com##article.newspost:has-text(Call of Duty)
+techpowerup.com##article.newspost:has-text(Mortal Kombat)
+techpowerup.com##article.newspost:has-text(Intel Arc GPU Graphics Drivers)
+techpowerup.com##article.newspost:has-text(Razer)
+techpowerup.com##article.newspost:has-text(Sony Interactive Entertainment)
+techpowerup.com##article.newspost:has-text(Nintendo)
+techpowerup.com##article.newspost:has-text(GeForce NOW)
+techpowerup.com##article.newspost:has-text(Skullcandy)

@@ -45,9 +45,11 @@ creditkarma.ca##.css-1nbrgf1
 
 ! Main ad block
 creditkarma.ca##.e1wnb2cb0.css-1ocyozw
+creditkarma.ca##.en9vtv70.css-1wm6wr3:has-text(/Rewards/i)
 
 ! Disclaimer
 creditkarma.ca##.en9vtv70.css-1ksbkpl
+creditkarma.ca###disclosure
 
 ! Removing stupid menu entries
 creditkarma.ca##a.e6n4x3c1.css-m4wwpm:has-text(Cards)
