@@ -72,6 +72,7 @@ amazon.ca##a.nav-a:has-text(Books)
 amazon.ca##a.nav-a:has-text(Sell)
 amazon.ca##a.nav-a:has-text(New Releases)
 amazon.ca##a.nav-a:has-text(Beauty & Personal Care)
+amazon.ca##.nav-rufus-disco
 
 ! Today's deals category buttons
 amazon.ca##li.a-carousel-card:has-text(Beauty)
