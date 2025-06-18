@@ -1,0 +1,34 @@
+! =================================================================================================================
+! BLOG_TPU_POSTS
+! This will allow me to bulk filter out TPU posts I don't care for
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =================================================================================================================
+
+
+! Stories that I have no interest in
+techpowerup.com##article.newspost:has-text(Xbox)
+techpowerup.com##article.newspost:has-text(Capcom)
+techpowerup.com##article.newspost:has-text(Call of Duty)
+techpowerup.com##article.newspost:has-text(Mortal Kombat)
+techpowerup.com##article.newspost:has-text(Intel Arc GPU Graphics Drivers)
+techpowerup.com##article.newspost:has-text(Razer)
+techpowerup.com##article.newspost:has-text(Sony Interactive Entertainment)
+techpowerup.com##article.newspost:has-text(Nintendo)
+techpowerup.com##article.newspost:has-text(GeForce NOW)
+techpowerup.com##article.newspost:has-text(Skullcandy)
+techpowerup.com##article.newspost:has-text(Edifier)
+techpowerup.com##article.newspost:has-text(TenZ)
+techpowerup.com##article.newspost:has-text(HiBy)
+techpowerup.com##article.newspost:has-text(Gaming Handheld)
+techpowerup.com##article.newspost:has-text(macOS)
+techpowerup.com##article.newspost:has-text(Jurassic World)
+techpowerup.com##article.newspost:has-text(Netmarble)
+techpowerup.com##article.newspost:has-text(/Curved Monitor/i)
+techpowerup.com##article.newspost:has-text(Intel Arc)
+techpowerup.com##article.newspost:has-text(nubia)
+techpowerup.com##article.newspost:has-text(Z890)
+techpowerup.com##article.newspost:has-text(NyPhy)
+techpowerup.com##article.newspost:has-text(/KDE Releases/i)
+techpowerup.com##article.newspost:has-text(/IMPACT 100 Headset/i)
+techpowerup.com##article.newspost:has-text(/SKILLER SGK/i)

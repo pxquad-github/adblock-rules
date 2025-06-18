@@ -1,0 +1,10 @@
+! ==============================================================================
+! SOCIAL_YOUTUBE_SHORTS (https://www.youtube.com/)
+! A specific rule to block shorts so I could, theoretically, toggle this on/off
+! should the need arise
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==============================================================================
+
+! Block all Shorts
+youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has-text(SHORTS)

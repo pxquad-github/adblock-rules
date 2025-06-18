@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ub
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/blog/blog_toolcraze.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/blog/blog_toolguyd.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/blog/blog_tpu.txt
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/blog/blog_tpu_posts.txt
 
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/cloud/cloud_dropbox.txt
 
@@ -63,3 +64,6 @@ https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ub
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_reddit_story.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_teams.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube.txt
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube_channels.txt
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube_search.txt
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube_shorts.txt

@@ -1,0 +1,13 @@
+! ==============================================================================
+! SOCIAL_YOUTUBE_CHANNELS (https://www.youtube.com/)
+! Here, we can block channels that are just AI-generated, product-puke. This
+! rule set specifically deals with channel listings
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! ==============================================================================
+
+youtube.com##ytd-rich-item-renderer:has-text(Tech Zones)
+youtube.com##ytd-rich-item-renderer:has-text(Cloud Nine Crew)
+youtube.com##ytd-rich-item-renderer:has-text(The Product Critiques)
+youtube.com##ytd-rich-item-renderer:has-text(/Success_udaan/i)
+youtube.com##ytd-rich-item-renderer:has-text(/Luxfy/i)

@@ -62,28 +62,3 @@ techpowerup.com##.addcase-button
 
 ! Any of the databases pages
 techpowerup.com##.changes
-
-
-! Stories that I have no interest in
-techpowerup.com##article.newspost:has-text(Xbox)
-techpowerup.com##article.newspost:has-text(Capcom)
-techpowerup.com##article.newspost:has-text(Call of Duty)
-techpowerup.com##article.newspost:has-text(Mortal Kombat)
-techpowerup.com##article.newspost:has-text(Intel Arc GPU Graphics Drivers)
-techpowerup.com##article.newspost:has-text(Razer)
-techpowerup.com##article.newspost:has-text(Sony Interactive Entertainment)
-techpowerup.com##article.newspost:has-text(Nintendo)
-techpowerup.com##article.newspost:has-text(GeForce NOW)
-techpowerup.com##article.newspost:has-text(Skullcandy)
-techpowerup.com##article.newspost:has-text(Edifier)
-techpowerup.com##article.newspost:has-text(TenZ)
-techpowerup.com##article.newspost:has-text(HiBy)
-techpowerup.com##article.newspost:has-text(Gaming Handheld)
-techpowerup.com##article.newspost:has-text(macOS)
-techpowerup.com##article.newspost:has-text(Jurassic World)
-techpowerup.com##article.newspost:has-text(Netmarble)
-techpowerup.com##article.newspost:has-text(/Curved Monitor/i)
-techpowerup.com##article.newspost:has-text(Intel Arc)
-techpowerup.com##article.newspost:has-text(nubia)
-techpowerup.com##article.newspost:has-text(Z890)
-techpowerup.com##article.newspost:has-text(NyPhy)
