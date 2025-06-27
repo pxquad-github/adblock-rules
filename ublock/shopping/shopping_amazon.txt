@@ -106,6 +106,8 @@ amazon.ca##.pd_rd_r-da10834e-189e-4de5-a01c-2db32f3a6329.pd_rd_w-N1rkX.pd_rd_wg-
 amazon.ca###desktop-grid-4:has-text(Categories to explore)
 amazon.ca##.pd_rd_r-21ab910c-e52d-4ea5-b1f6-dc30ace28c76.pd_rd_w-Wd93A.pd_rd_wg-X7WYG.celwidget.desktop-gateway-atf_deals-s-recs-sims-saved
 
+! Random blocks for special events
+amazon.ca##.gw-card-layout.gw-fixed-col:not(:has-text(Keep))
 
 ! For the upper containers, this is the only one I will tolerate
 amazon.ca###desktop-grid-1:not(:has-text(Keep))
@@ -142,6 +144,7 @@ amazon.ca###desktop-btf-grid-9:not(:has-text(Shop all deals))
 amazon.ca###desktop-btf-grid-10:not(:has-text(Shop all deals))
 amazon.ca###desktop-btf-grid-11:not(:has-text(Shop all deals))
 amazon.ca###desktop-btf-grid-12:not(:has-text(Shop all deals))
+amazon.ca##.gw-auto-height.gw-card-layout:not(:has-text(Shop all deals))
 
 ! Hero banner
 amazon.ca##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
