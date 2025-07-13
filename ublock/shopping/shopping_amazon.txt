@@ -239,9 +239,14 @@ amazon.ca##div.js-order-card.order-card:has-text(/\$0.00/i)
 ! DEALS
 ! =====
 
-! Banner blocks on the deals pageyes
+! Banner blocks on the deals pages
 amazon.ca##.dcl-container-inner:has-text(Deals related to items)
 amazon.ca##.dcl-container-inner:has-text(Continue shopping deals)
+
+! Random galleries and 'shop now' in the deals page
+amazon.ca##.GridItem-module__remoteContentContainer_ymiGkvMEWVEuR0ms2DVe
+amazon.ca##.GridRow-module__remoteContentContainer_v6yj7EBU09SkoN9QQamg
+
 
 
 ! ====
