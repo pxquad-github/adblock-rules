@@ -7,4 +7,9 @@
 ! ==============================================================================
 
 ! Block all Shorts
+
+! This is from the main page
 youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has-text(SHORTS)
+
+! From search results
+youtube.com##grid-shelf-view-model:has-text(Shorts)
