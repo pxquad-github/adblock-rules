@@ -63,3 +63,13 @@ youtube.com###comments
 
 ! Transcript button
 youtube.com##ytd-video-description-transcript-section-renderer
+
+
+
+! ================================
+! SPECIAL BLOCKS ON SEARCH RESULTS
+! ================================
+youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Top Picks:)
+youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Ultimate Guide:)
+youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Reviews & Recommendations)
+youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Reviewed & Compared)
