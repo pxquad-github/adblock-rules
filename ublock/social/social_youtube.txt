@@ -38,7 +38,7 @@ youtube.com##[href="https://developers.google.com/youtube"]
 youtube.com##[href="/t/terms"]
 youtube.com##[href="https://youtube.com/about/policies/"]
 youtube.com##[href^="https://youtube.com/howyoutubeworks"]
-alread##[href="https://www.google.com/accessibility/get-in-touch/"]
+youtube.com##[href="https://www.google.com/accessibility/get-in-touch/"]
 youtube.com##[href="/t/privacy"]
 youtube.com##[href="https://youtube.com/ads/"]
 
@@ -68,8 +68,12 @@ youtube.com##ytd-video-description-transcript-section-renderer
 
 ! ================================
 ! SPECIAL BLOCKS ON SEARCH RESULTS
+! When you do a search (say "best drills"), YouTube likes to add random blobs of "Helpful Videos" or "Buying Guides" etc
+! mixed in the search results, we can slowly purge this crap
 ! ================================
 youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Top Picks:)
 youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Ultimate Guide:)
 youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Reviews & Recommendations)
 youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Reviewed & Compared)
+youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Brands & Buying Tips)
+youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Power & Performance)
