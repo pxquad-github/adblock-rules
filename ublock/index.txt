@@ -67,4 +67,4 @@ https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ub
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube_channels.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube_search.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube_shorts.txt
-https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube_subscriptions
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/social/social_youtube_subscriptions.txt
