@@ -61,3 +61,9 @@ reddit.com##.flex-auto.right-sidebar-contents
 
 ! Footer
 reddit.com##.mb-md.mx-md.flex.justify-self-end.legal-links
+
+! Some crap on individual posts
+reddit.com##.xs\:overflow-x-hidden
+reddit.com###-post-rtjson-content
+reddit.com##.px-2xs.relative
+reddit.com##.pl-xs.items-center.flex
