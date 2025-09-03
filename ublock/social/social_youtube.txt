@@ -77,3 +77,9 @@ youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Reviews & 
 youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Reviewed & Compared)
 youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Brands & Buying Tips)
 youtube.com##grid-shelf-view-model.ytd-item-section-renderer:has-text(Power & Performance)
+
+
+! ==============================
+! SPECIAL TYPES OF VIDEO entries
+! ==============================
+youtube.com##.lockup.ytd-rich-item-renderer:has-text(Fundraiser)

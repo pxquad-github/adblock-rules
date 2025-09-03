@@ -21,6 +21,9 @@ techpowerup.com##.page > .s-
 techpowerup.com##.frontpage-extra
 techpowerup.com##.patreon-previews
 
+! Author/Press Release/News etc
+techpowerup.com##.byline
+
 ! Poll
 techpowerup.com##.newspoll_btn.jsonly
 

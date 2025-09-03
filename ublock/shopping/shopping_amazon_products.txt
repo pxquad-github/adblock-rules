@@ -3160,3 +3160,4 @@ amazon.ca##div.GridItem-module__container_PW2gdkwTj1GQzdwJjejN:has-text(/SA510 S
 amazon.ca##div.GridItem-module__container_PW2gdkwTj1GQzdwJjejN:has-text(/curved gaming/i)
 amazon.ca##div.GridItem-module__container_PW2gdkwTj1GQzdwJjejN:has-text(/pride premium lightweight clumping/i)
 amazon.ca##div.GridItem-module__container_PW2gdkwTj1GQzdwJjejN:has-text(/goose feather/i)
+amazon.ca##div.GridItem-module__container_PW2gdkwTj1GQzdwJjejN:has-text(/sony zv-1/i)
