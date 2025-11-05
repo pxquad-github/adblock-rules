@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ub
 
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/cloud/cloud_dropbox.txt
 
+https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/life/glassdoor.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/life/credit_borrowell.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/life/credit_creditkarma.txt
 https://raw.githubusercontent.com/pxquad-github/adblock-rules/refs/heads/main/ublock/life/insurance_equitable.txt

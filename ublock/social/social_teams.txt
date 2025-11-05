@@ -38,3 +38,11 @@ teams.microsoft.com##.f1ozlkrg.f10ostut.f1deotkl.f1krrbdw.f1xqy1su.f1tx4pjd.fj23
 
 ! Grid button and Teams logo
 teams.microsoft.com##.f2ht21.fmihtst.fmg4s26.f1joal8y.f1l02sjl.fly5x3f.f122n59.f22iagw.___5xe3eb0.fui-Flex
+
+
+
+! =======
+! GENERAL
+! =======
+! Hide the stupid loading screen
+teams.microsoft.com###loading-screen

@@ -32,6 +32,11 @@ borrowell.com##.efjsji40.css-wdn0gy
 borrowell.com##.efjsji40.css-1jzezfl
 borrowell.com##.efjsji40.css-3xeutl
 
+! Loading dialog crap
+borrowell.com##.bg-bm-default-light.root-container > gs-spinner > div > .loader-overlay
+borrowell.com##.ng-star-inserted.mat-progress-spinner-indeterminate-animation.mat-primary.mat-progress-spinner.mat-spinner .ng-star-inserted
+borrowell.com##.ng-star-inserted.mat-progress-spinner-indeterminate-animation.mat-primary.mat-progress-spinner.mat-spinner > svg
+
 ! Clean up the login page (https://secure.borrowell.com/Account/Login)
 borrowell.com##.splash-container
 

@@ -1,0 +1,9 @@
+! =================================================================================================================
+! GLASSDOOR
+!
+! Note: the /<text>/i notation makes the text case insensitive.
+! =================================================================================================================
+
+glassdoor.ca##.hardsell
+glassdoor.ca##.hardsellContainer
+glassdoor.ca##.hardsellOverlay
